@@ -5,13 +5,13 @@
     <description>To improve is to change, to be perfect is to change often</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Aug 2018 11:08:19 -0400</pubDate>
-    <lastBuildDate>Sun, 19 Aug 2018 11:08:19 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Sun, 19 Aug 2018 16:29:55 -0400</pubDate>
+    <lastBuildDate>Sun, 19 Aug 2018 16:29:55 -0400</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>影评 Abacus: Small enough to jail</title>
-        <description>&lt;h2 id=&quot;影评abacus-small-enough-to-jail&quot;&gt;影评：Abacus: Small Enough to Jail&lt;/h2&gt;
+        <description>&lt;!-- ## 影评：Abacus: Small Enough to Jail --&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;无意之间发现了这个电影，看介绍就觉得会很喜欢，看完之后果真很喜欢，看了两遍，感触很多，推荐大家去看。amazon prime 可以免费看。国内在bilibili上也能看到。&lt;/p&gt;
