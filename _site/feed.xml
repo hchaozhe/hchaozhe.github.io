@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaozhe's Blog</title>
+    <description>To improve is to change, to be perfect is to change often</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 19 Aug 2018 11:08:19 -0400</pubDate>
+    <lastBuildDate>Sun, 19 Aug 2018 11:08:19 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>影评 Abacus: Small enough to jail</title>
+        <description>&lt;h2 id=&quot;影评abacus-small-enough-to-jail&quot;&gt;影评：Abacus: Small Enough to Jail&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;无意之间发现了这个电影，看介绍就觉得会很喜欢，看完之后果真很喜欢，看了两遍，感触很多，推荐大家去看。amazon prime 可以免费看。国内在bilibili上也能看到。&lt;/p&gt;
+
+&lt;p&gt;目前该片已经获得第90届奥斯卡&lt;a href=&quot;http://oscar.go.com/nominees/documentary-feature&quot;&gt;最佳记录长片&lt;/a&gt;提名，希望它最终能获奖。&lt;/p&gt;
+
+&lt;p&gt;结合写这个片子的感受，我也可以梳理一些我对美国体制的认识，对美国华人处境的观察与思考。&lt;/p&gt;
+
+&lt;p&gt;预告：本文有剧透&lt;/p&gt;
+
+&lt;!--![国宝银行：小不可欺](http://www-personal.umich.edu/~hchaozhe/images/Abacus/Poster.jpg) --&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Abacus/Poster.jpg&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h4 id=&quot;故事简介&quot;&gt;故事简介&lt;/h4&gt;
+
+&lt;p&gt;这个记录片记录了纽约唐人街孙氏家族开办的小银行国宝银行，在被美国纽约曼哈顿地方检察院指控长期系统性的对房利美公司进行贷款欺诈后，经过努力最终成功进行无罪辩护的故事。&lt;/p&gt;
+
+&lt;p&gt;国宝银行由孙启诚创立，30多年来一直为唐人街的华人提供信贷服务。
+2009年12月的一天，管理银行日常事务的孙家两个女儿发现一位贷款人的交割协议中有一些奇怪的款项，随即发现银行处理信贷的雇员Ken Yu 收取贿赂并进行洗钱操作。她们终止了这笔贷款，开除了Ken，并告知监管部门，聘请第三方咨询帮助进行调查清算，然后处理了调查发现问题的人员和贷款。本以为此事就此结束了，但是失去贷款的贷款人因为自己对Ken的贿赂没追回，而向警署报了案子。曼哈顿地方检察院受理并着手开展调查。开始调查的关注点是银行信贷雇员的受贿洗钱，后来却逐渐转向调查国宝银行的信贷部门是否长期有默许甚至协助伪造贷款记录以骗取第三方房利美的贷款。
+在四年多的调查之后，检方认定国宝银行高层，包括孙启诚，他的两个女儿，以及信贷部门的主管，犯有金融欺诈等80项罪名，并于2015年初发起对国宝银行的诉讼。
+经过四个多月的庭审,陪审团最终认定检方提供的证据不充分，国宝银行高层们无罪。
+而引起本案的导火索Ken Yu及其他有犯罪情节的雇员欺诈罪名成立。
+国宝银行虽然得到了清白，却也付出了一千万美元的律师费，和信贷部门停滞的沉重代价。&lt;/p&gt;
+
+&lt;h4 id=&quot;关于案子的背景次贷危机&quot;&gt;关于案子的背景：次贷危机&lt;/h4&gt;
+
+&lt;p&gt;这个案子发生在2008年次贷危机之后不久。新世纪以来，片中的国宝银行像很多的美国大小银行一样，会把自己的房屋抵押贷款打包成金融产品卖给房利美和房地美（两房）。我个人不能理解这种买卖行为对房利美有什么好处，房利美怎么盈利。而根据经济学家的解释，很多的大银行批准的过多的不良贷款（所谓的次级贷款，即“次贷”），并且还进行了贷款材料的造价，以便将买给两房以及其他的投资者。而为了隐藏风险，他们还设计了很多复杂的组合债券再销售。因为是次级贷款，并且经过了组合和多次买卖，有连带的债务关系，于是在宏观经济形势出现波动的时候，也就是2007开始，出现了大量的违约和坏账，经济危机就随之爆发了。&lt;/p&gt;
+
+&lt;p&gt;按照片中的数据，美国的几大银行，包括Morgan Stanley，Goldman Sachs，J.P.Morgan Chase，CitiCorp，总计发行了4.8万亿的的不良贷款。
+在经济危机爆发之后，大量的违约发生，因为数目庞大，让银行破产会引起巨大的社会动荡，于是美国政府在明知道这些银行的违法作为（包括不良贷款伪造文件，金融欺诈等等）但还是出资七千亿美元补上了窟窿，银行支付了一千多亿的罚款，然后这事儿就过去了，留下的是美国经济超过22万亿美元的损失。。&lt;/p&gt;
+
+&lt;p&gt;危机挺过去了，但是舆论和民间都对银行救市的举措很有怨言。
+因为毕竟在普通纳税人看起来就像是别人犯了错，却要自己来承担损失。
+因此在金融危机之后，美国的地方检察院有很多关于金融机构的刑事调查。
+然而，始终只有少数针对员工的起诉和定罪，却没有关于大银行整体的起诉。
+这么大量的不良贷款，怎么能让人不怀疑这是银行自上而下的有组织的犯罪？&lt;/p&gt;
+
+&lt;p&gt;于是，片中的国宝银行，成了金融危机后这一系列调查后，第一个，也是迄今为止唯一一个，被起诉的银行：一家在美国排名2651，只在纽约附近有六个支行，华人家庭经营，跟华人群体、小本经营者打交道的小银行。&lt;/p&gt;
+
+&lt;p&gt;那么国宝银行又干了多少大银行的勾当呢？同样按照片中的说法，从2005年到2010年，国宝银行大约3000起贷款卖给了房利美，其中仅有9起发生了违约，相对于那些大而未倒的大银行，贷款的数量，金额以及违约率都低得可以忽略不计。经过检方调查，他们在起诉中拿出了国宝银行30个卖给房利美的抵押贷款包含伪造的文件。伪造申请文件的事实，也成为了检方攻击的重点，认为这是主动伪造，隐藏风险，并且因为贷款卖给了房利美，因而构成了商业欺诈。&lt;/p&gt;
+
+&lt;p&gt;更重要的是，检方的指控不只是经受这些包含伪造信息的贷款的工作人员，而是因为认定这个是整个银行的高管到信贷部门都知情并纵容，而指控银行的高层，整个国宝银行有欺诈行为。
+正是这个就银行的指控，使这个案子备受瞩目。
+因此纽约曼哈顿地区检察官&lt;a href=&quot;https://en.wikipedia.org/wiki/Cyrus_Vance_Jr.&quot;&gt;Cyrus Vance&lt;/a&gt; 才会在发布会上有那么冠冕堂皇，升华意义式的讲话，似乎是宣告检方终于可以指控银行，指出制度的问题，避免类似事情发生，好似要给民众一个交代，对银行业“杀一儆百”。&lt;/p&gt;
+
+&lt;h4 id=&quot;关于案件审判与其暴露的制度问题&quot;&gt;关于案件审判与其暴露的制度问题&lt;/h4&gt;
+
+&lt;p&gt;应该说法律上讲，伪造贷款的文件的事情是坐实了，这也是为什么经手这些贷款的银行职员的伪造文件与欺诈都最终被定罪了。
+但是是否足够证明这种违规与欺诈是整个银行层面的，成为了案件的争论重点。&lt;/p&gt;
+
+&lt;p&gt;最终陪审团在控辩双方证据的呈现基础上，通过讨论，没有支持辩方对于银行作为整个机构的自上而下的欺诈的指控。&lt;/p&gt;
+
+&lt;p&gt;个人认为国宝银行能成功免于指控的重要因素有&lt;/p&gt;
+
+&lt;p&gt;（1）国宝银行的首席执行官与执行董事，孙家的女儿 Jill Sung与Vera Sung，在发现Ken Yu，那个触发整个案子的职员，有伪造文件，有违规操作，向贷款人所要贿赂之后，立即解雇了他，并且引入第三方的调查，告知房利美相关情况。这一点动摇了关于银行高层知晓并纵容这种伪造文件与欺诈的指控。&lt;/p&gt;
+
+&lt;p&gt;（2）辩方能够证明这些犯有欺诈罪名的职员在进行违法操作的时候有意隐瞒，不引起他们上司的注意。这证明是下级有故意对高管隐瞒的事实，若上级知情，为何要有意隐瞒？&lt;/p&gt;
+
+&lt;p&gt;（3）辩方证明了作为以贷款为生的房利美并没有发现贷款文件造假与违规的细节，所以即使国宝银行的审查机制没有发现这造假与违规，不能作为银行自上而下的知晓这些造价与违规的指控。&lt;/p&gt;
+
+&lt;p&gt;（4）辩方证明检方的这三十个包含伪造文件的贷款并没有给房利美造成任何损失，而且还在持续盈利。贷款也发挥了用处，让贷款人住上了房子。因此辩方向陪审团传达了，我们的行为没有造成实际危害的印象，增加了感情分。&lt;/p&gt;
+
+&lt;p&gt;这些使得陪审团认为指定国宝银行有罪的指控证据不足。
+我愿意相信国宝银行也真就是清白的，但是确实，辩方的证据也能够引起怀疑，而孙家到底真的是否有蓄意纵容，只有他们自己知道。&lt;/p&gt;
+
+&lt;p&gt;我很高兴这个案子国宝银行赢了，主要是因为担心他们输了带来的社会效应。
+这个国宝银行太小，也没有造成什么损失，如果指控成立，反而会降低公众对于制度调查的信心。
+这是与检方起诉的初衷相违背的。&lt;/p&gt;
+
+&lt;p&gt;在这个意义上说，我同意前纽约地检的官员&lt;a href=&quot;https://www.linkedin.com/in/neil-barofsky-85033745/&quot;&gt;Neil Barofsky&lt;/a&gt;的说法。像国宝银行的这些伪造文件的行为，本意是善良的，虽然是犯罪，但是不应该成为检方追查、惩罚的重点，而那些伪造文件，是为了盗窃财富，而且没有还钱的能力甚至意图的，才应该成为审查、追查、惩罚的重点。
+他比喻前者的“善良”的犯罪之于严重经济犯罪，就像闯红灯基于交通肇事。
+当然应该有系统话的举措去防止这种“善良”的犯罪，但是司法追查的重点应该是那些恶意的。&lt;/p&gt;
+
+&lt;p&gt;我认为这个案子所暴露的最严重的启示，还不是检方追查恶意犯罪本身的努力，而是关于深层次美国制度的问题:
+为什么美国的经济/政治制度能够让大银行免于指控，而这样一个小银行却成为了被指控的对象？&lt;/p&gt;
+
+&lt;p&gt;我想起了我最喜欢的美剧Newsroom 里第一季第四集的一个情节，Newsnight的制片人让自己的当时男友，纽约地检的经济犯罪调查员向节目的主播爆料关于他们如何缺少经费，无法指控大银行的经济犯罪的，以期待报道。美剧情节当然不能算作新闻报道，但是也从影射了美国一个重要的制度问题。
+美国的法律体系是有利于大公司的。
+大公司有政治影响，可以通过通过政客通过对自己有利的法律。
+而经济犯罪涉及的法律很多很细，大公司有资本雇佣法务和律师团队，可以确保在法律层面上所有的账目，看起来合法，钻法律的空子。
+而当指控发生时，大公司的团队有能力把诉讼取证拖长，用手续和现有制度制造阻碍，进行辩护以确保做实的罪名不会联系到大公司主体。这是一整套从立法到司法的“作弊”手段。&lt;/p&gt;
+
+&lt;p&gt;这个制度的深层次原因恐怕还真不是这些检察官能解决的。&lt;/p&gt;
+
+&lt;p&gt;国宝银行能够获胜，重要的基础是孙家不是普通的华人家庭。
+他们有远高于一般人的法律素质和智慧，他们能一定程度上有效维护自己的权益，更是有一般人没有的经济实力。
+孙老爷子自己是律师出身，孙家四个女儿三个都有JD学位，小女儿还在纽约地检干了七年，专门调查经济案件，直到孙家的诉讼开始才为了避嫌从地检辞职。
+孙家的诉讼花费超过一千万美元，这对大部分人来说是天文数字。
+而据罗辑思维的说法，美国去年的律师费所创造的GDP高达1万亿美元，占到了总GDP的6%，而中国的律师也总收入仅为400亿人民币。且不说这两个数字有多大可比性。如果不愿意相信美国人真的有那么多的案子可打，只能相信司法的成本高到什么地步了。。&lt;/p&gt;
+
+&lt;p&gt;我不敢肯定的同意电影里多人所说的检方挑国宝银行有基于能打赢的考虑。
+但是鉴于这个制度的漏洞，想必纽约地方检察院，也就只能指控这么个国宝银行了吧。&lt;/p&gt;
+
+&lt;!-- “If we had learned anything from the recent mortgage crisis, it's that at some point these schemes unravel and taxpayers can be left holding the bag。”--&gt;
+
+&lt;h4 id=&quot;关于美国的司法制度的体会&quot;&gt;关于美国的司法制度的体会&lt;/h4&gt;
+
+&lt;p&gt;这个片子我很喜欢的一点是它呈现了一些美国司法的细节。有关法庭的比如控辩双方的开场陈词，提审证人的片段，陪审团的闭门商议，法官的总结陈词。有关诉讼的比如取证调查，各方意见陈述，策略的讲解，算是比较生动的呈现了一个案件的相关努力。让我感觉最有趣的是两点。&lt;/p&gt;
+
+&lt;p&gt;一个是陪审团制度的作用。陪审团是普通民众，不一定具备专业的法律知识，他们根据双方提供的证据以及辩护来做出的理性判断。这让司法体制还不至于完全由检方主导。事实上，我认为，如果完全由专业人士，比如法官，来定罪，那么犯罪的事实很可能会让指控最终成立，尤其是我之前提到的获胜原因第四条，即最终没有社会影响，能起一定的感情上的影响陪审团。&lt;/p&gt;
+
+&lt;p&gt;另一个有意思的是&lt;a href=&quot;https://www.douban.com/note/217120406/&quot;&gt;法庭速写&lt;/a&gt;。美国的法庭大多不许照相录像，大部分允许速写，于是就经常能看见新闻中陈述案件的时候会有速写。这个片子里也用到了速写来呈现案子现场。我觉得速写的画风很奇特，并不完全写实，但是却能刻画出现场的气氛，以及人物在法庭上的表情/心里，一张速写可以概括一整次开庭的重点，这个是照片所不能概括的。也许这就是为什么个法庭速写还是被保留。&lt;/p&gt;
+
+&lt;h4 id=&quot;关于美国的华人社群&quot;&gt;关于美国的华人社群&lt;/h4&gt;
+&lt;p&gt;某种程度上说，这个案子的争议点，案件关于伪造贷款材料的指控，昭示了华人文化的独特性。&lt;/p&gt;
+
+&lt;p&gt;首先是对于来自亲戚朋友的钱是赠予与贷款的模糊区别。辩方认为大笔的钱流入实际是贷款，是债务，被当作赠予某种程度上就是伪造材料。&lt;/p&gt;
+
+&lt;p&gt;其次，现金经济，收入很多不明，因此无法证明真正的还款能力。于是只能伪造雇佣证明，财产证明，来证明实质上合法的，只是没上报的所得。辩方因此可以指控这是伪造身份，财务证明。&lt;/p&gt;
+
+&lt;p&gt;再次，是建立在人情上的信任。无形的信任。我们生活中很多时候私人的债务，是建立在口头信任之上的，背后是靠人际，圈子，宗族来维系，是无形的信任。我们的银行习惯很大程度上也继承了这种模式。这样的信任很难量化，因此没法量化风险。但是熟悉这种华人文化的华人银行，就可以比较可靠的量化风险，来提供贷款。正因为这种不同，检方才认为国宝银行是在冒很大的风险，并且还把这种高风险转给了房利美，系违法行为。&lt;/p&gt;
+
+&lt;p&gt;正如辩方孙家和他们的律师多次提到的，这些不符合美国人习惯的特征，在经济生活上其实是给华人带来负面影响，让其他美国人认为美国华人不守规矩。这确实是个问题。但只有华人才真正理解这些不同。&lt;/p&gt;
+
+&lt;p&gt;我觉得我没法评价这些美国华人的特征是不是好的。
+但可以肯定的是需要华人的银行去服务这个社群的金融需求，但也更需要相应的政策支持这种服务。&lt;/p&gt;
+
+&lt;p&gt;要解决我认为无外乎两种途径。要么积极参政，推动有相应的金融业务法律法规，适用于华人社群，从制度上认可这种多样性。要么，就只能按照现有的规矩，交税报税，申报收入，公私分明，弱化人情，按现有法律允许的方式行事。&lt;/p&gt;
+
+&lt;h4 id=&quot;获奖预测&quot;&gt;获奖预测&lt;/h4&gt;
+&lt;p&gt;既然参评了奥斯卡，我也就来预测一下。我觉得这部影片获奖的机会很大。&lt;/p&gt;
+
+&lt;p&gt;首先这个片子的主题好。关于经济危机的反思一直都有，很重要，每年都有片子，但大多都是从银行的操作层面。本片更多的是试图暴露司法体系的漏洞，这一点更本质。拍摄的角度也是从律政的角度，比较独特。&lt;/p&gt;
+
+&lt;p&gt;其次，这个片子涉及了种族不平等的讨论，算是一个得分点，但是并没有过分强调种族歧视。最可以展开说种族歧视的情节就是检方抓银行职员时，是用罕见的锁链把所有人串成一串的方式，并且在没有遮蔽面部的情况下带走。
+而关于指控，强调了小，强调了家族经营，没有刻意强调华人不公正待遇。
+作为记录片，该片并没有展开这点大说特说，对种族的主题点到为止，不喧宾夺主。&lt;/p&gt;
+
+&lt;p&gt;再次，这个片子从宏观来看是一个小人物对抗大人物并最终成功的故事，比较励志，暗合美国梦，主旋律正确。&lt;/p&gt;
+
+&lt;p&gt;另外，考虑到去年发生在好莱坞的一系列丑闻，好莱坞可能更迫切的需要政治正确，格局大，反思社会但又不触及他们伤疤的作品。而这个片子的对手，其他四部片子，我认为都没有格局都没有这个大，得分点也没这个拿得多，本片主题对好莱坞的名声也没有那么“有害”。所以我觉得它胜出的概率比较大。&lt;/p&gt;
+
+&lt;p&gt;我主观上也希望他能获奖，以让这个片子，这个案子，背后的深层次原因，获得更多的关注。&lt;/p&gt;
+
+&lt;h4 id=&quot;有意思的番外&quot;&gt;有意思的番外&lt;/h4&gt;
+
+&lt;p&gt;（1）国宝银行的其中一位辩护律师 Kevin Puvalowski 是我密歇根的校友，他本科读的是政治学。他本科毕业的时候我还没有出生。。&lt;/p&gt;
+
+&lt;p&gt;（2）这个片子的导演拍这个片子的时候案件还在审理，没有宣判，因此是跟踪拍摄。据说导演表示不管孙家赢还是不赢都会把这个片子拍出来。&lt;/p&gt;
+
+&lt;p&gt;（3）演职人员表里有 Margaret Colin 和 Justin Deas 这两个演员，我反复看了，并没有找到他们出现在何处，我怀疑一些旁白，以及片中关于庭上辩论的陈述，是他俩完成的。&lt;/p&gt;
+
+&lt;p&gt;（4）根据wikipedia的词条，片中起诉国宝银行的纽约曼哈顿地区检察官Cyrus Vance 从2009年任职以来，有不少有争议的案件。除去起诉国宝银行这个本想证明检察系统在努力追责应行业的行动，他关于IMF前主席，法国人凯恩在纽约的性侵企图的指控与审判&lt;a href=&quot;https://en.wikipedia.org/wiki/New_York_v._Strauss-Kahn&quot;&gt;(Link)&lt;/a&gt;，关于川普家族成员在纽约的一处楼盘开发中的违规操作的指控，关于好莱坞制片人Harvey Weinstein的性侵指控 等都引起了公众媒体的争议/复杂评价。可见他也算是个话题人物。不过身为曼哈顿这个世界金融中心的地方检察官，相比不有争议话题都难吧。&lt;/p&gt;
+
+&lt;p&gt;（5）片中出现的 Don Lee（李宗保，据&lt;a href=&quot;https://www.linkedin.com/in/don-b-lee-%E6%9D%8E%E5%AE%97%E4%BF%9D-13246493/&quot;&gt;Linkedin&lt;/a&gt;） ，头衔是 Community Activist，不知道这个头衔意味着什么，也不知道他所管理的 Family Association 具体是什么。据报道他在2015年曾经参选过纽约地方议会65选区席位，后来貌似没有参选上。也许他是受到孙家案子的感召，想为当地的华人选民做点事吧。&lt;/p&gt;
+
+&lt;p&gt;（6）这个片子在知乎上有热烈的&lt;a href=&quot;https://www.zhihu.com/question/50873538&quot;&gt;讨论&lt;/a&gt;，关于这个片子，关于这个案子，关于华人，正反意见都有很多，也各有各的道理。其实什么问题都有多角度的意见比较好，这样的争论能让真理愈来愈明。&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 24 Feb 2018 09:33:30 -0500</pubDate>
+        <link>http://localhost:4000/2018/02/24/abacus.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/02/24/abacus.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>从Football看美国</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;来美国快六年了，说对美国知根知底不敢，但是对这个国家也知道了不少，神秘退却，是一个真实生动的国家。&lt;/p&gt;
+
+&lt;p&gt;一直想写写关于美国的认识和了解。但是这是一个大国，像中国一样，不知道从哪里说起。
+直到最近两年，开始接触体验Football（关于翻译，我打算采用美式足球，以下），这个美国第一运动，才发现这是一个很好的角度。&lt;/p&gt;
+
+&lt;p&gt;那么我就从这个运动的角度，说说我对美国的一些印象。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+&lt;p&gt;来美国之前我听说过橄榄球是美国的第一运动，也知道美国有四大体育联盟：美式足球（NFL），篮球（NBA），棒球（MLB）和冰球（NHL），都是商业运行的典范。
+之前这些运动我我只打过篮球，看NBA也比较多，对美国的了解也很多都是通过NBA的场上场下。现在我知道，这个黑人球员统治的联盟，其文化更多体现的只是美国的一个视角：美国黑人的文化视角。&lt;/p&gt;
+
+&lt;p&gt;NFL的总收入长期以来称霸这四个联盟，然而我们在国内NBA妇孺皆知，然而NFL或者橄榄球却是没人知道。这也许是因为美式足球没有那么普及。 以前我肤浅的以为这只是因为美式足球对力量，身体的要求太高，“太过暴力”，所以国人不喜欢。但是接触了一段时间之后，我发现美国人民喜欢而别的国家不太接受，实在是因为这项运动“太美国了”。&lt;/p&gt;
+
+&lt;h3 id=&quot;初窥美式足球&quot;&gt;初窥美式足球&lt;/h3&gt;
+
+&lt;p&gt;美式足球的场地大约是在一个跟足球一样大的场地进行的，长略长，宽略短。
+不同在于他有很多的线，标志距离，数字旁边的小箭头指示进攻方向，数字表示码数距离对应端区的距离。两端深色的区域是端区，达阵区，也是得分的地方之一。端区边缘的小段标志区表示球门，是另一个得分区域。这些细致的码数标示是美式足球的特色，与他的规则有很密切的关系。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/Field.png&quot; alt=&quot;球场&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;虽然看起来像足球，但初看这项运动，大家也许和我一样，以为美式足球都是这个样子的&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/PlayerPileUp.jpg&quot; alt=&quot;为什么大家要堆在一起&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;为什么大家要堆在一起&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/PlayerPileUp2.jpg&quot; alt=&quot;最下面那个不疼么&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最下面那个不疼么&lt;/p&gt;
+
+&lt;p&gt;但是实际上，大部分时候出现这种情况，一个回合就结束了，大家会被裁判分开。而比赛开始的时候，应该是这个样子，来大家都站好，再堆&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;来拉高一点看&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这个开始的站位就很有讲究 “Line of scrimmage”.攻防两拨人分别站在球所在位置的虚拟线，这个位置就是上一次进攻结束的位置。
+双方站好阵型，然后进攻开始，直到再到死球，双方再列队开始。如此往复。&lt;/p&gt;
+
+&lt;p&gt;很久之前我看过一个法律专栏的文章，把美国的法系与美式足球的规则做类比，主要是为了论述美国立法的精神其实是深入他们民心的。当时我不理解这个比喻，现在我理解了。&lt;/p&gt;
+
+&lt;p&gt;细致的阐述规则和战术，我做不到，这个不是本文的主旨。我想从几个侧面来谈谈美式足球的独特魅力，以及他所反映的美国文化特色。&lt;/p&gt;
+
+&lt;h3 id=&quot;美式足球是一个规则很细致的运动&quot;&gt;美式足球是一个规则很细致的运动&lt;/h3&gt;
+
+&lt;p&gt;美式足球给很多人的感觉，包括我没懂规则之前看的感觉，就是不知道他们在干什么，打打停停的，以开球就一堆人抱来抱去，撞来撞去。一会儿打，一会儿又踢上了，每次得分数量还不一样，实在是有点让人挠头，于是观赛的体验就大幅度降低。这主要就是因为橄榄球的规则很细致，术语挺多，很难像足球篮球那样三言两语就讲清楚。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%BC%8F%E8%B6%B3%E7%90%83&quot;&gt;维基百科美式足球中文词条&lt;/a&gt; 有浅显但是足够细致的规则讲解，强烈建议去看一看
+这里我就不展开说了。&lt;/p&gt;
+
+&lt;p&gt;总体来说，美式足球是从英式橄榄球改良而来，很多的规则有继承，演变，以及延伸，发展成为了今天的美式足球。&lt;/p&gt;
+
+&lt;p&gt;如果简答来说，橄榄球就是一拨进攻，一拨防守，进攻方要想尽办法把球由队员带过对方的底线，进入端区，称为达阵，这样得六分。或者在进攻得某个位置射门，把球踢进对方端区尽头的球门里，得三分。熟悉橄榄球的人知道这听起来更像英式的橄榄球。&lt;/p&gt;
+
+&lt;p&gt;但是要说到美式足球的最大不同，我要说是回合制（play）。回合制让美式足球有了自己的打法和特点，而他首先体现的就是规则的细致。&lt;/p&gt;
+
+&lt;h4 id=&quot;细说一下回合制&quot;&gt;细说一下回合制&lt;/h4&gt;
+
+&lt;p&gt;要细说回合制，我们要回到之前的一幅图 &lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这幅图里攻防两方摆好阵型准备开始，这就是一个回合的开始。
+在上一个回合结束的地方画一条虚拟的线，即前文提到的“Line of scrimmage”，开始前球放在这条线中点。比如图中的线就正好是在10码线上。&lt;/p&gt;
+
+&lt;p&gt;进攻防守的队员分别站在这条线两侧。回合开始之前双方球员不能越线。
+就比如下面这个俯视的示意图所示。双方各11名队员，按自己安排好的合规则的阵型站好，回合开始前不能越线。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/43BaseDefense.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;回合的开始不是裁判吹哨决定的，而是只要进攻的一方保证所有队员站定不动超过一秒，就可以开始进攻。进攻开始以进攻方最前线中间的队员，称为中锋，将球从地上拿起为开始。开始之后双方球员就开始进行“混战”（即所谓“scrimmage”）–互相擒抱，争抢。&lt;/p&gt;
+
+&lt;p&gt;正常的回合中接中锋传球的人一般为进攻的四分卫，他是进攻的核心，他一般执行传球，直接决定了这个球是自己带球向前冲，是递给另一个进攻球员（一般是跑锋,running back）以完成带球向前的操作，还是执行一次（只能执行一次）向前传球，一般是传球给。&lt;/p&gt;
+
+&lt;p&gt;说完进攻方，防守方在回合中的目标就是拦截（tackle）进攻的持球运动员的前进，或者阻挡甚至拦截前向传球。或者从进攻球员的手上把球抢下来。&lt;/p&gt;
+
+&lt;p&gt;回合什么时候结束呢？当有一方得分，或者当拦截发生使裁判认为进攻收了阻拦（一般是成功组织前进，把进攻队员抱倒），或者传递没能完成掉在了地上，或者持球队员出界时，回合就结束。&lt;/p&gt;
+
+&lt;p&gt;如果进行了前向传球但是未被任何人接到，那么回合结束的位置和开球的位置一样。
+如果未进行前向传球，或者前向传球成功，那么持球队员所持球的最后位置就是回合结束的位置。&lt;/p&gt;
+
+&lt;p&gt;在回合中可能回发生攻防身份转变，一般是攻防的传球（包括所有前向，后向，侧向的）被防守方抄截，或者进攻方球员手中的球掉了被防守方捡起。那么攻防立即就地转换。回合继续，直到终止条件满足。&lt;/p&gt;
+
+&lt;p&gt;每个回合进攻的目标就是向前推进，回合结束的位置要比开始的位置更靠近得分线。
+进攻方必须在四个回合（又叫档，down）之内推进10码。在四个回合之内一旦完成，会从新记为一档（first down），再次获得四次进攻回合的机会。
+如果打完四个回合都不能累计完成10码推进，那么在四次回合之后，原地转换攻防。
+因此，咋一般在第四个回合（4th down后）会选择射门得分，或者如果距离球门太远采取弃踢的方式让对方开始进攻的位置退后。&lt;/p&gt;
+
+&lt;p&gt;说到这里，回合的要点差不多就都点到了。想必大家已经看出，单单是一个回合，就有这么多的细节，开始前站法，开始条件，开始后传球方向，次数，球权转换的认定，结束的认定，就有很多的细节。&lt;/p&gt;
+
+&lt;p&gt;然而，我提到的这些只是梗概。事实上，从回合开始的站位，到传球时谁能接球，拦截球的动作规范，进攻或者防守队员阻挡他人的方式，都有非常细致的规定。而这些规定，更多的就会涉及到犯规了。
+我仅举一例，进攻时要求进攻线上不能站少于七名队员（总共又11名队员），
+否则将会被认为是一种违规阵式（illgeal formation）。也就是规则细致到了说连站位都要限制。&lt;/p&gt;
+
+&lt;p&gt;而且因为规则细致，在出现有争议的判罚时，当值的裁判会暂停比赛，反复观看录像，以便作出正确的判罚。&lt;/p&gt;
+
+&lt;p&gt;维基百科中“Penalty(gridiron football)” 词条中有一个章节列出了主要的犯规术语(&lt;a href=&quot;https://en.wikipedia.org/wiki/Penalty_(gridiron_football)#List_of_penalties[16]&quot;&gt;List of Penalties &lt;/a&gt;
+)
+这里还有一个一个很好的术语介绍网站
+&lt;a href=&quot;https://www.sportingcharts.com/NFL/dictionary/&quot;&gt;NFL Dictionary @ SportingCharts&lt;/a&gt;
+里面包括了很多与规则相关的术语。&lt;/p&gt;
+
+&lt;p&gt;回合制是规则细致的一个体现。
+而这种制定细致规则的特点，我认为是美国社会的一个缩影。
+美国的法律和和政治体制就有这个特点。美国议会遵照宪法制定议事规则，参加会议的各个代表按照共同利益组成党派/阵营，就像球队。议会的议事法则有很多的条条框框，法则条纹极为具体，并且再不断完善。于是议会的运转就是各个利益团体再规则之下制定策略，来推行有利于自己代表的利益集团的法案。通常是要多个回合，反复磋商较量才能达成，就像再球场上的回合一样。
+美国的司法也是很细致，甚至是案例为主导的体系，这就追加了更多的限制。控辩双方也有“回合”的感觉，循序渐进多次提审。&lt;/p&gt;
+
+&lt;p&gt;美国人这些在政治生活中的习惯，背后是他们处理公共事务的基本逻辑的体现。而这些基本逻辑很自然地，也就延伸到了球场上。&lt;/p&gt;
+
+&lt;!--向前传球是美式足球的改良，但是只能一次。--&gt;
+
+&lt;h3 id=&quot;美式足球是一个分工明确的运动&quot;&gt;美式足球是一个分工明确的运动&lt;/h3&gt;
+&lt;h4 id=&quot;凭什么能分工细致&quot;&gt;凭什么能分工细致？&lt;/h4&gt;
+&lt;p&gt;美式足球毕竟是集体运动，所以像很多的集体运动一样，分工就是一种很常见的办法。这样可以发挥每个队员的特长，让队员有具体的小任务，不至于手足无措，以更好的实现整体队伍的运作。
+事实上很多团体运动，比如世界三大球足球，篮球，排球等，都有位置和职责分工。
+美式足球也不例外。但是因为我前面所提到的规则的细致，但是它却把这一特点发挥到了极致，尤其是与足球和篮球相比。 与现在足球篮球的模糊化位置的趋势相比，橄榄球的位置感特强，并且并没有减少的趋势。这是为什么呢？&lt;/p&gt;
+
+&lt;p&gt;我认为这首先因为回合制。比赛以回合为进展，回合中的前进才有效，非回合时双方处于“暂停/休息”的状态，因此双方有换人的窗口。如果你熟悉篮球，那么美式足球的回合就相当于进攻和防守转换之间比赛要暂停一下。&lt;/p&gt;
+
+&lt;p&gt;回合之间虽然是可以换人的，但如果一直再走表，有时候从时间的角度换人就未必值得了。而另一个加剧分工明确的原因是停表以及暂停规则。
+和美国的很多运动一样，橄榄球的规则也有停表规则。常规比赛的时间为四节，每节15分钟。但是因为有停表的存在，一场比赛常规时间也会打上三到四个小时。而什么时候停表，什么时候开始计时，都有详细的规定。这里我就不细说了。停表的存在，给予了回合间换人留下了充足的时间。
+这两点规则保证有时间换。&lt;/p&gt;
+
+&lt;p&gt;有时间换人还不够，还需要能换，并且有人可换。
+美式足球的规则规则允许在非回合进行的时候换人，并且不加限制。而球队人数也保证换人可以实现。美国职业橄榄球队一支队有53名队员，而任何时候都只有11个人在场上。只因为可以整个队伍换上换下。&lt;/p&gt;
+
+&lt;h4 id=&quot;到底有多细&quot;&gt;到底有多细？&lt;/h4&gt;
+&lt;p&gt;说完了“有时间可换” 和 “有人可换”， 那我们就来看看美式足球分工有多细。&lt;/p&gt;
+
+&lt;p&gt;首先，橄榄球一个球队进攻，防守是两拨人，分别叫进攻组(offensive unit)，防守组(defensive unit)，除此之外还有一个专门在踢球和防守踢球的特勤组(Special team unit)。根据比赛进程和战术安排，场上只会有这三个组中的一个组在场上。而职业联赛几乎没有人进攻防，有少数人因为位置相似可能会同时打进攻和特勤组，或防守和特勤组。一个特例是我们密歇根16到17赛季的Jabrill Pepper,他有时候防守进攻都打，是因为他的能力实在太出众，体能也够充沛。&lt;/p&gt;
+
+&lt;p&gt;其次，即使是每一个组里，打每一个位置的人，都是固定的。当然为了战术多变，各个位置的人数会变化，这个时候一般是换人，而不是让人换位置。而且既然回合之间可以自由换人，那就更加没有让一个人长期打多个位置的必要，自然就更加注意场上位置的专业化。举两个极端的例子。&lt;/p&gt;
+
+&lt;p&gt;四分卫这个位置是进攻的大脑，一般也是球队的明星球员，因为他是进攻中球的分配者，在职业比赛和大部分的大学比赛里，他也是在每次进攻回合开始前布置战术的人。因此，这个人需要有大局观，冷静的右脑，敏捷的思维，以及最关键的，准确快速传球的能力。当然，为了能够避免被防守球员看穿，还需要有演技。这个人很好认，在回合开始前，他是那个左顾右盼，然后喊口号开始进攻的人。[Quarterback 的图]。&lt;/p&gt;
+
+&lt;p&gt;另一个例子是进攻的线卫，因为他们站在进攻线上，俗称line men 。他们的职责主要是在开球后保持住进攻线，防止对方防守队员冲进来干扰四分卫，以保证四分卫有比较充足的时间执行战术。一般进攻线上有五个这个样的人，他们很好认，因为他们一般人高马大，吨位很足，我相信很多人关于美式足球很暴力的印象一部分就来自于他们与防守队员之前的推搡和擒抱。[lineman 的图]
+他们的身躯决定了他们一般跑不快，而且看起来他们不直接参与进攻球的传递，除了他们中间的中锋负责在回合开始把球从地上发起来给四分卫以开始进攻。
+但是别小看这群大家伙，普遍认为他们可是整支球队里最聪明的人
+为什么呢？因为进攻和防守都有相应的既定战术，进攻和防守都有教练叫战术。而这群护卫则不完全要记战术。他们需要根据己方进攻战术，并阅读对方的防守战术，然后来决定自己的阻击策略。正式因为这样的原因，这帮大块头们往往也有大智慧，他们学生时代的成绩都比较好，即使以后不打职业，也都能够有比较需要脑力的工作。比如大学在宾州州立大学（PSU），职业在NFL 巴尔的摩乌鸦队，司职护卫和中锋的 John Urschel，就是他们中的佼佼者。他现在已经退役，在MIT数学系攻读博士学位。这里是他的主页，欢迎膜拜&lt;a href=&quot;http://math.mit.edu/~urschel/index.html&quot;&gt;http://math.mit.edu/~urschel/index.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.si.com/vault/2003/08/11/347727/the-smartest-players-in-football-they-may-look-like-big-slow-brutes-to-the-casual-fan-but-offensive-linemen-are-proving-on-and-off-the-field-that-they-possess-uncommon-intellect&quot;&gt;The Smartest Players in Football They may look like big, slow brutes to the casual fan, but offensive linemen are proving, on and off the field, that they possess uncommon intellect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.espn.com/espn/page2/story/_/page/glenesk%2F100226/sportCat/nfl&quot;&gt;Who wears the NFL’s smarty pants?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.espn.com/college-football/story/_/id/14453565/why-centers-smartest-guys-field&quot;&gt;Meet the smartest guys on the field&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;再怎么分工，好歹这些各司其职的位置出场的时间还是比较多的。而且足球场上也有类似的分工也还是有的。要说橄榄球分工的极致，不得不提特勤组里踢球的，有一个holder 的位置。你可能以为我说的是这个，[支架]
+其实我说的是这个人。他的任务就是就是在射门的时候接发球人传过来的的球，调整好角度，放在地上，扶稳，等待踢球的队员踢出去。看起来可能是很简单的动作，但是考虑到美式足球的球不是圆的，holder放球的好坏可以直接影响踢球质量。&lt;/p&gt;
+
+&lt;p&gt;某种意义上讲，这种分工细致与西方的古代战争很像，也许是脱胎与彼。我个人觉得这也是美国崇尚个性和个体的体现，只要你有一技之长，发挥到极致，你也会是集体里不可或缺的那一环。&lt;/p&gt;
+
+&lt;h3 id=&quot;美式足球是一个变化很多战术性很强的运动&quot;&gt;美式足球是一个变化很多，战术性很强的运动&lt;/h3&gt;
+
+&lt;p&gt;这么细致的规则，那是不是打法很受限制，比赛阵势会很死板啊？这个还真不是。规则并不总是因为着死板。
+打个不恰当的比方，唐诗是有严格的音律格式要求的，但是这并没有限制唐诗的繁荣；反过来，因为格式的限制，能驾驭这些限制的人往往很有水准。&lt;/p&gt;
+
+&lt;p&gt;美式足球也就是这个特点。&lt;/p&gt;
+
+&lt;p&gt;前文我提到了规则中的回合制，提到有暂停规则停表规则，还提到了换人和分工。这些都决定了美式足球有时间，也有队员保障，来布置和执行战术。
+比赛中，我们会看到，无论进攻还是防守，都有换人和布置战术的机会，所以有很大的设计和发挥的余地。临场指挥的教练，以及场上叫战术的四分卫，都会有比较细致的小抄，方便叫战术。[图] 怎么样，是不是想起了我们在美国考试带的小抄（注：美国考试是一般是允许带大小的小抄的）。&lt;/p&gt;
+
+&lt;p&gt;而且美式足球会有教练坐在高出，开出“上帝视角”，与场边的教练，并最终和场上的四分卫直接沟通，布置/商量战术。&lt;/p&gt;
+
+&lt;p&gt;那么战术都说写什么呢？[Michigan 片段]&lt;/p&gt;
+
+&lt;p&gt;简单来说，就是说回合开始后，进攻队员的跑动路线，以及潜在的传球路线。当然这个也是有套路的。我跟小伙伴在玩美式足球的时候，也学了一些基本的战术[图]。&lt;/p&gt;
+
+&lt;p&gt;都是很常用的战术，但是对于没有战术素养的我们已经足够用了。[图]&lt;/p&gt;
+
+&lt;p&gt;当然，运动一般都是有技战术的，但是想美式足球这样可以细致的制定和执行的恐怕是没有了。这当然还是得益于规则。&lt;/p&gt;
+
+&lt;h3 id=&quot;跟我有啥关系么&quot;&gt;跟我有啥关系么？&lt;/h3&gt;
+&lt;p&gt;橄榄球看起来这么专业，这么激烈，这么有技术含量，那跟我们有什么关系呢？
+的确，如果说比赛的规则方方面面都是生活的延伸，那么娱乐性从和而来呢？&lt;/p&gt;
+
+&lt;h4 id=&quot;美式足球是美式社交文化的助推器&quot;&gt;美式足球是美式社交文化的助推器&lt;/h4&gt;
+
+&lt;p&gt;也许有人会觉得，回合制虽然可能能打出战术变化，但是打打停停的结果会使比赛缺乏连贯性，不像是足球，90分钟的比赛除了中场休息，球总是在运转，连贯性很强，即使作为观众，也仿佛一刻都不能停歇。如果你也有这样的观察，那祝贺你，因为这又捕捉到了美式足球另一个很美国的地方。看球的时候，大家可以不只专注于比赛，伴随着比赛的打打停停，观众们也可以看看，聊聊，不错过比赛。看球的聚会，因此成为很常见的聚会。美国对看球的聚会有个叫法叫Tailgate party，Tailgate 指的是皮卡车的后斗门，Tailgate party就是指这种直接在车上，在体育场附近停车场就地搞起的看球聚会，通常发生在比赛时，赛前赛后居多。
+如我前面所说，美式足球的打法是打打停停，恰好有助于美国人社交。 Tailgate party就是一个衍生。tailgate指的是皮卡的车斗门，Tailgate party 就指这种直接把车斗们降下来，上面放上吃的东西，就地在停车场搞的看球聚会。很形象。&lt;/p&gt;
+
+&lt;p&gt;美式足球的最高水平莫过于他的职业联盟NFL。而这个联盟每年的总决赛自然是重中之重，就是号称美国春晚的超级碗。称之为美国春晚，是因为观众群体太大，基本上每个美国人都会看。 围绕他的聚会，前前后后的准备以及故事，是很好的社交粘合剂。&lt;/p&gt;
+
+&lt;h4 id=&quot;美式足球是美国校园文化的重要部分&quot;&gt;美式足球是美国校园文化的重要部分&lt;/h4&gt;
+
+&lt;p&gt;相信很多人都知道，美国的校园运动文化很浓，学校的明星一般都是运动明星，而不是成绩出众的学生。
+因此，学生们也就以参与各种体育活动为荣。这于美国文化中重视身体素质培养，以探索自然，独立生存的精神有关。
+而美式足球，对身体素质，技战术的要求程度要求高，运动员一般都高大强壮，男性魅力爆棚。作为集体运动，参与的人多，前面提到的战术变化多，使得比赛本身有很多的看头。
+而大学体育联盟中参与的学校众多，而学生群体的流动性大，所以伴随着学生毕业而来的球队战绩起伏也大，特别是对于那些依仗潜质新星短时间内快速崛起缺乏强队传统的学校。而即使对传统强队，学生毕竟打球是副业，技战术水平也有所欠缺。即使大学的规则和职业比赛比略有区别，旨在增强比赛的观赏性，技战术水平的业余还是屡屡出现。然而，技战术水平的瑕疵其实也加大的比赛的戏剧性和不确定，使得大学的比赛具有相较于职业联盟独特的魅力。&lt;/p&gt;
+
+&lt;p&gt;值得一提的是，美国的大学体育商业化做得很先进，几乎所有的运动都有统一的运作，而作为关注度最高的美式足球，自然是曝光率最高的。在赛季中，一般大学比赛会在周六进行，当天全美的全国和地区体育频道，会不间断的进行美式足球的转播。借助当今的电视转播技术，美式足球的影响进一步在全美铺开。&lt;/p&gt;
+
+&lt;p&gt;就像在电视上看足球一样，在电视上看美式足球已经足够让球迷激动。然而只有去了现场，才能够切身体会这种比赛真正的激情。 
+几乎每个学校的美式足球主场比赛，都是学校所在地的一大节日。
+不只是参与运动本身的运动员，观众也会很容易被感染，充满激情，成为运动活动的一部分。&lt;/p&gt;
+
+&lt;p&gt;我原本不能理解这种看比赛的激情，直到我作为学生季票持有者，到现场观看了一整个赛季的比赛，我才真正体会现场的热烈。（放些图）&lt;/p&gt;
+
+&lt;p&gt;参与到这种比赛之中，能够真实的体会到最为学校学生的归属感。这种对学校的归属管，会延伸到生活的方方面面，甚至延续到下一代。下一代看着父辈的球队比赛长大，自然在未来学校选择上也有所偏向。值得一提的是，这不止适用于大学，甚至高中初中亦是如此。&lt;/p&gt;
+
+&lt;p&gt;比赛的对抗强，看点多，偶有戏剧性，良好的观赛体验，再加上商业化的助推，美式足球文化也就成了是美国校园体育文化的核心部分。&lt;/p&gt;
+
+&lt;p&gt;因为美式足球的在美国校园体育的核心身份，校际间的对抗，也就成为了学校间对抗的一个焦点。在体育场上表现出众的学校会引起公众注意，在学术招生时为自己在学生的心中加印象分，从而促进生源质量。因此，从学校的角度，他们也愿意经营这种校际基于体育开启的联盟关系。
+美国校际之间的体育联盟，把地域接近和规模相仿，底蕴类似的学校聚集起来。很多以体育为先导的联盟，也促进了学校之间的学生往来和学术交流，间接促进学校的学术声望。比如我们耳熟能详的常青藤联盟 Ivy league，其实是个体育联盟，而且说实话这些学校的体育战绩没有很强，但是因为他们本身学术水平都很高，而被传成了一个名校联盟。&lt;/p&gt;
+
+&lt;p&gt;个别学校之间的对抗，会始于美式足球，上升到全方位。全美有很多著名的死敌。最著名的莫过于我们密歇根大学和俄亥俄州立大学（OSU）之间的对决了，这个被称为是全美第一的死敌对决&lt;a href=&quot;https://en.wikipedia.org/wiki/Michigan%E2%80%93Ohio_State_football_rivalry&quot;&gt;（有个专门的维基百科）&lt;/a&gt; 。每年他们的比赛都是火星撞地球。成为死敌的原因有很多了，有两个州的历史原因（当年打过仗），历来学术争先（地点接近，同为著名公立学校），长时间的比赛历史（一百多年了），以及“反目成仇”的历史故事&lt;a href=&quot;https://www.zhihu.com/question/46220469/answer/100825699&quot;&gt;(知乎有个帖子讲这个事情)&lt;/a&gt;。成为死敌意味着什么？从老师到学生经常拿对方学校调侃，贬低，做反面教材，是常事。如果比赛到来了，还会有很多让人啼笑皆非的举动，比如&lt;a href=&quot;https://mp.weixin.qq.com/s/QN6Kg4vQmKI0os1j3awFcA&quot;&gt;OSU校园里会把所有的M都打叉&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;从1897年第一次到现在我们密大以58胜，49负六平微微领先。因为我们最近实力一般，只是普通强队，我们对OSU的战绩是负少胜多。我们已经连着六年没赢过他们了（是的，从我来密大开始就没赢过）。希望我们今年好运，不敢怎么样其实上不能输！！&lt;/p&gt;
+
+&lt;h4 id=&quot;美式足球其实是一个男女老少都能参与的运动&quot;&gt;美式足球其实是一个男女老少都能参与的运动&lt;/h4&gt;
+
+&lt;p&gt;美式足球的规则繁碎，即使细节众多，然而这并没有让他的参与性打折扣。正是因为规则细致，使得只需要利用规则的修改，就可以提出剔除一些身体接触，降低对抗性，从而降低身体素质（如强壮，速度）带来的优势，让普通人都能参与。腰旗橄榄球就是这样一种普通人可参与的活动。他的规则通过限制攻守队员的接触，剔除了线卫（就是那一群强壮的帮四分卫挡人的大家伙们），并且以撤去腰间的旗子，代替擒抱，让比赛只以跑位和传球来决定，不减趣味性。&lt;/p&gt;
+
+&lt;p&gt;顺便说一句，即使腰旗橄榄球这种本着让更多人参与的项目，也被玩出了名堂，甚至也有职业联盟，去年刚成立。&lt;a href=&quot;https://en.wikipedia.org/wiki/American_Flag_Football_League&quot;&gt;American Flag Football League&lt;/a&gt;
+这一点也符很符合美国人的精神，玩什么都有个专业的圈子。&lt;/p&gt;
+
+&lt;h4 id=&quot;美式足球的科技感很足&quot;&gt;美式足球的科技感很足&lt;/h4&gt;
+&lt;p&gt;和很多的运动一样，科技的进步增强了运动的观赏性和技战术水平。而我这里只想举几个两个美式足球独有的例子。&lt;/p&gt;
+
+&lt;h5 id=&quot;转播技术&quot;&gt;转播技术&lt;/h5&gt;
+&lt;p&gt;为了方便观众看球所在的位置，和目标的一档线的码线位置，电视转播中会画上虚拟的线。（截图）。不要小看这个小的辅助，看比赛大大容易。而且这个技术也非常有技术含量。因为他不是简单的屏幕上加条线，而是效果近似于场上真实的线，让观众看来仿佛队员也踩在这些线上。 这里有个视频科普了这个技术的前世今生。它从一个侧面，反映了整个视频转播技术的进步。&lt;/p&gt;
+
+&lt;h5 id=&quot;防护技术&quot;&gt;防护技术&lt;/h5&gt;
+
+&lt;p&gt;想必大家也有这感觉，美式足球看起来十分专业的一个重要原因就是球员那身“防护”：从头盔，到身上的软甲，再到脚上额护膝护板，总让人感觉这运动“动静很大”。&lt;/p&gt;
+
+&lt;p&gt;事实上，美式足球运动发明之初，确实是个危险运动，受伤很常见，重伤也不少见。经历了这么多年的革新，防护的发展，其实也让运动员越来越安全。&lt;/p&gt;
+
+&lt;p&gt;美国人们对橄榄球的喜欢随处可见，比如临近超级碗前超市预热，工作人员也会摆出这种造型，让我都不忍心买走商品。。。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/MarketFootball.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+ --&gt;
+
+&lt;div class=&quot;iframe_container&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/E-ONNjFoOx0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;尾声&quot;&gt;尾声&lt;/h3&gt;
+&lt;p&gt;最后，让我们来复习一下&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/Football_Cheat_Sheet.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Oct 2017 23:37:31 -0400</pubDate>
+        <link>http://localhost:4000/2017/10/13/football.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/13/football.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>阿拉斯加之旅</title>
+        <description>&lt;p&gt;图：&lt;a href=&quot;https://github.com/owlcee&quot;&gt;owlcee&lt;/a&gt; ;
+文：&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;摘要&quot;&gt;摘要&lt;/h3&gt;
+&lt;p&gt;我们策划的旅行是十二月底的阿拉斯加八天七夜游。
+途径Anchorage，Fairbanks，Prudhoe Bay, 和Barrow。
+我们行走于冰川之上，乘狗拉雪橇，泡极地温泉，观星空、拍极光，吹寒冷的极风，北望北冰洋。通过参观博物馆，走访村落，与当地人交流，略悉阿拉斯加的人文地理、自然资源、文化风俗等。
+总结下来收获多多，特将旅行计划与体会与朋友们分享，便有此文。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h3 id=&quot;目录&quot;&gt;目录&lt;/h3&gt;
+
+&lt;p&gt;一、&lt;a href=&quot;#Roadbook&quot;&gt;旅行策划与前期准备（Travel Plan）&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#itineraray&quot;&gt;Itinerary&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#gearlist&quot;&gt;Gear List&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;二、&lt;a href=&quot;#Travelblog&quot;&gt;游记&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#Alaska&quot;&gt;State of Alaska, the last frontier&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Anchorage&quot;&gt;Anchorage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#AlaskaRailroad&quot;&gt;Alaska Railroad&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Fairbanks&quot;&gt;Fairbanks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#PrudhoeBay&quot;&gt;Prudhoe Bay&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Barrow&quot;&gt;Barrow (Utqiaġvik)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a name=&quot;Roadbook&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;一旅行策划与前期准备&quot;&gt;一、旅行策划与前期准备&lt;/h3&gt;
+
+&lt;h4 id=&quot;开销&quot;&gt;开销&lt;/h4&gt;
+&lt;p&gt;八天下来人均消费约为USD2500。基本都花在了吃、住、门票以及游玩的必须项目上，没有买贵重的纪念品，只有明信片冰箱贴等。加上前期装备物资准备USD500。并不算穷游，但是也是自己按照需求精打细算过，对开销和收获心满意足，并没有感觉贵。&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;itineraray&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;计划itinerary&quot;&gt;计划（Itinerary）&lt;/h4&gt;
+
+&lt;p&gt;注：为了照顾我们的国际友人，这一部分用英文。&lt;/p&gt;
+
+&lt;p&gt;Note: The plan is primarily for winter travel.&lt;/p&gt;
+
+&lt;p&gt;Budget: USD 2500 for trip, USD 500 for material preparation.&lt;/p&gt;
+
+&lt;p&gt;Main route (In Alaska): Anchorage -&amp;gt; Fairbanks -&amp;gt; Prudhoe Bay (short connection)-&amp;gt; Barrow -&amp;gt; Fair banks&lt;/p&gt;
+
+&lt;p&gt;Day 1, Depart from DTW for Anchorage:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DL 2263 5:30 pm (DTW)-7:25 pm (SEA)&lt;/li&gt;
+  &lt;li&gt;DL 879 8:55 pm (SEA)-11:34 pm (ANC)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 2, Anchorage local. Transport: the public transit called “people mover” and walking.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;University of Alaska - Anchorage, campus tour (~ 2 hours)&lt;/li&gt;
+  &lt;li&gt;Anchorage museum (~ 3 hours)&lt;/li&gt;
+  &lt;li&gt;Captain Cook monument (~ 2 hours)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 3, Anchorage nearby.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Matanuska Glacier Walking &lt;a href=&quot;https://www.salmonberrytours.com/tours/matanuska-glacier-walk&quot;&gt;(Salmon &amp;amp; Berry company)&lt;/a&gt; (~ 8:00 am to 5:00 am, 4 hours driving round trip activity time 3 hours lunch included.)
+Transport: the travel agent offers free pick up from and drop off at the hotel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 4, Anchorage to Fair banks, sightseeing along the way.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Take train &lt;em&gt;Aurora Winter&lt;/em&gt;  (by &lt;a href=&quot;https://www.alaskarailroad.com/ride-a-train/buy-tickets&quot;&gt;Alaska Railroad&lt;/a&gt;) to Fairbanks. (8:30 am to 8:00 pm lunch available for purchase on the train.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 5, Fairbanks local tour. Transport: the travel agent offers free pick up from and drop off at the hotel.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alaskatours.com/day-tours/fairbanks-dog-sledding-tour/&quot;&gt;Dog sledding&lt;/a&gt; (10 am - 1:00 pm, about 1.5 hour driving round trip, main activity ~ 1 hour)&lt;/li&gt;
+  &lt;li&gt;Northern lights viewing and Chena hot springs tour &lt;a href=&quot;http://www.alaska-wildlife-guide.com/en_US/winter-tours/northern-lights/chena-hot-springs/&quot;&gt;Link 1&lt;/a&gt; &lt;a href=&quot;https://www.viator.com/tours/Fairbanks/Northern-Lights-and-Chena-Hot-Springs-Tour-from-Fairbanks/d5269-5957NLIGHTS&quot;&gt;Link 2&lt;/a&gt; (4:00 pm to 5:00 am next day, 2 hours driving round trip, 4 hours free spring/dinner time, 2 hours for northern light.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 6, Fairbanks for Barrow (Utqiaġvik). Transport: taxi.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Alaska 2817 12:15 pm (FAI, Fairbanks) - 1:43 pm (SCC, Prudhoe Bay)&lt;/li&gt;
+  &lt;li&gt;Alaska 50 5:17 pm (SCC, Prudhoe Bay) - 6:07 pm (BRW, Barrow)  This flight is flying from east to west, so if you sit on the right wing side, you might be able to see northen light.&lt;/li&gt;
+  &lt;li&gt;Look around in Prudhoe Bay near the airport. Despite connection, you can step out the airport, as it is really a mini airport.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 7, Barrow local. Transport: taxi and walking (must keep yourself warm and pay extra attention to local guidance about polar bears). Barrow is a small city and taxi can take to you anywhere within 20 mins. Here is an offical &lt;a href=&quot;http://www.touch-alaska.com/BarrowVisitorsGuide.pdf&quot;&gt;Barrow Visitor’s Guide&lt;/a&gt;. You may get free hard copies at the hotel.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Barrow Milepost&lt;/li&gt;
+  &lt;li&gt;The Iñupiat Heritage Center&lt;/li&gt;
+  &lt;li&gt;Iḷisaġvik College&lt;/li&gt;
+  &lt;li&gt;Barrow High School (Football court, artificial turf field of Barrow Whalers football team)&lt;/li&gt;
+  &lt;li&gt;Whale Bone Arch&lt;/li&gt;
+  &lt;li&gt;Seasonal local events (whaling, Eskimo games, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 8, Barrow back to Fairbanks, and Fairbanks local. Transport: Bus system called MACS Transit at Fairbanks, Taxi(cash only), walking.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Alaska 55 12:35 am (BRW, Barrow) - 1:55 pm (FAI, Fairbanks) This flight is flying from northwest to southeast, so if you sit on the right wing side, you might be able to see sun rise.&lt;/li&gt;
+  &lt;li&gt;University of Alaska Museum of the North&lt;/li&gt;
+  &lt;li&gt;University of Alaska - Fair banks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Day 9 Fairbanks back to Detroit&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DL 5178, 1:15 am (FAI)-6:25 am (SEA)&lt;/li&gt;
+  &lt;li&gt;DL 2169, 9:40 am (SEA)-4:55 pm (DTW)&lt;/li&gt;
+  &lt;li&gt;The flight departs late at night, and you don’t want to get to the airport so early. The Delta agents came in for back check really late (~10pm). There is no Bagages storage survice at the Airport so you have to take your luggage with you if you take public transit.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;other-links&quot;&gt;Other links&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;There are many other available tours at &lt;a href=&quot;http://alaskatours.com/&quot;&gt;Fairbanks&lt;/a&gt;. For example &lt;a href=&quot;http://www.northernalaska.com/media/1061/air7pmtp.pdf&quot;&gt;flightseeing&lt;/a&gt;, ice fishing. In my opinion, if you choose the right flight, you can get similar things as the flightseeing tours.&lt;/li&gt;
+  &lt;li&gt;There are also available tours near Anchorage (&lt;a href=&quot;https://www.salmonberrytours.com/&quot;&gt;Salmon and Berry&lt;/a&gt; is the one we choose, and certainly there are a lot of other agents). For example, dog sledding is also available, but it is usually far from the city as they need to have enough snow. Thus, you will spend more time on driving round trip.&lt;/li&gt;
+  &lt;li&gt;There are pacakges for few day trips in one city (e.g. &lt;a href=&quot;http://alaskatours.com/alaska-vacations/fairbanks-northern-lights-vacation/&quot;&gt;Fairbanks&lt;/a&gt;), even customized trip service available.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;gearlist&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;gear-list-beyond-a-typical-one&quot;&gt;Gear List (beyond a typical one)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Camera (DSLR,GoPro,etcs), batteries, wrap (keep warm when you are taking photos. &lt;strong&gt;Extremely useful&lt;/strong&gt; within arctic circle. We only found in China &lt;a href=&quot;https://www.taobao.com/product/%E7%9B%B8%E6%A9%9F%E4%BF%9D%E6%9A%96%E5%A5%97.htm&quot;&gt;Taobao&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Tripod&lt;/li&gt;
+  &lt;li&gt;Charger station (&lt;a href=&quot;https://www.amazon.com/gp/product/B00OQ1CY2Q/ref=oh_aui_detailpage_o06_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;e.g.&lt;/a&gt;, we recommand this because most of the electronic devices are charged through USB cables)&lt;/li&gt;
+  &lt;li&gt;Swim suits (for hot spring)&lt;/li&gt;
+  &lt;li&gt;Headlight&lt;/li&gt;
+  &lt;li&gt;Snow pants and down coats, both should be water proof. (We wear &lt;a href=&quot;http://www.backcountry.com/the-north-face-mcmurdo-parka-mens&quot;&gt;Down coat&lt;/a&gt; and &lt;a href=&quot;http://www.backcountry.com/the-north-face-freedom-insulated-pant-mens?skid=TNF02IO-ZINGRE-SRE&amp;amp;ti=UExQIENhdDo6OjI6&quot;&gt;Snow pants&lt;/a&gt;. The price are reasonable compared to the famous Candian goose, and we are pretty wear for -30° C / -20° F)&lt;/li&gt;
+  &lt;li&gt;Long sleeves shirts (&lt;a href=&quot;https://www.underarmour.com/en-us/mens-ua-coldgear-armour-compression-crew/pid1265650-100&quot;&gt;e.g.&lt;/a&gt;) and legging (&lt;a href=&quot;https://www.underarmour.com/en-us/mens-ua-coldgear-armour-compression-leggings/pid1265649-001&quot;&gt;e.g.&lt;/a&gt;). The high collar will be favorable. We where this inside the snow pant and under coat for the coldest days we had, and it was warm enough.&lt;/li&gt;
+  &lt;li&gt;gloves (recommend fitted + ski/snowboard gloves). The fitted pairs prevent the skin explorsure to cold air.&lt;/li&gt;
+  &lt;li&gt;Hoodie/sweatshirt/fleece coat if you do not feel warm enough. We prepared for that but never really used.&lt;/li&gt;
+  &lt;li&gt;Snow boots (waterproof). We bought the &lt;a href=&quot;https://www.amazon.com/gp/product/B005L2EHRO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;Sorel Caribou Boot&lt;/a&gt;. It looks heavy and large, but it wears comfortable and perfect for walking on thick snow/ice, togather with the snow pant.&lt;/li&gt;
+  &lt;li&gt;High Socks. We bought some pairs from &lt;a href=&quot;https://www.rei.com/rei-garage/product/894750/smartwool-phd-ski-medium-pattern-socks&quot;&gt;REI&lt;/a&gt;, but many thick ski socks would work. We figured out, in a painful way in some sense, that socks are equally important for long comfortable walking as the shoes.&lt;/li&gt;
+  &lt;li&gt;Thermo bottle. To keep you hydrated in cold weather.&lt;/li&gt;
+  &lt;li&gt;Helmet. We wear helmet in glacier walk and dog sledding. It is not necessary, but we just want to feel safe.&lt;/li&gt;
+  &lt;li&gt;Snow goggle. Useful in cold weather with strong wind.&lt;/li&gt;
+  &lt;li&gt;Mask. Useful in cold weather with strong wind.&lt;/li&gt;
+  &lt;li&gt;First aid kit.&lt;/li&gt;
+  &lt;li&gt;Hand warmer, toe warmer. These are provided freely during the glacier walk by travel agent and it is really warm. This is not necessary if you have enough clothes.&lt;/li&gt;
+  &lt;li&gt;Moisture and lip balm. I don’t like these in general, but they turn out to be very useful…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;restuarants&quot;&gt;Restuarants&lt;/h4&gt;
+&lt;p&gt;We didn’t really plan on this, and usually we just wander around or ask around. The foods are in general a bit expensive compared to Michigan. In Barrow, particularly, the same product in grocery store costs twice as much as that in Michigan.&lt;/p&gt;
+
+&lt;p&gt;Anchorage:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Humpy’s Great Alaskan Alehouse&lt;/li&gt;
+  &lt;li&gt;Snow City Cafe (breakfast)&lt;/li&gt;
+  &lt;li&gt;Glacier brewbrother (a bit expensive)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fairbanks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bei Jing Hot Pot &amp;amp; Asian Cuisine. (The only place opens on 12/24 and 12/25… Really good, authentic and affordable hot pot)&lt;/li&gt;
+  &lt;li&gt;Shogun Hibachi.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Barrow:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Northern Lights Restaurant. We think it is the best restaurant in Barrow! Authentic Chinese food, hospitable Korean host!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;Travelblog&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;二旅行游记&quot;&gt;二、旅行游记&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;Alaska&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;state-of-alaska-the-last-frontier&quot;&gt;State of Alaska, the last frontier&lt;/h3&gt;
+
+&lt;p&gt;阿拉斯加是美国最大的州，比美国面积第二到四位的Texas, California, Montana三个州加起来还大，维度跨越20度，经度跨越40度。而因为我们通常见的地图的比例问题，它看起来比这还要大一些。 而真实的比例应该是这样 &lt;a href=&quot;https://en.wikipedia.org/wiki/File:Alaska_area_compared_to_conterminous_US.svg&quot;&gt;（源）&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/5/59/Alaska_area_compared_to_conterminous_US.svg&quot; alt=&quot;&quot; class=&quot;some-css-class&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;阿拉斯加的位置，让美国最北，最西的地方都位于阿拉斯加境内。有趣的是，因为南部阿留申群岛的末端有一部分已经位于东半球，所以有说法也说美国最东的地方亦位于阿拉斯加境内。&lt;/p&gt;
+
+&lt;p&gt;坐拥这么大的版图，让阿拉斯加地形非常多样。既有西南部阿留申群岛上活跃的火山，也有中部高耸的北美第一高峰Denali雪山，东部是寒冷的平原谷地，北部渐渐平坦，直面北极寒风。而唯有西南这一带有相对宜人的海洋性气候，因此大部分人口也就居住于此。&lt;/p&gt;
+
+&lt;p&gt;经历了无人居住，因纽特人居住，俄国人控制，美国领地之后，阿拉斯加终于于1959年加入联邦，成为美国的49个州。在成为州之前，这里是美领地，就像今天的波多黎各一样。阿拉斯加的人口总共不到80万，也就是比现在的底特律人口稍微多一点，比国内的三四线城市都差远了。没办法，谁让这里纬度如此之高，广大地区的气都候如此恶劣呢！最早是因纽特人经今天的白令海峡迁徙到这里，面对这恶略的气候，坚强的生活下来。&lt;/p&gt;
+
+&lt;p&gt;高纬度也让这里与俄罗斯的距离比其他美国本土地方都近，于是可想而知冷战时期这里有多么重要的军事地位。州内有数座空军陆军导弹基地。位于Anchorage以南的Kodiak 岛上部署在美国最大的海岸警卫队基地。
+二战的时候，在阿留申群岛链上美军和日军也有过正面的对抗。&lt;/p&gt;
+
+&lt;p&gt;这些前期的功课，让我愈发觉得阿拉斯加是如此的不同。虽然这美帝北境的短短一周，我们无法踏遍整个州。但是透过具有代表性的几个城市，我们见识到了壮丽自然景观，奇特的生态环境，以及更重要的，了解了阿拉斯加的独特人文风情与历史文化。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;Anchorage&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;anchorage被低估的大都市&quot;&gt;Anchorage:被低估的“大都市”。&lt;/h3&gt;
+
+&lt;p&gt;Anchorage 因为其30万的人口而成为了Alaska最大的城市，也因此很容易被当成是州府（其实州府是 Juneau 在Alaska西南）。Anchorage 纬度 约 61° N  ，与斯德哥尔摩（59° N）、圣彼得堡（60° N）相近，而且都处于大陆西岸，且有暖流经过，因此相对温暖。
+相比这两个地方，地处西半球的Anchorage地处北美大陆和亚欧大陆的中点。经空路从这里到日本韩国的距离与到美东的距离相仿，使得这里成为重要的客货运中转。&lt;/p&gt;
+
+&lt;p&gt;当年库克船长两次环游世界，都是向南进发。第三次他试图从美西向北通过白令海峡挑战疏通北极航道。或许他也认识到了从北极的航道将是沟通北美和欧洲最近的路径。然而他并没有成功，没能跨过白令海峡，在被迫折回夏威夷之后不久，Cook船长就身故了。因为当年疏通北方航道Cook曾经以为这里是北极航道的入口，甚至派副手到访Anchorage，因此Anchorage所处的入海口就被他的副手以Cook船长之名命名，是为Cook Inlet。如今这里的雕像与库克船长在其家乡英国Whitby的雕像为同款，由是英国石油公司在美国两百周年纪念是送给美国，也算是英美交好的见证吧。&lt;/p&gt;
+
+&lt;p&gt;以及某些人试图模仿被抓拍。。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Captain_cook.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一开始寻找库克船长雕像的时候，我们还走错了路。这条意外闯入的小路敲好挨在Cook inlet 的边上，可以向西南望见整个海湾&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Anchorage_view.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;也可以向东北望见港口以及转运铁路的车站。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Port.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;当然还有沿路随处可见的开满“冰花”的树枝，银装素裹真是再合适不过的形容词，也许这就是岑参笔下的“千树万树梨花开”吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Anchorage_tree.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anchorage的博物馆与我们想象不一样，应该叫为艺术馆更为合适。两片主要的展区分别是阿拉斯加地区的各个部落的原住民生产生活用具展示，和一个叫&lt;a href=&quot;https://www.anchoragemuseum.org/exhibits/camouflage-in-plain-sight&quot;&gt;Camouflage&lt;/a&gt;, 伪装艺术的主题展览。从最初的安全战术的伪装，到如今成为很多时尚高端品牌设计的重要元素，展览展现了伪装的各个方面。其中最有意思的莫过于这款特殊材料的伪装围巾了。左边第一张是我没有开闪光灯的情形。而如果开启对焦识别（第二张），或者闪光灯（第三张），即使在室内有光的情形下，我已经无法拍清人脸了。设计师的初衷便是为名人放记者之用，实在是奇妙实用。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Camouflage.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;很多人冬天来阿拉斯加旅游，走空路Anchorage是从本土过来的第一站。而很多人也会以Anchorage为中心（我们在旅店就碰到了不少），因为冬季阿拉斯加的重要的特色旅游活动，譬如狗拉雪橇、滑雪、看冰川、玩冰钓，在Anchorage周边都有，而冰川甚至是只有这里才有的。这些都让这里成为重要的旅游景点。酒店，特别是高端酒店林立（当然我们这种穷游是住不起Sheraton/Hilton/Marriott的。。）。
+而夏季从欧亚过来的航班也会频繁降落Anchorage。于是便有了的游人如织。&lt;/p&gt;
+
+&lt;p&gt;Anchorage 夜幕下的downtown，还是有繁华的影子。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Anchorage_downtown.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;除此之外，我们还参观了University of Alaska Anchorage (UAA)。我们预约了一个面向新生的校园介绍，一个当地的学生带着我们走过了校园的大部分地方。不大的校园还是有不少惊喜，比如这个长廊行的自习区域，链接两个主要的教学楼，跨过冰河，据说夏季还有熊出没。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/UAA.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;又比如图书馆的三层楼高的落地窗，&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/UAALibrary.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;两层楼高的一个傅科摆（照片欠奉。。），园区内的极地的内燃机研究所（照片依然欠奉），以及，孔子学院！！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/ConfuciusInsititute.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们在Anchorage参观的重头戏是冰川行走。
+我们行走的冰川Matanuska Glacier 位于 Sutton镇。我们是跟随Anchorage当地的travel agent从宾馆出发，早上九点出发，到下午五点回到出发点。中间的实际行走时间为一个半小时左右。根据网上建议我们穿上了最厚的防寒防水衣物，以及防风的全套面罩，和为了安全起见的头盔。此外，我们还使用了向导提供的手脚暖宝。脚暖宝用来暖脚，但手暖宝其实主要用来暖手机/GoPro了。为了便于冰川上行走，向导还给每个人套上了冰爪（Crampons）。&lt;/p&gt;
+
+&lt;p&gt;一路上我们紧随一位向导，另有两位向导断后，沿着特定的路线参观。即使是冬季，冰川理应很厚，向导们依然需要每天检查，必要是甚至道以保证安全。&lt;/p&gt;
+
+&lt;p&gt;一个半小时的时间里，我们见到了各个年代，各种奇特形状的冰川。领头的向导会时时停下，讲解有关冰川的知识，轶事。&lt;/p&gt;
+
+&lt;p&gt;在冬日这个纬度，日照时间短暂，冰川南侧是高耸的雪山，因此甚至连太阳都难以健全。然而在这样的阳光映衬下，冰川变得更加神奇和美丽。&lt;/p&gt;
+
+&lt;p&gt;先来一张全景，站在我们出发的地方。左下方被地势略低的地方便是我们要行走的冰川。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/GlacierPanorama2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这是我们在冰川之上看雪山，阳光大约就这么高。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier_view.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;冰川的一些有趣知识：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;两万多年前冰川是一直延伸到Anchorage的，现在退回到了现在的位置。&lt;/li&gt;
+  &lt;li&gt;冰川像这样的凸起的地方是冰川板块互相撞击顶起来，再遇冷冻上而形成的。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;冰川是流动的，虽然缓慢，但是确实是在流动。因此每个月冰川的景致都是不同的。&lt;/li&gt;
+  &lt;li&gt;冰川底下是水流，冬季冰川能有几百英尺厚。如果安静听，能听得到水的声音。&lt;/li&gt;
+  &lt;li&gt;黑色的是新形成的冰川，蓝色的是年纪大一些的。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/new_Glacier.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;确实能看到被冰川侵蚀研磨的岩石粉。中学地理学的冰川侵蚀案例。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;冰川板块流动撞击再冷冻，就会形成各种奇异的形状，隆起的地方如果足够坚固是可以进入的。比如这个：&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;还有这个，非常感谢茵茵的抓拍，其实当时我在着急给GoPro换电池。向导说这个如此大的天然冰川洞穴很少见，我们踏进的这个是一个月前刚形成的。实在是非常幸运。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在我们进入冰川的之前，向导Kevin特别叮嘱。冰川乃是自然的馈赠，尽量不要触碰，不要丢弃任何自己的随身物品，更不要试图刻字，只留下足迹，只带走回忆。对自然的敬畏和尊重，让一批一批的游人能够持续地体会自然、敬畏自然。&lt;/p&gt;
+
+&lt;p&gt;在回来的路上，我问起了向导加司机Kevin关于附近村落的事情。我很好奇他们在当地不是太友好的自然条件下，是以什么为主业。Kevin告诉我，鉴于当地的气候在阿拉斯加来说还算适宜，他们在夏季还是可以务农的。附近的村落居民，不同于阿拉斯加北部及内陆，是以美国的“下48州”迁移而来的“移民”为主。
+在罗斯福新政时期，联邦政府资助美国Midwest的农民来如今Anchorage以西北的土地上开垦，以尝试进行农业生产。他们中的很多人失败了，留下来的就一直居住在这里，以他们为中心渐渐形成了Anchorage 周边的小的村落。而因为这里的温差大，经常种出超级巨大的植物：南瓜，苹果，胡萝卜，西兰花，花椰菜，甚至。。豆子。。每年还有比谁种的东西大的比赛，配以&lt;a href=&quot;http://www.alaskastatefair.org/site/fair-info/giant-fruit-vegetable-records/&quot;&gt;官方记录&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;Kevin还告诉我们，市中心有一个圈养的reindeer （驯鹿），恰逢圣诞节，每天会出来“放风”给大家参观。然而我们回来后立即步行前往此地，
+也没有看到鹿。但是却看到了一个有意思的书箱，号称移动图书馆。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/MobileLibrary.jpg&quot; alt=&quot;&quot; class=&quot;some-css-class&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一直说道最后，其实也没有说天气。我们幸运的遇到了一路晴天，和高达零下十几度的气温，看景不受影响，毕竟我们来前一周的密歇根也是零下十几度。&lt;/p&gt;
+
+&lt;p&gt;以上，就是我们在Anchorage的行程。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;AlaskaRailroad&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;alaska-railroad一路风景如画&quot;&gt;Alaska Railroad：一路风景如画&lt;/h3&gt;
+
+&lt;p&gt;我对Fairbanks印象，是从Anchorage到Fairbanks 的火车开始的。
+阿拉斯加这个常年冰封人烟稀少的地方，铁路北向的终点便是Fairbanks。
+而本次旅行我来前最盼望的就是这趟列车了，当初策划这次旅行的开始便是这趟列车，就着它的时刻表我们才渐渐完成了整个旅行的策划。
+记得宣传网页上的照片还展示了车顶全玻璃的&lt;a href=&quot;http://photos.alaskatravel.com/alaska-transportation/railroad/alaska-railroad/dome-seating.html&quot;&gt;观光车厢&lt;/a&gt;，让我更加充满期待。
+然而因为我们是圣诞前夜当天（24号）出发，我们的列车并没有加挂这种观光车厢，只是两节普通客车车厢，以及一个餐车，由内燃机车驱动，尾部再加挂一节行李车箱。我心中难免有些小小的遗憾。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/AlaskaRailRoadTrain.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;但是回头一想，这样季节，在这样的纬度，这早八点出发、晚八点到达的列车，也就只有四、五个小时的阳光，用观光车还有点浪费呢。&lt;/p&gt;
+
+&lt;p&gt;不像国内的火车，这里的火车上车手续更像是飞机，需要交运大件行李，换号乘车票之后才知道座位。
+车厢从外面看就像国内的绿皮车，但是座位却像国内的高铁一等座一样舒适，一排左右各两个座位，皮椅，以及为了满足美国人的加宽座椅。
+除了每节车厢头部两排对着放置的座位中间有桌子，其他的座位都没有小桌板，但是足够宽敞的排间空间。
+最重要的是，所有的座位都与前进方向一致，便于观景。&lt;/p&gt;
+
+&lt;p&gt;两节车厢之间的连接处是上下客的车门，当列车开动的时候，因为列车的车速并不快，上部的窗户可以完全向内开启，非常便于拍照。然而毕竟零下20度的气温加上大风，要想长时间拍照，就需要正确的装备。很多人都想拍照，但是我们用这些（风镜，面罩，相机保暖罩）获得了更多拍照的自由。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/PhotoOnTrain.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;沿途的某处雪山。我们试图拍摄 Denali 的全景，但是其实这很取决于天气状况。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Train1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;飞驰的列车，车头是专门为圣诞而装饰的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Train2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Train3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;列车一个非常贴心的设计便是随票附赠的一本画册，里面有本趟列车的路线，会经过的重要地标和景点，铁路的历史，铁路的日常维护，以及阿拉斯加有关交通的故事。
+再加上沿途两位尽职的列车员随时随地对重要景点/拍照点的提醒，列车也会配合的减速，这些都让旅程中的风景可以尽览无遗。
+餐车的饮食相比阿拉斯加的物价并不算贵，而且观景的效果更好，进餐时便见林海雪山在眼边呼啸而过，也是一番独特的体验。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/DinningOnTrain.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;沿途列车飞驰，时而雪山迎头压过，心生畏惧，时而豁然开朗，远见群山、林海，又时而横跨冰河，景致切换极快，让人目不暇接。就这么看着，心里也是跌宕起伏，但是细看，只有自然，没有人烟。细听，只有滚滚的车轮声，传向远方，消失在冬日的静谧中，让人不由得感叹人之渺小。&lt;/p&gt;
+
+&lt;p&gt;冬日的列车阳光短暂，很长时间都是黑暗，这也就让大部分的乘客处于半睡半醒的状态。
+如果是夏季阳光充沛的时节，可看的景致或许更多吧。但这冬日的美景，美得静谧深邃，细心体会，别无二致。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;Fairbanks&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fairbanks冰封之下的生机勃勃&quot;&gt;Fairbanks：冰封之下的生机勃勃&lt;/h3&gt;
+
+&lt;p&gt;当火车驶过Tanana River时，我们也就进入了Fairbanks 地界。
+地处阿拉斯加内陆地区的中心地带，Fairbanks成为重要的交通枢纽，成为阿拉斯加第二大城市。但即使是第二大城市，人口也就不过三万多人，甚至还没有我们密歇根大学学生多&lt;/p&gt;
+
+&lt;p&gt;传说Fairbanks是非常冷的地方。下车的时候我看温度是零下26摄氏度，然后接驳的酒店巴士司机说，今天挺暖和，你们运气不错！&lt;/p&gt;
+
+&lt;p&gt;我们停留的sophie station suites价格合适，位置也好，尤其对于没车的我们。
+既然是suites，就有厨房，基本的餐具齐全，而步行距离之内有walgreens和safeway两个超市以及一些快餐，适宜小群体短住。因为这些，我们的圣诞夜可以稍微自己动手搞点好吃的。&lt;/p&gt;
+
+&lt;p&gt;我们在Fairbanks的第一个重要的活动就是乘坐狗拉雪橇。我们依然请的是当地的travel agent带路。&lt;/p&gt;
+
+&lt;p&gt;这里就是狗舍，散布在狗主人／训练员的营地周围，每只狗都有自己的狗舍，也都有自己的名字。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Kennel.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;狗狗们不怕人，这是在我们来之前，向导就告诉我们。他告诉我们大胆的接近任何一只狗，除了一只之外，那只最近有一些小脾气。可见他们每天都要确定狗狗的脾气，每天都交流感情。&lt;/p&gt;
+
+&lt;p&gt;果然，当你走近他们的时候，他们也并不叫，只是向你扑来，盼望你的抚摸。与狗狗交流感情，建立信任，对于狗拉雪橇这项活动来说也是十分必要的，因为狗拉雪橇，人和狗狗是一个团队，要相互配合。我们还十分幸运的见到了刚出生五周的小哈士奇们。抱在怀里实在是太可爱了！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Puppies.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;用于旅游项目的雪橇由十条狗狗来协作，分两排绑在雪橇上。
+掌控雪橇的人称为musher，他站在雪橇的后部，而雪橇里一般放着货物，给养等。而作为旅游项目，我们便是这些货物，两个人坐在一个雪橇里。为了让狗狗不要太累，我们在报名的时候还提供了身高体重信息。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Dog_team.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;给我们的雪橇掌舵的是一位即将参加明年狗拉雪橇比赛的小伙子，瑞士人 Savy。Savy即将参加的比赛是
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Iditarod_Trail_Sled_Dog_Race&quot;&gt;Iditarod Trail Sled Dog Race&lt;/a&gt;。比赛每年三月举行，从Anchorage所在的Settler’s Bay 出发向西北，一只阿拉斯加西岸的小镇Nome，中间穿越1500公里，专业的赛手完赛一般需要九到十五天。如今的世界纪录是8天11小时20分16秒，这种速度在冰雪之上实在让惊叹不易。可以想像需要狗狗和赛手默契的配合，与高度的信任。而且赛手都是单独行动，在这寒冷又孤独的赛程中，赛手和狗狗更彼此的陪伴。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/musher.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这些mushers与旅游公司的关系有点像赛车车手和车队。旅游公司出钱出狗，赞助musher参加比赛。赛手们比赛准备期间平日训练，业余时间和飞比赛期间就做点旅游生意。&lt;/p&gt;
+
+&lt;p&gt;别小看这些狗狗，当狗狗们飞驰的时候，耳边也是呼啸的风声，让人难以置信他们小小的身体里蕴含着这么大的能量。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Dog_sledding.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;musher处了刹车之外，其他对狗狗的指令都是用语言发出，而且经常发出“Good work guys”这样的赞赏和鼓励。狗狗们也会时时回头，尤其是领头的狗，似乎也是在观察musher。&lt;/p&gt;
+
+&lt;p&gt;我们行走的路线是比赛的训练路线，所以其实有路的痕迹，并没有导航的必要。而野外的导航则完全需要musher自己，并给狗狗们下达指令。&lt;/p&gt;
+
+&lt;p&gt;在狗狗们飞驰的过程中，我和Savy闲聊期，顺便观察，录像，涨了很多知识，知道了哈士奇作为雪橇犬的事情，以及训练的不易。
+他说今年是第一次参赛，训练为主，并没有设定目标，为了明年的比赛做准备。我们祝他好运！&lt;/p&gt;
+
+&lt;p&gt;下午回到宾馆稍作休息，就马不停蹄的赶往下一个重头戏：温泉，以及极光观测点。Chena Hot Springs Resort 位于Fairbanks 东部，车程约一个小时。当我们到达温泉的温泉附近有宾馆，已是傍晚时分。但是Fairbanks几乎位于北极圈之内，所以我们四点出发的时候，天其实已经黑了。
+温泉所在地其实是一个度假村，但是除了少部分住在这里的人之外，大部分都只是专程来泡温泉或者看极光的。这个度假村有且只有一个有餐厅，没啥特色。&lt;/p&gt;
+
+&lt;p&gt;稍微特别一点的是一个冰雕常设展馆。参观冰雕常设展馆便是晚上的第一个项目。说实话，这个展馆挺小的，雕刻的东西也远没有在哈尔滨看的精致或雄伟。但是比较有意思的是一个冰钓技师雕刻的工作室。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Ice_carving.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;美国的各式博物馆都很强调参与感，除了这里，博物馆有考古发掘的工作室。自然博物馆有科研人员的实验室可以参观，汽车博物馆甚至有整条总装线的餐馆，这些都很有助于参观者萌生参与其中的兴趣。&lt;/p&gt;
+
+&lt;p&gt;我们还发现了一个有驯鹿（Reindeer）的圈舍，周围漆黑，所以用长曝光才拍到了正在觅食的他们。在anchorage没能相见，在这里抓住了你们！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Reindeer.jpg&quot; alt=&quot;Reindeer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;晚上的第二个活动是泡温泉。这是我第一次在这么冷的地方泡室外温泉，零下二十度啊！从淋浴间走到温泉池的那二十米长的路，简直要死了。。尤其是刚刚淋浴完。带了相机进去，但是雾气太大，什么都照不了。。&lt;/p&gt;
+
+&lt;p&gt;温泉里雾气萦绕，灯光暗淡，因此只能通过声音来判断周围是否有人。说话的声音里英语，汉语自然不少听到，比较意外的是能听到很多人低声的日语交谈。温泉居然有很多的日本人！后来我回到温泉售票的地方，发现甚至连温泉的前台都有两个日本妹子，先前没有注意。每见到亚裔面孔的客人，会依次用日语和英语鞠躬问候客人。 着实让我有些意外。&lt;/p&gt;
+
+&lt;p&gt;泡完温泉后，我们去吃了个饭，然后就在休息室里等候第三个项目，看极光。休息室里有个展示牌，除了天气预报之外，还有极光强度以及观测条件的预报。当晚极光强度预测为仅为2级（7级最高），但是天气是晴朗的。我向我们的向导表达了忧虑，他安慰我说强度并不可靠，只要天气晴朗都有希望。&lt;/p&gt;
+
+&lt;p&gt;休息室很大，有不少人在这里等候。我们属于小范围的地陪，同行的有9个人。而大部分的中国人是由一个统一的旅行团带来的，此刻他们也在这里休息。我不确定他们在这里等候是因为的下一站也是也看极光，还是只是单纯不愿意泡温泉。但是是基本上所有的人都在打牌。。&lt;/p&gt;
+
+&lt;p&gt;与此同时也有一大波日本人。他们统一的羽绒服着装，鹅牌，不像我在学校看到的鹅牌，像是探险的鹅牌（&lt;a href=&quot;http://www.canadagoose.com/us/en/snow-mantra-parka-9501M.html?cgid=shop-mens-parkas#start=1&amp;amp;cgid=shop-mens-parkas&quot;&gt;貌似是这个&lt;/a&gt;），并且看起来不是新的，很多人甚至穿着都不合身，感觉像是租赁的，日本人民果然是不浪费的典范。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/TouristsFromJapan.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;他们安静，有礼貌，守秩序。话说日本人民用着自己国产的尼康，佳能，索尼相机，想必也很自豪吧。我忽然回想起来我们住的旅店前台有一个日本的旅行中转服务站，往来有很多的日本团体，我询问果然，他们只做面向日本的旅游和特产物流生意。&lt;/p&gt;
+
+&lt;p&gt;我问我们的向导Dave为什么日本人这么多，他说通常冬季日本人甚至整个亚裔人都多。日本人似乎对极光看得极为神圣，如果一生能有幸看见，尤其是对于小孩子，预示着一生平安幸福。他一年四季都带团，但是冬夏的团队游客源地非常不同，夏季主要以欧美人为主，她们主要以国家公园／自然动植物景观为目标，走野外，露营，看动物这些。而冬季则以亚洲人为主，几乎都是以极光和星空为目的。尤其是很多的亚裔朋友，对于星星也都很热衷。Dave说曾经接待过几个香港来的学生，他们虽然没能看到极光，但是看到满眼的明星，有一个妹子竟热泪盈眶，说从小到大都没能看见这样的星空。&lt;/p&gt;
+
+&lt;p&gt;Dave最后跟我说，他每天都能见到这种景致。而因为做旅游的缘故，才知道自己以为是理所应当，并不稀奇的，这清澈的天空和满眼的明星，也会给别人带来快乐和幸福，于是自己也觉得有价值，觉得找到了自己热爱的工作！&lt;/p&gt;
+
+&lt;p&gt;幸运的是，我们确实看到了极光，经过了若干个地方蹲点，以及一两个小时的等候。&lt;/p&gt;
+
+&lt;p&gt;感谢茵茵的创意，我们还通过照片成为了它的一部分。&lt;/p&gt;
+
+&lt;p&gt;我们所在的几个观测地，都很暗，若关掉车灯，就只剩下星星和极光。当晚的极光确实不是很强，肉眼看就是一些白色的光带。但是用相机照，便照出了淡绿色的光。而且极光的变化比我想象的要快，也就几分钟强弱就交替，刚才很明显的部分现在就消逝了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上面的后期都调整过，只有这张是30秒长曝光，没有PS过。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/NLandUs.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;看完极光已经是凌晨，我们次日中午便启程赶往北部小城Barrow。算是在Fairbanks的上半场结束。待我们从Barrow
+返回Fairbanks之后，我们又在这里停留了半天，参观了Museum of the North。这个博物馆位于University of Alaska, Fairbanks内，只有UAF的学生才能享受学生票价。票价虽贵，但是物有所值。我期待的关于阿拉斯加的人文，地理，历史的相近介绍，在这里都有。美中不足是展览的顺序有些混乱，导致参观的连续性被破坏。不过收获还是很多的。UAF的学生可能要承受严寒，短暂的温暖，超长的夏日阳光。但如果是极地生物，生态，考古专业的学生，想必这里一定是学术的天堂，就像密歇根之于汽车行业一样。&lt;/p&gt;
+
+&lt;p&gt;这就是Fairbanks, 严寒之下有着勃勃的生机，于活动，于景观，于生活，于工作，都是一个很赞的小城。很多方面很像安娜堡，除了当然更冷一点。我想我们以后还会再来吧！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;PrudhoeBay&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prudhoe-bay北境的石油城&quot;&gt;Prudhoe Bay：北境的石油城&lt;/h3&gt;
+
+&lt;p&gt;26号中午我们从Fairbanks出发，转乘阿拉斯加航空的飞机飞往Barrow。从机票上得知我们要经过 Prudhoe Bay 这么个地方，甚至还要呆上个把钟头。因为Fairbanks的机场内部太过美好(虽然是一个只有六个登机口的机场，但人家是个国际机场哦！)，我们以为我们会在机场度过。但是我们想多啦！&lt;/p&gt;
+
+&lt;p&gt;阿拉斯加航空在阿拉斯加州是几乎唯一的交通方式，对于他们来说这飞机就像bus，到了一个地方，空乘喊一声，到达目的地的乘客就下飞机，没有到的乘客就继续留在飞机上。而且大一点的飞机，比如737这个尺寸的，只有后半部分是座位，前半仓改为货仓，可见即使对于货运，航空也是最主要的方式。&lt;/p&gt;
+
+&lt;p&gt;从Fairbanks到Prudhoe Bay的飞机是螺旋桨式的庞巴迪Q400型，坐螺旋桨飞机还是头一遭。但是好处是巡航高度低，可以看得东西多。我很意外飞机涂装居然有学校配色的，&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/AlaskaAirline.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;不由得意淫如果底特律有达美的UM配色飞机，MSU校友是否会拒绝乘坐。。&lt;/p&gt;
+
+&lt;p&gt;这趟飞机是从南向北飞，飞进北极圈因此可以见证太阳一步步消失在地平线以下。早就听说PrudhoeBay 是一个石油小城，果然在飞机上就见到了著名的&lt;a href=&quot;https://en.wikipedia.org/wiki/Trans-Alaska_Pipeline_System&quot;&gt;Trans-Alaska Pipeline System&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Pipeline.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;于此同时，还看到了不知为何物的突起，会不会是导弹发射井呢？（不好意思伪军迷高潮了。。）&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/UnknownObjects.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Prudhoe Bay的机场，是一个无比不显眼的房子，什么廊桥之类的根本不用想，从飞机走下来顶着寒风三步并作两步的跑进这个房子，就是所谓的机场候机楼了了。一个不到一百平米的房子，一边是很短小的托运行李投送轨道，另一边是两个交运行李柜台，中部是隔开且迂回着的一条安检通道，通向一个登机门，里面再无候机区，待飞机来了大家在排安检，检查完直接进，就这些了。而此刻的我们已经事实上出了机场了。。所以就到处转转呗！&lt;/p&gt;
+
+&lt;p&gt;此地已经位于北极圈内，当地时间中午两点，当地的天是这样的&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/Prudhoebay.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--{:.some-css-class width=&quot;500&quot;} --&gt;
+
+&lt;p&gt;所以极夜并不是全黑的，约莫相当于清晨四五点。&lt;/p&gt;
+
+&lt;p&gt;机场门口停着一票的F150式的皮卡，而且气温很低，哪怕是停车也不敢熄火，而且很多的车前进风栅都蒙上了皮罩。但是没有找到人询问其用途。既然是石油城，估计这里大部分的工作也都跟此有关吧，所以也都以白人/非原住民为主。而且果然，我们找不到了中国同胞了。。&lt;/p&gt;
+
+&lt;p&gt;机场不远有一个酒店，应该就是当地的一个酒店 Arctic Caribou Inn。这里有三餐，定时供应，而且估计是受限于条件，只有冷餐和简易的三明治。不过价格还算公道。&lt;/p&gt;
+
+&lt;p&gt;在附近转了转也并没有什么新鲜，零下20多度的气温，和猛烈的风让我们也没有机会在外面多转。当我们再次回到机场，正百无聊赖之时，我看到了机场宣传栏的这些广告。&lt;/p&gt;
+
+&lt;p&gt;比较特别的是关于北极熊的警示，私人小航空公司广告，以及出租/售卖集装箱房子。真的是跟低些纬度的地区风情完全不同。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/AdAtPrudhoeBay.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;终于，我们的飞机来了，于是仅有的十几个乘客开始依次序安检登机。再过一个小时，向西北，我们就要到达我们的最后一站，Barrow。这趟飞机是东向西飞，北侧的窗户可以看到飞机上的极光，我们幸运的也看到了，只是因为飞机抖动，照得不理想，所以照片欠奉。。&lt;/p&gt;
+
+&lt;p&gt;Prudhoe Bay这个地方我们并没有停留很久，没法多体验，或许这也就是大部分在这里呆过的人的感觉吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;Barrow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;barrow-utqiaġvik和谐的人与自然&quot;&gt;Barrow (Utqiaġvik)：和谐的人与自然&lt;/h3&gt;
+
+&lt;p&gt;终于，在傍晚时分，我们到达了Barrow，因为飞机飞的不高，我们已经有两次错把之前雪地里的灯光聚集处误以为是Barrow了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowAirport.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这是一个明显比Prudhoe Bay要大的城市，从机场的规模和接机的人数就能看出来。这里就开始能看到不少的因纽特人了，从服饰，发饰就能够看出。这些因纽特人长的很像亚洲人，或者说更像蒙古人。飞机上不止卸下了我们的行李，还卸下了很多打包好的货物，从一些零星露出的标签，可以猜测这些都是些普通的日用品或者食物。忽然回想起Dave说的Barrow的东西都很贵，也就明白了为什么会有这些货物。&lt;/p&gt;
+
+&lt;p&gt;然而即使是个“大城市”，也就只有4000人。我们入住的旅店，King Eider Inn 与机场就是一街之隔而已，五分钟不到就走到了，在这零下20多度+寒风之中，实在是太有帮助了。&lt;/p&gt;
+
+&lt;p&gt;https://upload.wikimedia.org/wikipedia/commons/d/d7/Barrow_Milepost.jpg&lt;/p&gt;
+
+&lt;p&gt;第二天我们就正式开始了在Barrow的参观。我们第一个目标是当地的博物馆，或者正式的名称是Inupiat Heritage Center。从地图上看着段路1.2mile，走20分钟便可。但是我们俨然低估了Barrow的寒风，以至于我们这一路都没有见到一个行人，还有车停下来询问我们是不是还OK？（或者是问我们你们是不是疯了？）当我们顶着寒风历时半个小时走来博物馆的时候，而且没有带风镜，我已经冻成了这个样子。。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowChaozhe.jpg&quot; alt=&quot;&quot; class=&quot;some-css-class&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Barrow隶属north slope Borough, 相当于County这个行政级别，地理位置占据了alaska整个的北部的沿海地区。整个Borough一共有8个villages，包括Barrow，和我们此前到访的Prudhoe Bay，其中Barrow人口最多。根据法律，这片土地属于当地的因纽特人，联邦政府需要使用当地的任何资源都需要经过当地人的同意，包括石油。石油公司每年都会给当地政府交一笔重税。当地居民每年每人可以从政府得到一笔分红，听起来很像广州的城中村对不对？&lt;/p&gt;
+
+&lt;p&gt;但当地人并没有因为能躺着拿钱而富得流油。
+首先他们收入高，物价也高，所有的超市食品都得通过空运，成本极高，比美国本土城市物价高2-3倍。我们去了当地最大的超市，大约是一个像Meijer一样的全科百货，里面的虽然有几乎所有我在村里能见的食品，包括蔬菜水果，甚至冰鲜，但是价格确实是两倍以上。其次是因纽特人并不愿意大肆开发石油，利用卖石油可以发大财。他们是保守的人，体现在他们希望尽最大的努力把这片土地安然无恙地留给他们的后代。所以其实是有的开发是有限的。&lt;/p&gt;
+
+&lt;p&gt;这个展览馆展现了Barrow原住民们努力生存，建立社区与制度，保护自己的权益，抗争以保留自己文化的历程。事实上因纽特人分布在北极圈内的很多国家，作为一个族群，如何在这样一个多元政治环境中发展和繁荣是一个挑战。Barrow作为保留因纽特人这些努力的中心，确实做出了卓越的贡献。&lt;/p&gt;
+
+&lt;p&gt;保留和延续捕鲸文化就是这些努力中的一个。&lt;/p&gt;
+
+&lt;p&gt;从文化传承这点来说，因纽特人如今还努力保持着他们捕鲸的传统，但他们的捕鲸叫做subsistence whaling，即满足生活所需，并非是用于获利。听起来有些残忍，原始，特别是说到捕鲸我们首先想到的是国际社会对日本人民捕鲸活动的抗议。
+但只要踏上Barrow的土地，尤其是冬季，你会觉得，鲸鱼是他们的必须：没有植物能在Barrow存活，人类必须的维生素C的补给如何来？令我们意外的是，鲸鱼皮下脂肪maktak富含丰富的维生素C。我们在Barrow当地的小学看到宣传鲸肉营养成分的海报，鼓励当地年轻人多吃鲸鱼肉，传承他们的传统。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/WhaleMeatPoster.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;由于是subsistence whaling（生活必要捕鲸活动），只有原住民有权利捕鲸，并且售卖鲸鱼肉在当地是违法的，如果你真的想尝尝，只能去问问当地人，他们兴许会从自家冰箱里施舍一小块。
+我们错过了圣诞节在教堂的聚会，据说当天会给游客一些鲸鱼肉吃。鲸鱼的baleen（鲸须）被制成工艺品，用于装饰，这些工艺品也可以卖给游客，创造一些收入。我们住的旅馆的房间，图书馆和博物馆的墙上，都有鲸鱼的baleen装饰。博物馆里有一个这些艺术品的加工室，他们应该是看出了我们是游客，热情的邀请我们进去参观。 他们详细得介绍来了需要用到的鲸的部位，制作流程等，比我们想象中的要细致，哪怕处理的对象是像鲸鱼这样的庞然大物。&lt;/p&gt;
+
+&lt;p&gt;除了补给所需的营养成分，鲸鱼肉的骨头，结实的可以做房子（旧时）和船只的支撑，小巧的可以做成工艺品，而一些难以食用和使用的部分会丢到村子公路的尽头供北极熊食用。这样也防止饥饿的北极熊进到村子里觅食。而也有一些，被做成了雕塑。比如下图的这个鲸鱼骨雕塑，就成了地标。雕像的背后，便是北冰洋。望去茫茫一片越来越黑，实在让人心生恐惧。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowWhaleBone.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;那么要维持生活必须的捕鲸，每年有多少呢？当地人告诉我们具体的数字每年不固定，大约是20-50头就够一年的各种开销了。每年会有三次较大的捕鲸季，每次十几二十几头的样子。考虑到Barrow的原住民占总的原住民的比例，捕鲸的数目不会对种群造成大的影响。&lt;/p&gt;
+
+&lt;p&gt;作为一个大吃省来的人，品尝鲸鱼肉是我barrow的目标之一，然而未能如愿。在了解了他们对捕鲸的认知和操作之后，我打消了这种念头。捕鲸是因纽特人生存生产的一部分，是他们赖以生存的一部分，因为也是自然生态的一部分，有着内在的平衡。像我这样的吃客，不应该打乱这种平衡。&lt;/p&gt;
+
+&lt;p&gt;而他们另一个重要的努力就是把地名从2017年开始从Barrow改回了他们的称呼Utqiaġvik。他们不仅要保留自己的文化习俗，更要传承好自己的语言文字。&lt;/p&gt;
+
+&lt;p&gt;我们来Barrow的另一个期望是观察北极熊。此前我们在Anchorage的博物馆，与Fairbanks的机场都分别见到了北极熊的标本，而来之前听说Barrow会有北极熊出没。然而来了这里一打听，才知道自己太乃义务。&lt;/p&gt;
+
+&lt;p&gt;这是我们在旅店看到的警示。即使旅店老板告诉我们外围有保护，即使我们中午吃饭的地方的老板娘告诉我们她来了20年了也没有在阵子里见过北极熊，他们都说这个警示是有必要的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/PolarBearWarning.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;博物馆工作人员告诉我们最佳的北极熊观测期在秋天，因为北极熊需要大吃一顿来保证过冬的体能，加上居民会丢弃大量的鲸鱼肉，会很容易在公路的末端见到它们。但是必须要由专人带领，做好防护措施。北极熊不同意其它熊类，只有怀孕的母熊才会冬眠。但是冬季他们的活动也会减少，因此很少见。
+调戏北极熊是违法的，只有当地人具有射杀北极熊的权利。北极熊是食物链顶端的动物，如果要去看北极熊，务必找当地人同行，一定注意安全！城市里还是安全的，至少近几十年没有出现过北极熊进到Barrow的城市里面来，但是出了城市范围，就得小心了。&lt;/p&gt;
+
+&lt;p&gt;Barrow这个几千人的小镇气候如此恶劣，冰雪覆盖，冬日又仅有极短的日照，所以市政交通是不太可能有了。
+在冬天，出行就以开车和叫出租车为主。Barrow有多小？出租车司机说在主城去里任何两个地方可以十分钟内到达。即使开车到最北边的陆地尽头，也不肖十分钟。但是因为这个地方太冷了冬天热车至少1小时，而且只要你车超过4小时不开，一定要把接头接上电，保护电池。&lt;/p&gt;
+
+&lt;p&gt;所以我们就搭乘出租车，用一个小半小时左右的时间，走到最北端的Point Barrow，也到南边的Fresh Water Lake，还在城市的主要街道和景点经过，最后回到酒店，边看边开1个半小时，加小费我们给了60刀（标准收费是50刀／小时）。非常方便，可以随时要求停车拍照。&lt;/p&gt;
+
+&lt;p&gt;我们站的地方就是陆地的尽头了，一路没有看到北极熊，甚至没有看到任何动物，这让我心情复杂。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/TheNorth.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Barrow阵子里街道是没有柏油路的，冬季就只能看见雪，夏季可以看到土面。能偶尔看到清雪车，不过他们不是在清除雪，而只是把路面弄平整。&lt;/p&gt;
+
+&lt;p&gt;既然是雪面，就是可以开雪橇的，于是就有了这样的路标。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowRoadSign.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Barrow的居民也早就不住冰屋，搬进了美式的大房子。居民们几乎都是住的木板房（包括我们的旅店）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowBoat.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;房子和地面都有一定的距离，用木桩撑着。这其中原因，我们猜测有两点。首先是防止冬天下大雪堵住门，提升一段可以保证出入畅通，其次是春季化学会产生泥泞多水的路面，这样设计也能够防潮湿。也许还有其他原因。&lt;/p&gt;
+
+&lt;p&gt;即使贵为North Slope Borough的首府，对于一个这样北的小镇，Barrow的社区和基础建设还是很让我们惊奇的。
+从小学、中学、社区大学教育系统一应俱全。&lt;/p&gt;
+
+&lt;p&gt;非常现代化的医院，医院有直升机可以将无法救治的病患45分钟之内送到Anchorage：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowHospital.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;当然拥有饮用水处理厂、污水处理厂、室内运动场、政府大楼、商业写字楼、橄榄球运动场，当然还有机场。总之是个设施非常齐全的社区。最令我们感叹的是在-30摄氏度的环境下，饮用水几乎不会因为水管结冰而中断。他们非常自豪当地有全世界最好喝的自来水，水源就取自离村子不远处的一个淡水湖，他们就叫Fresh Water Lake，当地人还说中国的净水器很好用（自豪呀）。&lt;/p&gt;
+
+&lt;p&gt;Barrow的一个地标就是这个 Milepost，他告诉你世界的一些重要城市的方向和距离。冬日满是积雪，我看不清上面的字&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowRoadMile.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;当天气晴朗的时候据说他是这个模样。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/d/d7/Barrow_Milepost.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;既然是新年到来之际，就自然会有些活动。Winter Game 此时就每天在当地的小学进行着。场内是年轻人参与的运动项目，场外就是孩子们主导的集市，卖自家做的熟食饮料。&lt;/p&gt;
+
+&lt;p&gt;场上比拼的似乎是某种类似摔跤的东西，可惜我们并没能够看懂。。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowWinterGame.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowWinterGame2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们都经常听到关于气候变暖、北极气候变化的新闻。有关于气候变暖对这里的影响，自然是避不开的话题。当地人说其实气候变暖并没有对这里有太大的影响，雨雪量变化不大（此处只是他们的直观感觉而已）。而当我们特别问道气候变暖，捕鲸是否变得困难，博物馆的一位艺术品加工艺人子说，捕鲸难易的变化不是问题，这一切都是自然的安排，自然有他自己的分配，这一切都是自然的循环而已，没必要去多想。因此他们无法理解气候变化的学说以及几百万几千万美元投入在这方面的科学研究上。人是自然的一部分，要敬畏自然的一切。&lt;/p&gt;
+
+&lt;p&gt;细细回味，我们觉得这样的世界观也是可以理解的，你在Barrow这样恶劣的环境下生存，自然与你是无法战胜的，自然太过强大，而你太过渺小，和自然抗争的结果只有寒冷饥饿和死亡。你只能感谢大自然的馈赠，感谢造物主的安排。而导致我们所担心的潜在生态灾难的，不正是因为没有摆正这个心态么？&lt;/p&gt;
+
+&lt;p&gt;对于我们从事科学技术研究的博士生来说，科学技术本身就是认为人类可以理解自然，可以掌握自然规律，可以使用、控制自然，然而这些，对Barrow居民来说太难理解了。但无论如何，咱们科技工作者和因纽特人都用自己认为正确的方式保护着这片土地。&lt;/p&gt;
+
+&lt;p&gt;愿因纽特人永远在这里顽强地，快乐地满足的生活着。&lt;/p&gt;
+
+&lt;p&gt;但是当地人并不是这里的全部，还是有很多外来的移民。旅店的老板是越南移民，饭店的老板是韩国移民，出租车司机是泰国人，他的老板是香港人。而按照他们所说在Barrow大约有20多位亚洲人。记得在Fairbanks的向导Dave说他也是在Barrow长大的非原住民，像他这样的白人也有不少。而且按照他们所说，因为不是原住民，无法从油田收入中分成，所以一切营生都靠自己解决。其实从我们发现这些的一开始，就很好奇，是什么让他们选择留在这里，这个气候并不是很友好的地方。但是这应该是个复杂的问题，我们也不知道该不该问，所以也就一直没有开口。&lt;/p&gt;
+
+&lt;p&gt;28号中午，我们就要离开Barrow了。在机场等候的时候，看到了一群着装整齐的十几岁孩子。因为才知道他们是当地的篮球队，要出征去Anchorage 打比赛。Barrow人的自称Whalers，就像密歇根人称自己为Wolverine一样。所以当地的篮球队和橄榄球队都叫Whaler，中学叫做home of the Whalers。这群运动员们就像当地英雄一样，而因为城市很小，几乎人人都认识，打个招呼，加油打气，有的小女孩们过来和大姐姐们合影留念，俨然一派一派和谐社会。&lt;/p&gt;
+
+&lt;p&gt;这也许就是他们愿意在这里生活的原因之一吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;尾声&quot;&gt;尾声&lt;/h3&gt;
+
+&lt;p&gt;回来之后，总有人问我阿拉斯加怎么样。我觉得很难一两句话概括到位，于是就洋洋洒洒写了这么多废话。感触体会颇多，方方面面。
+冬日里的阿拉斯加并不会是很多人的首选，也许会有人说难道密歇根还没冷够吗？大家都想知道冬日的那里最吸引我的是什么。&lt;/p&gt;
+
+&lt;p&gt;其实阿拉斯加的冰雪项目，滑雪，冰川，狗拉雪橇，冰钓，美国其他的州，甚至密歇根州都有。&lt;/p&gt;
+
+&lt;p&gt;但最吸引我的的阿拉斯加的独特是原住民的独特，是文化的独特。我开始理解了他们的保守，他们的坚持。&lt;/p&gt;
+
+&lt;p&gt;又或许没这么复杂，吸引我的，只是是那深入地平线之下，有重新回来遇见太阳的感动。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Alaska/SunRiseAgain.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--{:.some-css-class width=&quot;500&quot;}--&gt;
+
+</description>
+        <pubDate>Sat, 07 Jan 2017 23:49:20 -0500</pubDate>
+        <link>http://localhost:4000/2017/01/07/alaska.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/07/alaska.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>浅谈一下动力系统和控制理论</title>
+        <description>&lt;p&gt;依然是先立 flag。。。&lt;/p&gt;
+
+&lt;p&gt;未完待续。。。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Dec 2016 01:19:28 -0500</pubDate>
+        <link>http://localhost:4000/2016/12/20/dynamicsandcontrol.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/20/dynamicsandcontrol.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>用Markdown来语言来写文章</title>
+        <description>&lt;p&gt;首先要先去到你博客所在的那个本地文件夹&lt;/p&gt;
+
+&lt;p&gt;添加新的文章请用&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;rake new_post[‘WriteWithMarkdown’]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Markdown 语言的好处是方便添加Latex 公式&lt;/p&gt;
+
+&lt;p&gt;然而还是需要经过一系列&lt;a href=&quot;https://bobbielf2.github.io/blog/2016/08/06/shu-xue-blog/&quot;&gt;设置&lt;/a&gt;，
+并且不同的人还给出了稍微不太一样的方法比如&lt;a href=&quot;http://blog.zhengdong.me/2012/12/19/latex-math-in-octopress/&quot;&gt;这里&lt;/a&gt;,&lt;a href=&quot;http://www.idryman.org/blog/2012/03/10/writing-math-equations-on-octopress/&quot;&gt;还有这里&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;比如我认为最漂亮的公式 欧拉公式 $e^{i\pi}+1=0$。 他包含了自然界最重要的五个常数 $e,i,\pi,1,0$。&lt;/p&gt;
+
+&lt;p&gt;然而我发现似乎是mac的原因，后者是Xcode 的原因&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;会被篡改成&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;造成各种报错。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Dec 2016 00:11:23 -0500</pubDate>
+        <link>http://localhost:4000/2016/12/20/writewithmarkdown.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/20/writewithmarkdown.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>所以我也还是需要写一个怎么创建博客的文章。。</title>
+        <description>&lt;p&gt;因为最近买了新电脑，所以所有的blog安装，部署都要重新来一遍，还涉及到把以前的博客内容转移。。
+然后就各种有问题。现实没法安装Octopress所需要的文件，然后又是异地没法pull，再又是可以下载编辑了但是怎么也没法部署。折腾来折腾去，最后还是不得不全都删了重新来。。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;现在终于似乎都搞好了。。所以这么看来我的第一篇技术博客也会是怎么安装了吧！其实写作的主要目的主要是为了给自己备个份，以后再做好有法可依。&lt;/p&gt;
+
+&lt;p&gt;安装我建议大家使用 &lt;a href=&quot;https://github.com/rbenv/rbenv-installer&quot;&gt;rbenv install&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这里还是涉及到一些细致的东西我稍后会说。&lt;/p&gt;
+
+&lt;p&gt;然后部署我参考的事&lt;a href=&quot;http://willi.am/blog/2015/05/07/configuring-an-existing-octopress-site-on-a-new-machine/&quot;&gt;这里&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;以及我需要美化一下我的博客，这里有一个&lt;a href=&quot;http://foggry.com/blog/2014/04/28/custom-your-octopress-blog/&quot;&gt;参考&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;未完待续…&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Dec 2016 18:43:27 -0500</pubDate>
+        <link>http://localhost:4000/2016/12/18/blogsetuptip.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/18/blogsetuptip.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>先立几个flags</title>
+        <description>&lt;p&gt;我要开始乱说话了。拖延症人人都有，我只是比较严重一些。。。&lt;/p&gt;
+
+&lt;p&gt;先立flag&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;近期想写的话题：&lt;/p&gt;
+
+&lt;p&gt;数学／动力学／控制论&lt;/p&gt;
+
+&lt;p&gt;科学方法论&lt;/p&gt;
+
+&lt;p&gt;美国大选&lt;/p&gt;
+
+&lt;p&gt;随笔&lt;/p&gt;
+
+&lt;p&gt;打算用中文写为主，或许数学／动力学／控制论话题的会用中洋结合甚至纯洋文。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Dec 2016 20:18:07 -0500</pubDate>
+        <link>http://localhost:4000/2016/12/03/flag.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/03/flag.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>就这么开始了</title>
+        <description>&lt;p&gt;这是用Markdown语言写的第一篇博客，也是我用Octopress编辑的博客网站的第一篇。&lt;/p&gt;
+
+&lt;p&gt;据好基友&lt;a href=&quot;https://bobbielf2.github.io    “Bobbie”&quot;&gt;Bobbie&lt;/a&gt;说这是一个非常牛逼的方式，可以真正独立且方便地写自己的博客，于是我就来试试。&lt;/p&gt;
+
+&lt;p&gt;初期打算写一些我的随想和体会，学术的，生活的，兴趣的。我比较喜欢政治和历史的话题，但是平时也没有一个好的环境发声。姑且试一试吧。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;我是从Bobbie的&lt;a href=&quot;https://bobbielf2.github.io/blog/2016/08/06/yong-you-ni-de-ge-ren-bo-ke/       “BobbieBlogHowto”&quot;&gt;介绍&lt;/a&gt;开始的，再加上一些各种Google。还是要谢谢Bobbie的指导！&lt;/p&gt;
+
+&lt;p&gt;这里是另外两个比较好的&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://msching.github.io/blog/2014/04/11/starting/&quot;&gt;基于Github和Octopress搭建属于自己的博客&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://zwgithub.github.io/&quot;&gt;Zhenwei Cao&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;第二个我没有直接索引文章是因为我暂时还不会处理URL中的中文字，还在探索。&lt;/p&gt;
+
+&lt;p&gt;所以博客就这么建立起来了！并不完美，还需努力，但是字可以码起来了。&lt;/p&gt;
+
+&lt;p&gt;工具固然重要，更重要的是内涵不是么？&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 02 Dec 2016 20:48:30 -0500</pubDate>
+        <link>http://localhost:4000/2016/12/02/greeting.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/02/greeting.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
