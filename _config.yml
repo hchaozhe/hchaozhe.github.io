@@ -19,3 +19,5 @@ plugins:
 
 # Google Analytics
 # google_analytics: xx-xxxxxxxx-1  # your google analytics
+
+theme: jekyll-theme-leap-day
