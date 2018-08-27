@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chaozhe's Blog</title>
-    <description>To improve is to change, to be perfect is to change often</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Aug 2018 09:45:06 -0500</pubDate>
-    <lastBuildDate>Sat, 25 Aug 2018 09:45:06 -0500</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
-    
-      <item>
-        <title>影评 Abacus: Small enough to jail</title>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Chaozhe He</title>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>影评 Abacus: Small enough to jail</title>
         <description>&lt;!-- ## 影评：Abacus: Small Enough to Jail --&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
 
@@ -28,7 +24,7 @@
 
 &lt;!-- more --&gt;
 
-&lt;h4 id=&quot;故事简介&quot;&gt;故事简介&lt;/h4&gt;
+&lt;h4 id=&quot;section&quot;&gt;故事简介&lt;/h4&gt;
 
 &lt;p&gt;这个记录片记录了纽约唐人街孙氏家族开办的小银行国宝银行，在被美国纽约曼哈顿地方检察院指控长期系统性的对房利美公司进行贷款欺诈后，经过努力最终成功进行无罪辩护的故事。&lt;/p&gt;
 
@@ -39,7 +35,7 @@
 而引起本案的导火索Ken Yu及其他有犯罪情节的雇员欺诈罪名成立。
 国宝银行虽然得到了清白，却也付出了一千万美元的律师费，和信贷部门停滞的沉重代价。&lt;/p&gt;
 
-&lt;h4 id=&quot;关于案子的背景次贷危机&quot;&gt;关于案子的背景：次贷危机&lt;/h4&gt;
+&lt;h4 id=&quot;section-1&quot;&gt;关于案子的背景：次贷危机&lt;/h4&gt;
 
 &lt;p&gt;这个案子发生在2008年次贷危机之后不久。新世纪以来，片中的国宝银行像很多的美国大小银行一样，会把自己的房屋抵押贷款打包成金融产品卖给房利美和房地美（两房）。我个人不能理解这种买卖行为对房利美有什么好处，房利美怎么盈利。而根据经济学家的解释，很多的大银行批准的过多的不良贷款（所谓的次级贷款，即“次贷”），并且还进行了贷款材料的造价，以便将买给两房以及其他的投资者。而为了隐藏风险，他们还设计了很多复杂的组合债券再销售。因为是次级贷款，并且经过了组合和多次买卖，有连带的债务关系，于是在宏观经济形势出现波动的时候，也就是2007开始，出现了大量的违约和坏账，经济危机就随之爆发了。&lt;/p&gt;
 
@@ -60,7 +56,7 @@
 正是这个就银行的指控，使这个案子备受瞩目。
 因此纽约曼哈顿地区检察官&lt;a href=&quot;https://en.wikipedia.org/wiki/Cyrus_Vance_Jr.&quot;&gt;Cyrus Vance&lt;/a&gt; 才会在发布会上有那么冠冕堂皇，升华意义式的讲话，似乎是宣告检方终于可以指控银行，指出制度的问题，避免类似事情发生，好似要给民众一个交代，对银行业“杀一儆百”。&lt;/p&gt;
 
-&lt;h4 id=&quot;关于案件审判与其暴露的制度问题&quot;&gt;关于案件审判与其暴露的制度问题&lt;/h4&gt;
+&lt;h4 id=&quot;section-2&quot;&gt;关于案件审判与其暴露的制度问题&lt;/h4&gt;
 
 &lt;p&gt;应该说法律上讲，伪造贷款的文件的事情是坐实了，这也是为什么经手这些贷款的银行职员的伪造文件与欺诈都最终被定罪了。
 但是是否足够证明这种违规与欺诈是整个银行层面的，成为了案件的争论重点。&lt;/p&gt;
@@ -108,9 +104,9 @@
 &lt;p&gt;我不敢肯定的同意电影里多人所说的检方挑国宝银行有基于能打赢的考虑。
 但是鉴于这个制度的漏洞，想必纽约地方检察院，也就只能指控这么个国宝银行了吧。&lt;/p&gt;
 
-&lt;!-- “If we had learned anything from the recent mortgage crisis, it's that at some point these schemes unravel and taxpayers can be left holding the bag。”--&gt;
+&lt;!-- “If we had learned anything from the recent mortgage crisis, it&#39;s that at some point these schemes unravel and taxpayers can be left holding the bag。”--&gt;
 
-&lt;h4 id=&quot;关于美国的司法制度的体会&quot;&gt;关于美国的司法制度的体会&lt;/h4&gt;
+&lt;h4 id=&quot;section-3&quot;&gt;关于美国的司法制度的体会&lt;/h4&gt;
 
 &lt;p&gt;这个片子我很喜欢的一点是它呈现了一些美国司法的细节。有关法庭的比如控辩双方的开场陈词，提审证人的片段，陪审团的闭门商议，法官的总结陈词。有关诉讼的比如取证调查，各方意见陈述，策略的讲解，算是比较生动的呈现了一个案件的相关努力。让我感觉最有趣的是两点。&lt;/p&gt;
 
@@ -118,7 +114,7 @@
 
 &lt;p&gt;另一个有意思的是&lt;a href=&quot;https://www.douban.com/note/217120406/&quot;&gt;法庭速写&lt;/a&gt;。美国的法庭大多不许照相录像，大部分允许速写，于是就经常能看见新闻中陈述案件的时候会有速写。这个片子里也用到了速写来呈现案子现场。我觉得速写的画风很奇特，并不完全写实，但是却能刻画出现场的气氛，以及人物在法庭上的表情/心里，一张速写可以概括一整次开庭的重点，这个是照片所不能概括的。也许这就是为什么个法庭速写还是被保留。&lt;/p&gt;
 
-&lt;h4 id=&quot;关于美国的华人社群&quot;&gt;关于美国的华人社群&lt;/h4&gt;
+&lt;h4 id=&quot;section-4&quot;&gt;关于美国的华人社群&lt;/h4&gt;
 &lt;p&gt;某种程度上说，这个案子的争议点，案件关于伪造贷款材料的指控，昭示了华人文化的独特性。&lt;/p&gt;
 
 &lt;p&gt;首先是对于来自亲戚朋友的钱是赠予与贷款的模糊区别。辩方认为大笔的钱流入实际是贷款，是债务，被当作赠予某种程度上就是伪造材料。&lt;/p&gt;
@@ -134,7 +130,7 @@
 
 &lt;p&gt;要解决我认为无外乎两种途径。要么积极参政，推动有相应的金融业务法律法规，适用于华人社群，从制度上认可这种多样性。要么，就只能按照现有的规矩，交税报税，申报收入，公私分明，弱化人情，按现有法律允许的方式行事。&lt;/p&gt;
 
-&lt;h4 id=&quot;获奖预测&quot;&gt;获奖预测&lt;/h4&gt;
+&lt;h4 id=&quot;section-5&quot;&gt;获奖预测&lt;/h4&gt;
 &lt;p&gt;既然参评了奥斯卡，我也就来预测一下。我觉得这部影片获奖的机会很大。&lt;/p&gt;
 
 &lt;p&gt;首先这个片子的主题好。关于经济危机的反思一直都有，很重要，每年都有片子，但大多都是从银行的操作层面。本片更多的是试图暴露司法体系的漏洞，这一点更本质。拍摄的角度也是从律政的角度，比较独特。&lt;/p&gt;
@@ -149,7 +145,7 @@
 
 &lt;p&gt;我主观上也希望他能获奖，以让这个片子，这个案子，背后的深层次原因，获得更多的关注。&lt;/p&gt;
 
-&lt;h4 id=&quot;有意思的番外&quot;&gt;有意思的番外&lt;/h4&gt;
+&lt;h4 id=&quot;section-6&quot;&gt;有意思的番外&lt;/h4&gt;
 
 &lt;p&gt;（1）国宝银行的其中一位辩护律师 Kevin Puvalowski 是我密歇根的校友，他本科读的是政治学。他本科毕业的时候我还没有出生。。&lt;/p&gt;
 
@@ -164,15 +160,13 @@
 &lt;p&gt;（6）这个片子在知乎上有热烈的&lt;a href=&quot;https://www.zhihu.com/question/50873538&quot;&gt;讨论&lt;/a&gt;，关于这个片子，关于这个案子，关于华人，正反意见都有很多，也各有各的道理。其实什么问题都有多角度的意见比较好，这样的争论能让真理愈来愈明。&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 24 Feb 2018 08:33:30 -0600</pubDate>
-        <link>http://localhost:4000/2018/02/24/abacus.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/02/24/abacus.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>从Football看美国</title>
+				<pubDate>Sat, 24 Feb 2018 08:33:30 -0600</pubDate>
+				<link>/2018/02/24/abacus/</link>
+				<guid isPermaLink="true">/2018/02/24/abacus/</guid>
+			</item>
+		
+			<item>
+				<title>从Football看美国</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;来美国快六年了，说对美国知根知底不敢，但是对这个国家也知道了不少，神秘退却，是一个真实生动的国家。&lt;/p&gt;
@@ -188,7 +182,7 @@
 
 &lt;p&gt;NFL的总收入长期以来称霸这四个联盟，然而我们在国内NBA妇孺皆知，然而NFL或者橄榄球却是没人知道。这也许是因为美式足球没有那么普及。 以前我肤浅的以为这只是因为美式足球对力量，身体的要求太高，“太过暴力”，所以国人不喜欢。但是接触了一段时间之后，我发现美国人民喜欢而别的国家不太接受，实在是因为这项运动“太美国了”。&lt;/p&gt;
 
-&lt;h3 id=&quot;初窥美式足球&quot;&gt;初窥美式足球&lt;/h3&gt;
+&lt;h3 id=&quot;section&quot;&gt;初窥美式足球&lt;/h3&gt;
 
 &lt;p&gt;美式足球的场地大约是在一个跟足球一样大的场地进行的，长略长，宽略短。
 不同在于他有很多的线，标志距离，数字旁边的小箭头指示进攻方向，数字表示码数距离对应端区的距离。两端深色的区域是端区，达阵区，也是得分的地方之一。端区边缘的小段标志区表示球门，是另一个得分区域。这些细致的码数标示是美式足球的特色，与他的规则有很密切的关系。&lt;/p&gt;
@@ -220,7 +214,7 @@
 
 &lt;p&gt;细致的阐述规则和战术，我做不到，这个不是本文的主旨。我想从几个侧面来谈谈美式足球的独特魅力，以及他所反映的美国文化特色。&lt;/p&gt;
 
-&lt;h3 id=&quot;美式足球是一个规则很细致的运动&quot;&gt;美式足球是一个规则很细致的运动&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;美式足球是一个规则很细致的运动&lt;/h3&gt;
 
 &lt;p&gt;美式足球给很多人的感觉，包括我没懂规则之前看的感觉，就是不知道他们在干什么，打打停停的，以开球就一堆人抱来抱去，撞来撞去。一会儿打，一会儿又踢上了，每次得分数量还不一样，实在是有点让人挠头，于是观赛的体验就大幅度降低。这主要就是因为橄榄球的规则很细致，术语挺多，很难像足球篮球那样三言两语就讲清楚。&lt;/p&gt;
 
@@ -233,7 +227,7 @@
 
 &lt;p&gt;但是要说到美式足球的最大不同，我要说是回合制（play）。回合制让美式足球有了自己的打法和特点，而他首先体现的就是规则的细致。&lt;/p&gt;
 
-&lt;h4 id=&quot;细说一下回合制&quot;&gt;细说一下回合制&lt;/h4&gt;
+&lt;h4 id=&quot;section-2&quot;&gt;细说一下回合制&lt;/h4&gt;
 
 &lt;p&gt;要细说回合制，我们要回到之前的一幅图 &lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -286,9 +280,9 @@
 
 &lt;!--向前传球是美式足球的改良，但是只能一次。--&gt;
 
-&lt;h3 id=&quot;美式足球是一个分工明确的运动&quot;&gt;美式足球是一个分工明确的运动&lt;/h3&gt;
-&lt;h4 id=&quot;凭什么能分工细致&quot;&gt;凭什么能分工细致？&lt;/h4&gt;
-&lt;p&gt;美式足球毕竟是集体运动，所以像很多的集体运动一样，分工就是一种很常见的办法。这样可以发挥每个队员的特长，让队员有具体的小任务，不至于手足无措，以更好的实现整体队伍的运作。
+&lt;h3 id=&quot;section-3&quot;&gt;美式足球是一个分工明确的运动&lt;/h3&gt;
+&lt;p&gt;#### 凭什么能分工细致？
+美式足球毕竟是集体运动，所以像很多的集体运动一样，分工就是一种很常见的办法。这样可以发挥每个队员的特长，让队员有具体的小任务，不至于手足无措，以更好的实现整体队伍的运作。
 事实上很多团体运动，比如世界三大球足球，篮球，排球等，都有位置和职责分工。
 美式足球也不例外。但是因为我前面所提到的规则的细致，但是它却把这一特点发挥到了极致，尤其是与足球和篮球相比。 与现在足球篮球的模糊化位置的趋势相比，橄榄球的位置感特强，并且并没有减少的趋势。这是为什么呢？&lt;/p&gt;
 
@@ -301,7 +295,7 @@
 &lt;p&gt;有时间换人还不够，还需要能换，并且有人可换。
 美式足球的规则规则允许在非回合进行的时候换人，并且不加限制。而球队人数也保证换人可以实现。美国职业橄榄球队一支队有53名队员，而任何时候都只有11个人在场上。只因为可以整个队伍换上换下。&lt;/p&gt;
 
-&lt;h4 id=&quot;到底有多细&quot;&gt;到底有多细？&lt;/h4&gt;
+&lt;h4 id=&quot;section-4&quot;&gt;到底有多细？&lt;/h4&gt;
 &lt;p&gt;说完了“有时间可换” 和 “有人可换”， 那我们就来看看美式足球分工有多细。&lt;/p&gt;
 
 &lt;p&gt;首先，橄榄球一个球队进攻，防守是两拨人，分别叫进攻组(offensive unit)，防守组(defensive unit)，除此之外还有一个专门在踢球和防守踢球的特勤组(Special team unit)。根据比赛进程和战术安排，场上只会有这三个组中的一个组在场上。而职业联赛几乎没有人进攻防，有少数人因为位置相似可能会同时打进攻和特勤组，或防守和特勤组。一个特例是我们密歇根16到17赛季的Jabrill Pepper,他有时候防守进攻都打，是因为他的能力实在太出众，体能也够充沛。&lt;/p&gt;
@@ -326,7 +320,7 @@
 
 &lt;p&gt;某种意义上讲，这种分工细致与西方的古代战争很像，也许是脱胎与彼。我个人觉得这也是美国崇尚个性和个体的体现，只要你有一技之长，发挥到极致，你也会是集体里不可或缺的那一环。&lt;/p&gt;
 
-&lt;h3 id=&quot;美式足球是一个变化很多战术性很强的运动&quot;&gt;美式足球是一个变化很多，战术性很强的运动&lt;/h3&gt;
+&lt;h3 id=&quot;section-5&quot;&gt;美式足球是一个变化很多，战术性很强的运动&lt;/h3&gt;
 
 &lt;p&gt;这么细致的规则，那是不是打法很受限制，比赛阵势会很死板啊？这个还真不是。规则并不总是因为着死板。
 打个不恰当的比方，唐诗是有严格的音律格式要求的，但是这并没有限制唐诗的繁荣；反过来，因为格式的限制，能驾驭这些限制的人往往很有水准。&lt;/p&gt;
@@ -346,18 +340,18 @@
 
 &lt;p&gt;当然，运动一般都是有技战术的，但是想美式足球这样可以细致的制定和执行的恐怕是没有了。这当然还是得益于规则。&lt;/p&gt;
 
-&lt;h3 id=&quot;跟我有啥关系么&quot;&gt;跟我有啥关系么？&lt;/h3&gt;
+&lt;h3 id=&quot;section-6&quot;&gt;跟我有啥关系么？&lt;/h3&gt;
 &lt;p&gt;橄榄球看起来这么专业，这么激烈，这么有技术含量，那跟我们有什么关系呢？
 的确，如果说比赛的规则方方面面都是生活的延伸，那么娱乐性从和而来呢？&lt;/p&gt;
 
-&lt;h4 id=&quot;美式足球是美式社交文化的助推器&quot;&gt;美式足球是美式社交文化的助推器&lt;/h4&gt;
+&lt;h4 id=&quot;section-7&quot;&gt;美式足球是美式社交文化的助推器&lt;/h4&gt;
 
 &lt;p&gt;也许有人会觉得，回合制虽然可能能打出战术变化，但是打打停停的结果会使比赛缺乏连贯性，不像是足球，90分钟的比赛除了中场休息，球总是在运转，连贯性很强，即使作为观众，也仿佛一刻都不能停歇。如果你也有这样的观察，那祝贺你，因为这又捕捉到了美式足球另一个很美国的地方。看球的时候，大家可以不只专注于比赛，伴随着比赛的打打停停，观众们也可以看看，聊聊，不错过比赛。看球的聚会，因此成为很常见的聚会。美国对看球的聚会有个叫法叫Tailgate party，Tailgate 指的是皮卡车的后斗门，Tailgate party就是指这种直接在车上，在体育场附近停车场就地搞起的看球聚会，通常发生在比赛时，赛前赛后居多。
 如我前面所说，美式足球的打法是打打停停，恰好有助于美国人社交。 Tailgate party就是一个衍生。tailgate指的是皮卡的车斗门，Tailgate party 就指这种直接把车斗们降下来，上面放上吃的东西，就地在停车场搞的看球聚会。很形象。&lt;/p&gt;
 
 &lt;p&gt;美式足球的最高水平莫过于他的职业联盟NFL。而这个联盟每年的总决赛自然是重中之重，就是号称美国春晚的超级碗。称之为美国春晚，是因为观众群体太大，基本上每个美国人都会看。 围绕他的聚会，前前后后的准备以及故事，是很好的社交粘合剂。&lt;/p&gt;
 
-&lt;h4 id=&quot;美式足球是美国校园文化的重要部分&quot;&gt;美式足球是美国校园文化的重要部分&lt;/h4&gt;
+&lt;h4 id=&quot;section-8&quot;&gt;美式足球是美国校园文化的重要部分&lt;/h4&gt;
 
 &lt;p&gt;相信很多人都知道，美国的校园运动文化很浓，学校的明星一般都是运动明星，而不是成绩出众的学生。
 因此，学生们也就以参与各种体育活动为荣。这于美国文化中重视身体素质培养，以探索自然，独立生存的精神有关。
@@ -383,20 +377,20 @@
 
 &lt;p&gt;从1897年第一次到现在我们密大以58胜，49负六平微微领先。因为我们最近实力一般，只是普通强队，我们对OSU的战绩是负少胜多。我们已经连着六年没赢过他们了（是的，从我来密大开始就没赢过）。希望我们今年好运，不敢怎么样其实上不能输！！&lt;/p&gt;
 
-&lt;h4 id=&quot;美式足球其实是一个男女老少都能参与的运动&quot;&gt;美式足球其实是一个男女老少都能参与的运动&lt;/h4&gt;
+&lt;h4 id=&quot;section-9&quot;&gt;美式足球其实是一个男女老少都能参与的运动&lt;/h4&gt;
 
 &lt;p&gt;美式足球的规则繁碎，即使细节众多，然而这并没有让他的参与性打折扣。正是因为规则细致，使得只需要利用规则的修改，就可以提出剔除一些身体接触，降低对抗性，从而降低身体素质（如强壮，速度）带来的优势，让普通人都能参与。腰旗橄榄球就是这样一种普通人可参与的活动。他的规则通过限制攻守队员的接触，剔除了线卫（就是那一群强壮的帮四分卫挡人的大家伙们），并且以撤去腰间的旗子，代替擒抱，让比赛只以跑位和传球来决定，不减趣味性。&lt;/p&gt;
 
 &lt;p&gt;顺便说一句，即使腰旗橄榄球这种本着让更多人参与的项目，也被玩出了名堂，甚至也有职业联盟，去年刚成立。&lt;a href=&quot;https://en.wikipedia.org/wiki/American_Flag_Football_League&quot;&gt;American Flag Football League&lt;/a&gt;
 这一点也符很符合美国人的精神，玩什么都有个专业的圈子。&lt;/p&gt;
 
-&lt;h4 id=&quot;美式足球的科技感很足&quot;&gt;美式足球的科技感很足&lt;/h4&gt;
+&lt;h4 id=&quot;section-10&quot;&gt;美式足球的科技感很足&lt;/h4&gt;
 &lt;p&gt;和很多的运动一样，科技的进步增强了运动的观赏性和技战术水平。而我这里只想举几个两个美式足球独有的例子。&lt;/p&gt;
 
-&lt;h5 id=&quot;转播技术&quot;&gt;转播技术&lt;/h5&gt;
+&lt;h5 id=&quot;section-11&quot;&gt;转播技术&lt;/h5&gt;
 &lt;p&gt;为了方便观众看球所在的位置，和目标的一档线的码线位置，电视转播中会画上虚拟的线。（截图）。不要小看这个小的辅助，看比赛大大容易。而且这个技术也非常有技术含量。因为他不是简单的屏幕上加条线，而是效果近似于场上真实的线，让观众看来仿佛队员也踩在这些线上。 这里有个视频科普了这个技术的前世今生。它从一个侧面，反映了整个视频转播技术的进步。&lt;/p&gt;
 
-&lt;h5 id=&quot;防护技术&quot;&gt;防护技术&lt;/h5&gt;
+&lt;h5 id=&quot;section-12&quot;&gt;防护技术&lt;/h5&gt;
 
 &lt;p&gt;想必大家也有这感觉，美式足球看起来十分专业的一个重要原因就是球员那身“防护”：从头盔，到身上的软甲，再到脚上额护膝护板，总让人感觉这运动“动静很大”。&lt;/p&gt;
 
@@ -413,24 +407,22 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/E-ONNjFoOx0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;尾声&quot;&gt;尾声&lt;/h3&gt;
+&lt;h3 id=&quot;section-13&quot;&gt;尾声&lt;/h3&gt;
 &lt;p&gt;最后，让我们来复习一下&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/Football_Cheat_Sheet.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 13 Oct 2017 22:37:31 -0500</pubDate>
-        <link>http://localhost:4000/2017/10/13/football.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/13/football.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>阿拉斯加之旅</title>
+				<pubDate>Fri, 13 Oct 2017 22:37:31 -0500</pubDate>
+				<link>/2017/10/13/football/</link>
+				<guid isPermaLink="true">/2017/10/13/football/</guid>
+			</item>
+		
+			<item>
+				<title>阿拉斯加之旅</title>
         <description>&lt;p&gt;图：&lt;a href=&quot;https://github.com/owlcee&quot;&gt;owlcee&lt;/a&gt; ;
 文：&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;摘要&quot;&gt;摘要&lt;/h3&gt;
+&lt;h3 id=&quot;section&quot;&gt;摘要&lt;/h3&gt;
 &lt;p&gt;我们策划的旅行是十二月底的阿拉斯加八天七夜游。
 途径Anchorage，Fairbanks，Prudhoe Bay, 和Barrow。
 我们行走于冰川之上，乘狗拉雪橇，泡极地温泉，观星空、拍极光，吹寒冷的极风，北望北冰洋。通过参观博物馆，走访村落，与当地人交流，略悉阿拉斯加的人文地理、自然资源、文化风俗等。
@@ -438,7 +430,7 @@
 
 &lt;!-- more --&gt;
 
-&lt;h3 id=&quot;目录&quot;&gt;目录&lt;/h3&gt;
+&lt;h3 id=&quot;section-1&quot;&gt;目录&lt;/h3&gt;
 
 &lt;p&gt;一、&lt;a href=&quot;#Roadbook&quot;&gt;旅行策划与前期准备（Travel Plan）&lt;/a&gt;&lt;/p&gt;
 
@@ -460,14 +452,14 @@
 
 &lt;p&gt;&lt;a name=&quot;Roadbook&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;一旅行策划与前期准备&quot;&gt;一、旅行策划与前期准备&lt;/h3&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;一、旅行策划与前期准备&lt;/h3&gt;
 
-&lt;h4 id=&quot;开销&quot;&gt;开销&lt;/h4&gt;
+&lt;h4 id=&quot;section-3&quot;&gt;开销&lt;/h4&gt;
 &lt;p&gt;八天下来人均消费约为USD2500。基本都花在了吃、住、门票以及游玩的必须项目上，没有买贵重的纪念品，只有明信片冰箱贴等。加上前期装备物资准备USD500。并不算穷游，但是也是自己按照需求精打细算过，对开销和收获心满意足，并没有感觉贵。&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;itineraray&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;计划itinerary&quot;&gt;计划（Itinerary）&lt;/h4&gt;
+&lt;h4 id=&quot;itinerary&quot;&gt;计划（Itinerary）&lt;/h4&gt;
 
 &lt;p&gt;注：为了照顾我们的国际友人，这一部分用英文。&lt;/p&gt;
 
@@ -600,16 +592,14 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
   &lt;li&gt;Shogun Hibachi.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Barrow:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Northern Lights Restaurant. We think it is the best restaurant in Barrow! Authentic Chinese food, hospitable Korean host!&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Barrow:
+- Northern Lights Restaurant. We think it is the best restaurant in Barrow! Authentic Chinese food, hospitable Korean host!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;Travelblog&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;二旅行游记&quot;&gt;二、旅行游记&lt;/h3&gt;
+&lt;h3 id=&quot;section-4&quot;&gt;二、旅行游记&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 
@@ -636,7 +626,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;Anchorage&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;anchorage被低估的大都市&quot;&gt;Anchorage:被低估的“大都市”。&lt;/h3&gt;
+&lt;h3 id=&quot;anchorage&quot;&gt;Anchorage:被低估的“大都市”。&lt;/h3&gt;
 
 &lt;p&gt;Anchorage 因为其30万的人口而成为了Alaska最大的城市，也因此很容易被当成是州府（其实州府是 Juneau 在Alaska西南）。Anchorage 纬度 约 61° N  ，与斯德哥尔摩（59° N）、圣彼得堡（60° N）相近，而且都处于大陆西岸，且有暖流经过，因此相对温暖。
 相比这两个地方，地处西半球的Anchorage地处北美大陆和亚欧大陆的中点。经空路从这里到日本韩国的距离与到美东的距离相仿，使得这里成为重要的客货运中转。&lt;/p&gt;
@@ -754,7 +744,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;AlaskaRailroad&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;alaska-railroad一路风景如画&quot;&gt;Alaska Railroad：一路风景如画&lt;/h3&gt;
+&lt;h3 id=&quot;alaska-railroad&quot;&gt;Alaska Railroad：一路风景如画&lt;/h3&gt;
 
 &lt;p&gt;我对Fairbanks印象，是从Anchorage到Fairbanks 的火车开始的。
 阿拉斯加这个常年冰封人烟稀少的地方，铁路北向的终点便是Fairbanks。
@@ -800,7 +790,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;Fairbanks&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;fairbanks冰封之下的生机勃勃&quot;&gt;Fairbanks：冰封之下的生机勃勃&lt;/h3&gt;
+&lt;h3 id=&quot;fairbanks&quot;&gt;Fairbanks：冰封之下的生机勃勃&lt;/h3&gt;
 
 &lt;p&gt;当火车驶过Tanana River时，我们也就进入了Fairbanks 地界。
 地处阿拉斯加内陆地区的中心地带，Fairbanks成为重要的交通枢纽，成为阿拉斯加第二大城市。但即使是第二大城市，人口也就不过三万多人，甚至还没有我们密歇根大学学生多&lt;/p&gt;
@@ -905,7 +895,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;PrudhoeBay&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;prudhoe-bay北境的石油城&quot;&gt;Prudhoe Bay：北境的石油城&lt;/h3&gt;
+&lt;h3 id=&quot;prudhoe-bay&quot;&gt;Prudhoe Bay：北境的石油城&lt;/h3&gt;
 
 &lt;p&gt;26号中午我们从Fairbanks出发，转乘阿拉斯加航空的飞机飞往Barrow。从机票上得知我们要经过 Prudhoe Bay 这么个地方，甚至还要呆上个把钟头。因为Fairbanks的机场内部太过美好(虽然是一个只有六个登机口的机场，但人家是个国际机场哦！)，我们以为我们会在机场度过。但是我们想多啦！&lt;/p&gt;
 
@@ -953,7 +943,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;Barrow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;barrow-utqiaġvik和谐的人与自然&quot;&gt;Barrow (Utqiaġvik)：和谐的人与自然&lt;/h3&gt;
+&lt;h3 id=&quot;barrow-utqiavik&quot;&gt;Barrow (Utqiaġvik)：和谐的人与自然&lt;/h3&gt;
 
 &lt;p&gt;终于，在傍晚时分，我们到达了Barrow，因为飞机飞的不高，我们已经有两次错把之前雪地里的灯光聚集处误以为是Barrow了。&lt;/p&gt;
 
@@ -1067,7 +1057,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;尾声&quot;&gt;尾声&lt;/h3&gt;
+&lt;h3 id=&quot;section-5&quot;&gt;尾声&lt;/h3&gt;
 
 &lt;p&gt;回来之后，总有人问我阿拉斯加怎么样。我觉得很难一两句话概括到位，于是就洋洋洒洒写了这么多废话。感触体会颇多，方方面面。
 冬日里的阿拉斯加并不会是很多人的首选，也许会有人说难道密歇根还没冷够吗？大家都想知道冬日的那里最吸引我的是什么。&lt;/p&gt;
@@ -1085,28 +1075,24 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 &lt;!--{:.some-css-class width=&quot;500&quot;}--&gt;
 
 </description>
-        <pubDate>Sat, 07 Jan 2017 22:49:20 -0600</pubDate>
-        <link>http://localhost:4000/2017/01/07/alaska.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/07/alaska.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>浅谈一下动力系统和控制理论</title>
+				<pubDate>Sat, 07 Jan 2017 22:49:20 -0600</pubDate>
+				<link>/2017/01/07/alaska/</link>
+				<guid isPermaLink="true">/2017/01/07/alaska/</guid>
+			</item>
+		
+			<item>
+				<title>浅谈一下动力系统和控制理论</title>
         <description>&lt;p&gt;依然是先立 flag。。。&lt;/p&gt;
 
 &lt;p&gt;未完待续。。。&lt;/p&gt;
 </description>
-        <pubDate>Tue, 20 Dec 2016 00:19:28 -0600</pubDate>
-        <link>http://localhost:4000/2016/12/20/dynamicsandcontrol.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/20/dynamicsandcontrol.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>用Markdown来语言来写文章</title>
+				<pubDate>Tue, 20 Dec 2016 00:19:28 -0600</pubDate>
+				<link>/2016/12/20/dynamicsandcontrol/</link>
+				<guid isPermaLink="true">/2016/12/20/dynamicsandcontrol/</guid>
+			</item>
+		
+			<item>
+				<title>用Markdown来语言来写文章</title>
         <description>&lt;p&gt;首先要先去到你博客所在的那个本地文件夹&lt;/p&gt;
 
 &lt;p&gt;添加新的文章请用&lt;/p&gt;
@@ -1138,15 +1124,13 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;造成各种报错。&lt;/p&gt;
 </description>
-        <pubDate>Mon, 19 Dec 2016 23:11:23 -0600</pubDate>
-        <link>http://localhost:4000/2016/12/19/writewithmarkdown.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/19/writewithmarkdown.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>所以我也还是需要写一个怎么创建博客的文章。。</title>
+				<pubDate>Mon, 19 Dec 2016 23:11:23 -0600</pubDate>
+				<link>/2016/12/19/writewithmarkdown/</link>
+				<guid isPermaLink="true">/2016/12/19/writewithmarkdown/</guid>
+			</item>
+		
+			<item>
+				<title>所以我也还是需要写一个怎么创建博客的文章。。</title>
         <description>&lt;p&gt;因为最近买了新电脑，所以所有的blog安装，部署都要重新来一遍，还涉及到把以前的博客内容转移。。
 然后就各种有问题。现实没法安装Octopress所需要的文件，然后又是异地没法pull，再又是可以下载编辑了但是怎么也没法部署。折腾来折腾去，最后还是不得不全都删了重新来。。&lt;/p&gt;
 
@@ -1164,15 +1148,13 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;未完待续…&lt;/p&gt;
 </description>
-        <pubDate>Sun, 18 Dec 2016 17:43:27 -0600</pubDate>
-        <link>http://localhost:4000/2016/12/18/blogsetuptip.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/18/blogsetuptip.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>先立几个flags</title>
+				<pubDate>Sun, 18 Dec 2016 17:43:27 -0600</pubDate>
+				<link>/2016/12/18/blogsetuptip/</link>
+				<guid isPermaLink="true">/2016/12/18/blogsetuptip/</guid>
+			</item>
+		
+			<item>
+				<title>先立几个flags</title>
         <description>&lt;p&gt;我要开始乱说话了。拖延症人人都有，我只是比较严重一些。。。&lt;/p&gt;
 
 &lt;p&gt;先立flag&lt;/p&gt;
@@ -1191,15 +1173,13 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;打算用中文写为主，或许数学／动力学／控制论话题的会用中洋结合甚至纯洋文。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 03 Dec 2016 19:18:07 -0600</pubDate>
-        <link>http://localhost:4000/2016/12/03/flag.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/03/flag.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>就这么开始了</title>
+				<pubDate>Sat, 03 Dec 2016 19:18:07 -0600</pubDate>
+				<link>/2016/12/03/flag/</link>
+				<guid isPermaLink="true">/2016/12/03/flag/</guid>
+			</item>
+		
+			<item>
+				<title>就这么开始了</title>
         <description>&lt;p&gt;这是用Markdown语言写的第一篇博客，也是我用Octopress编辑的博客网站的第一篇。&lt;/p&gt;
 
 &lt;p&gt;据好基友&lt;a href=&quot;https://bobbielf2.github.io    “Bobbie”&quot;&gt;Bobbie&lt;/a&gt;说这是一个非常牛逼的方式，可以真正独立且方便地写自己的博客，于是我就来试试。&lt;/p&gt;
@@ -1223,12 +1203,10 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 &lt;p&gt;工具固然重要，更重要的是内涵不是么？&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 02 Dec 2016 19:48:30 -0600</pubDate>
-        <link>http://localhost:4000/2016/12/02/greeting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/02/greeting.html</guid>
-        
-        
-      </item>
-    
-  </channel>
+				<pubDate>Fri, 02 Dec 2016 19:48:30 -0600</pubDate>
+				<link>/2016/12/02/greeting/</link>
+				<guid isPermaLink="true">/2016/12/02/greeting/</guid>
+			</item>
+		
+	</channel>
 </rss>

@@ -1,67 +1,50 @@
-# Xian
+# Ink
 
-A simple two-column jekyll theme delicated to wrting.
+Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com) 
 
+![Screenshot](https://s32.postimg.org/gdtp6pw1x/ink.png)
 
-## Preview
+# Installation 
 
-#### Desktop
-![](/images/desktop.png)
+##### Setup on your local machine
+ * Clone or download the repository
+ * You should have [ruby](https://www.ruby-lang.org/en/) installed in your system
+ * Install bundler which helps in specifying and installing dependencies of any Ruby project ```gem install bundler```
+ * Go to the root of the repo and run this - ```bundle install```
+ * Then - ```bundle exec jekyll serve```
 
-#### Mobile
-![](/images/mobile.png)
+##### Make it your own
+ * Fork the repository
+ * Follow the configuration step
+ * Host your site/blog with **Ink**
 
-## Features
+# Configuration 
+ * Change the following in ```_config.yml```
+ ```
+    name:               "Ink"
+    description:        "A minimalistic jekyll theme for humans"
+    url:                ""
+    author:             "thinker3197"
+    email:              "jhondoe@abc.com"
+    gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+    twitter:            "jhondoe"
+    email:              "jhondoe@abc.com"
+    github:             "jhondoe"
+    pinterest:          "jhondoe"
+    linkedin:           "jhondoe"
+    facebook:           "jhondoe"
+    
+ ```
+ * Set the number of posts that appear in each page by changing the ```paginate``` option in ```_config.yml``` file. Default value is 5.
+ * Add more navigation menus in the ```nav``` section in ```_config.yml```. 
+ * Add your custom url in ```url``` option. Example : http://thinker3197.github.io/blog. Consult the ```gh-pages``` branch to see the basic setup for a blog.
+ * Add your custom background by adding a custom background link in the ```background``` option in ```_config.yml```.
+ 
+# Licensce
 
-1. pagination
-2. comments
-3. google analytics
-
-## Install
-
-1. create a repository named "username.github.io"
-2. fork this reporsity to repo in step1, you should see the blog at 'http://username.github.io'
-3. configure more below
-
-Similar process with detailed page with gif can be seen [here](https://github.com/barryclark/jekyll-now/blob/master/README.md)
-
-
-## Configure
-
-In `_config.yml` file
-
-```
-title: Xian   # your title
-author: Xian # your name
-description: Just have some fun here # your description
-avatar: /images/avatar.png # change avatar
-
-```
-
-You can uncomment to set disqus and google analytics.
-
-```
-# Comments
-# disqus:
-#   shortname: xxxx-xxxxx-xxx   # your disqus shortname
-
-# Google Analytics
-# google_analytics: xx-xxxxxxxx-1  # your google analytics
-```
-
-If you want to do any customization, take a look at the code, I've tried to make it as simple as possible. 
-
-## Writing Blogs
-
-Now you're all set, write articles and add to _posts folder, remember to name it as 'yyyy-mm-dd-your-article-title.md' and always add these lines to the begining your blog file.
-
-```
----
-layout: post 
----
-```
+Open sourced under [MIT LICENSE](https://github.com/thinker3197/ink/blob/master/LICENSE) 
 
 
-## Thanks
 
-[Farbtle](https://github.com/YCF/Farbtle) from [YCF](https://github.com/YCF), I steal a lot from him.
+
+

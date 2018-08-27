@@ -1,23 +1,52 @@
-title: Chaozhe's Blog   # your title
-author: Chaozhe He # your name
-description: To improve is to change, to be perfect is to change often # your description
-avatar: /images/George_Patton.jpg # change avatar
+name:               "Chaozhe He"
+description:        "To improve is to change, to be perfect is to change often # your description"
 
-# Build Settings
-markdown: kramdown
-highlighter: rouge
+url:                ""
+author:             "ChaozheHe"
+email:              "hchaozhe@umich.edu"
+gravatar_hash:      "f66118e374b1450f61780521b9a95fec"
+twitter:            "Robert.Chaozhe.He"
+email:              "hchaozhe@umich.edu"
+github:             "hchaozhe"
+pinterest:          "chaozhehe"
+linkedin:           "chaozhe-he-04606017"
+facebook:           "chaozhe.he"
 
-# Pagination
-paginate: 10
-paginate_path: "/page:num/"
-plugins: 
+# disqus_shortname:   "thinker3197"
+
+# the background picture
+background:         "http://apple.wallpapersfine.com/wallpapers/original/750x1334/w-17189.jpg"
+
+paginate:           10
+paginate_path:      "/page:num/"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    href:           "/about"
+  - name:           "Download"
+    href:           "/releases"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
   - jekyll-paginate
-
-# Comments
-# disqus:
-#   shortname: xxxx-xxxxx-xxx   # your disqus shortname
-
-# Google Analytics
-# google_analytics: xx-xxxxxxxx-1  # your google analytics
-
-theme: jekyll-theme-leap-day

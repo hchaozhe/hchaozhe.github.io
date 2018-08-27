@@ -1,13 +1,8 @@
 ---
-layout: post
 title: About
-active: about
+permalink: /about/
 ---
 
+<p class="heavy-title"><a href="http://github.com/thinker3197/Ink">Ink</a> is a simple & minimalistic theme for <a href="http://jekyllrb.com">Jekyll</a>, a static site generator.</p>
 
-This is a simple two-column [jekyll](https://jekyllrb.com/) theme delicated to wrting.
-
-You can get to know more about this theme [here]().
-
-
-Theme inspire by [Farbtle](https://github.com/YCF/Farbtle), I steal most CSS from him.
+>Designed and developed by [@thinker3197](https://github.com/thinker3197).
