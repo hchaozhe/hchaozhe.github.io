@@ -1,4 +1,8 @@
-# Ink
+
+
+
+
+# This webesite is generated from Ink theme 
 
 Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com) 
 

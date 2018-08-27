@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Chaozhe He</title>
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>hchaozhe.github.io</link>
+		<atom:link href="hchaozhe.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>影评 Abacus: Small enough to jail</title>
@@ -161,8 +161,8 @@
 
 </description>
 				<pubDate>Sat, 24 Feb 2018 08:33:30 -0600</pubDate>
-				<link>/2018/02/24/abacus/</link>
-				<guid isPermaLink="true">/2018/02/24/abacus/</guid>
+				<link>hchaozhe.github.io/2018/02/24/abacus/</link>
+				<guid isPermaLink="true">hchaozhe.github.io/2018/02/24/abacus/</guid>
 			</item>
 		
 			<item>
@@ -413,8 +413,8 @@
 &lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/Football_Cheat_Sheet.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 13 Oct 2017 22:37:31 -0500</pubDate>
-				<link>/2017/10/13/football/</link>
-				<guid isPermaLink="true">/2017/10/13/football/</guid>
+				<link>hchaozhe.github.io/2017/10/13/football/</link>
+				<guid isPermaLink="true">hchaozhe.github.io/2017/10/13/football/</guid>
 			</item>
 		
 			<item>
@@ -1076,8 +1076,8 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 </description>
 				<pubDate>Sat, 07 Jan 2017 22:49:20 -0600</pubDate>
-				<link>/2017/01/07/alaska/</link>
-				<guid isPermaLink="true">/2017/01/07/alaska/</guid>
+				<link>hchaozhe.github.io/2017/01/07/alaska/</link>
+				<guid isPermaLink="true">hchaozhe.github.io/2017/01/07/alaska/</guid>
 			</item>
 		
 			<item>
@@ -1087,8 +1087,8 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 &lt;p&gt;未完待续。。。&lt;/p&gt;
 </description>
 				<pubDate>Tue, 20 Dec 2016 00:19:28 -0600</pubDate>
-				<link>/2016/12/20/dynamicsandcontrol/</link>
-				<guid isPermaLink="true">/2016/12/20/dynamicsandcontrol/</guid>
+				<link>hchaozhe.github.io/2016/12/20/dynamicsandcontrol/</link>
+				<guid isPermaLink="true">hchaozhe.github.io/2016/12/20/dynamicsandcontrol/</guid>
 			</item>
 		
 			<item>
@@ -1125,8 +1125,8 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 &lt;p&gt;造成各种报错。&lt;/p&gt;
 </description>
 				<pubDate>Mon, 19 Dec 2016 23:11:23 -0600</pubDate>
-				<link>/2016/12/19/writewithmarkdown/</link>
-				<guid isPermaLink="true">/2016/12/19/writewithmarkdown/</guid>
+				<link>hchaozhe.github.io/2016/12/19/writewithmarkdown/</link>
+				<guid isPermaLink="true">hchaozhe.github.io/2016/12/19/writewithmarkdown/</guid>
 			</item>
 		
 			<item>
@@ -1149,8 +1149,8 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 &lt;p&gt;未完待续…&lt;/p&gt;
 </description>
 				<pubDate>Sun, 18 Dec 2016 17:43:27 -0600</pubDate>
-				<link>/2016/12/18/blogsetuptip/</link>
-				<guid isPermaLink="true">/2016/12/18/blogsetuptip/</guid>
+				<link>hchaozhe.github.io/2016/12/18/blogsetuptip/</link>
+				<guid isPermaLink="true">hchaozhe.github.io/2016/12/18/blogsetuptip/</guid>
 			</item>
 		
 			<item>
@@ -1174,8 +1174,8 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 &lt;p&gt;打算用中文写为主，或许数学／动力学／控制论话题的会用中洋结合甚至纯洋文。&lt;/p&gt;
 </description>
 				<pubDate>Sat, 03 Dec 2016 19:18:07 -0600</pubDate>
-				<link>/2016/12/03/flag/</link>
-				<guid isPermaLink="true">/2016/12/03/flag/</guid>
+				<link>hchaozhe.github.io/2016/12/03/flag/</link>
+				<guid isPermaLink="true">hchaozhe.github.io/2016/12/03/flag/</guid>
 			</item>
 		
 			<item>
@@ -1204,8 +1204,8 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 </description>
 				<pubDate>Fri, 02 Dec 2016 19:48:30 -0600</pubDate>
-				<link>/2016/12/02/greeting/</link>
-				<guid isPermaLink="true">/2016/12/02/greeting/</guid>
+				<link>hchaozhe.github.io/2016/12/02/greeting/</link>
+				<guid isPermaLink="true">hchaozhe.github.io/2016/12/02/greeting/</guid>
 			</item>
 		
 	</channel>
