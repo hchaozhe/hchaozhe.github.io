@@ -15,7 +15,7 @@ facebook:           "chaozhe.he"
 # disqus_shortname:   "thinker3197"
 
 # the background picture
-background:         "http://apple.wallpapersfine.com/wallpapers/original/750x1334/w-17189.jpg"
+background:         "BackgroundForBlog1"
 
 paginate:           10
 paginate_path:      "/page:num/"
