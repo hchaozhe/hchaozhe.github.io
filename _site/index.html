@@ -11,6 +11,33 @@
 </head>
 
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
+    MathJax.Hub.Config({
+                       config: ["MMLorHTML.js"],
+                       extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js"],
+                       jax: ["input/TeX"],
+                       tex2jax: {
+                       inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                       displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                       processEscapes: false
+                       },
+                       TeX: {
+                       TagSide: "right",
+                       TagIndent: ".8em",
+                       MultLineWidth: "85%",
+                       equationNumbers: {
+                       autoNumber: "AMS",
+                       },
+                       unicode: {
+                       fonts: "STIXGeneral,'Arial Unicode MS'"
+                       }
+                       },
+                       showProcessingMessages: false
+                       });
+    </script>
+
+
 <body class="preload">
     <div class="top"></div>
     <div class="profile" style="background-image: url(http://apple.wallpapersfine.com/wallpapers/original/750x1334/w-17189.jpg);">
@@ -44,7 +71,7 @@
     <div class="posts">
         <header class="bloghead">
     <h1 class="bloghead-title">
-    <a href="hchaozhe.github.io/">Chaozhe He<span>&#39;s blog</span></a>
+    <a href="http://localhost:4000/">Chaozhe He<span>&#39;s blog</span></a>
   </h1>
     <nav class="bloghead-nav">
         
@@ -54,6 +81,15 @@
 </header>
 <div class="content">
      
+    <div class="post-list">
+        <h2 class="post-title">
+      <a href="/2020/05/01/PHDLookback/">博士回望：这或许才是真正的致谢</a>
+    </h2> 
+        <div class="post-date">
+            <time>01 May 2020</time>
+        </div>
+    </div>
+    
     <div class="post-list">
         <h2 class="post-title">
       <a href="/2018/02/24/abacus/">影评 Abacus: Small enough to jail</a>
@@ -83,10 +119,10 @@
     
     <div class="post-list">
         <h2 class="post-title">
-      <a href="/2016/12/20/dynamicsandcontrol/">浅谈一下动力系统和控制理论</a>
+      <a href="/2016/12/19/dynamicsandcontrol/">浅谈一下动力系统和控制理论</a>
     </h2> 
         <div class="post-date">
-            <time>20 Dec 2016</time>
+            <time>19 Dec 2016</time>
         </div>
     </div>
     

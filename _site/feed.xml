@@ -2,8 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Chaozhe He</title>
-		<link>hchaozhe.github.io</link>
-		<atom:link href="hchaozhe.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>博士回望：这或许才是真正的致谢</title>
+        <description>&lt;!-- ## 博士回望：这或许才是真正的致谢 --&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2018年年底，在经过了6六年半的努力，我终于“熬出了头”，成功获得了博士学位。
+从临近毕业开始，就觉得应该写个什么总结，毕竟六年半的时间不短，又恰好是自己最有精力，最活跃的时候，总该有点什么想说的。
+然而每每一拿起笔，就觉得不知道从哪里说起。&lt;/p&gt;
+
+&lt;p&gt;我们常管攻读博士学位叫做“读博士”，这其实是个不准确的说法。我常跟我不读博士的朋友说我们不是再像本科及以前那样事在读书了，而更像是工作——你不再只是上上课，写写作业了。
+工作的内容就是自一个领域里发现一个或几个问题，了解别人是怎么探索这些问题的，思考该怎么解决。
+工作很可能还包括教书，思考怎么把知识给学生讲懂。
+一个博士生，其实就是三分之一学生，三分之一老师，三分之一研究人员，是个“预备教授”。
+所以要真说体会，应该也不再是学习体会，更应该是学习和工作体会吧。&lt;/p&gt;
+
+&lt;p&gt;如今工作也一年半了，对学术研究与业界工作之不同渐渐有了些体会。偶然想到自己在本科毕业，申请尘埃落定之时，曾经应学校号召，写过关于大学，关于申请的体会。回看当时的体会，现在也依然使用，只是自己对社会的认识又有所深入，似乎可以终于可以关于博士的体会做点总结。&lt;/p&gt;
+
+&lt;p&gt;细想下来，恰好又是三点。&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h3 id=&quot;1-做学术摆正心态要谦虚谨慎不妄自尊大要耐得住寂寞不妄自菲薄&quot;&gt;1 做学术摆正心态：要谦虚谨慎，不妄自尊大，要耐得住寂寞，不妄自菲薄。&lt;/h3&gt;
+
+&lt;p&gt;说起学术这个工作，想必大家都知道要谦虚谨慎，不妄自尊大，要虚心学习前人的成果。这个非常重要，我完全认同。但是我想强调的的是另一个方向。&lt;/p&gt;
+
+&lt;p&gt;我们博士生都有有导师，所以在博士工作的重要的节点上，或者在有问题的时候，导师会提点或帮你解决。但是更多的时候，你是自己探索，自己思考，自己制定计划，按照自己的节奏去做事。
+诚然，学术工作，尤其是热点方向，讲究时效性，第一个弄出来的人往往会影响整个方向的发展走向。但是事实是，即是是完全相同的问题，大家研究的角度都略有不同，所以在一个博士生的领域里，每个研究的问题，都可以是说独一无二的。只要解决了，就是前沿，重要的不是跟谁比，而是把问题做好，做实，做精。&lt;/p&gt;
+
+&lt;p&gt;比较的心理是很容易支配一个人的，我自己也有过这样的焦虑和沮丧，跟别人比较，已经毕业的或没毕业的，组里的非组里的。
+毕竟看别人快速发文章快速毕业不是那么好受的。然后一路走来，我发现正是因为大家都在面对的着不一样的问题，这种比较是没有太多意义的，快慢不确定性很大。我们每个博士生能做的，就是镇静，沉住气，耐住自己面对问题解决问题的寂寞。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-科研说起来也简单大胆假设小心求证&quot;&gt;2 科研说起来也简单：大胆假设，小心求证&lt;/h3&gt;
+
+&lt;p&gt;我读博士的初心来自对未知的好奇。
+大学课程中我总是时不时有感觉有些东西没明白，我就时常有感觉自己有东西觉得没学明白，好像背后还有什么，这个感觉越到后面越感觉强烈。
+带着这些疑问我曾经从常微分方程课本推进到了非线性动力系统定性分析，从线性系统理论推进到了最优控制理论，从线性规划推进到了半定规划。这些推进的过程中，我跟老师，跟前辈学长学姐交流过不少。也不记得啥时候开始，他们中开始有人建议我读个博士看看。我记得有个老师说知识是学不完的，但是也许一个博士学位能满足你的好奇。而另一个老师劝我，你最需要的不是更多知识，一套探寻真理的方法论，不如读个博士看看吧。&lt;/p&gt;
+
+&lt;p&gt;探寻真理的方法论？！听起来好厉害。&lt;/p&gt;
+
+&lt;p&gt;于是我就带着这个期待，来到了Michigan。我一直专注于研究课题本身，稀里糊涂下来六年下来，好像也并没感觉有什么探寻真理的方法论？也许方法论就是怎写文章，怎么查文献，发现研究问题的嗅觉和解决问题的灵感？&lt;/p&gt;
+
+&lt;p&gt;直到我工作之后，再回过头来看，才发现其实这个方法论简单，就是我很早就听过的：大胆假设，小心求证。只是当初刚听八个字，更多的觉得这是个态度，不是方法论。&lt;/p&gt;
+
+&lt;p&gt;大胆假设，小心求证，这背后的一个重要前提是：你知道你的假设，你的求证过程是对的。博士之前，我们面对的问题往往有标准答案，或者有一个客观的事物（比如老师，专家）可以给你个评判，告诉你对错，靠谱还是扯淡。
+博士以后，这样的客观评判就往往不存在了。你就是这个领域可能唯一的专家。
+你需要想办法证明你的假设/推断/论证过程和结果是对的。
+一方面，你是为自己的工作可靠性证明，另一方面，这个想办法证明的过程其实是在为你的工作寻找可靠性的边界，知道局限性在哪里。证明了可靠性，是一轮“大胆假设，小心求证”的结束，而局限性所在之处，就是下一轮大胆假设小心求证的开始。
+这个不断的思考如何证明的假设/推断/论证过程和结果的意识和行为，就是我认为的探寻真理的方法论。&lt;/p&gt;
+
+&lt;p&gt;诚然，科研工作一般都会有同行评议，但是同行评议更多检验的是你证明你结果正确的思路是否合理。比如你的理论工具假设是否成立，你的验证实验设计是不是合理，等等。而因为这个证明你的结论正确的过程是出自你的手，作为工作的完成人，你就要为你的工作负责，其他的研究，才有可能以你的为基础，继续向前。&lt;/p&gt;
+
+&lt;p&gt;工作之后，我突然发现原来并不是所有的人都有这样的理念：我知道我为什么要这么做，我知道怎么证明我做的是对的，我知道什么时候这么做就不对了。博士老师言传身教，潜移默化之间，我建立了这套方法论。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-交流沟通是必须&quot;&gt;3 交流，沟通是必须&lt;/h3&gt;
+&lt;p&gt;这个似乎是我最重要的体会和转变，我放在最后。
+实话实说，我一开始是不是太愿意交流的。本科的时候我还按照我之前习得的习惯学习，愿意自己干自己的：自己写作业，不跟别人“对答案”，自己看文章，看不懂就自己查，直到自己能说服自己为止，跟老师汇报，只提计划和结果，不提未解决的问题，觉得问题都是需要自己解决的。&lt;/p&gt;
+
+&lt;p&gt;本科以这样的方式学习和做科研或许是可以的，因为整体来说问题都简单，有明确的答案，依靠自己的意志力和思维强度，大约也都能解决。
+但是到了研究生阶段，无论是课程还是科研，这点都不灵了：有时候碰到个困难的问题自己想不通，甚至一筹莫展；有时候碰到了一个牛角尖，毫不知情的情况下就钻了进去，出也出不来；有的时候面对科研工作进展的不顺利，会显得很沮丧，等等等等。。。&lt;/p&gt;
+
+&lt;p&gt;其实跟他人交流，有的时候并不是为了要寻找答案，寻求他人的指导。试着把自己的问题捋清楚，可以他人分享，让他人理解，其实有的时候已经能够帮你解决大部分的问题。当问题清楚之后，即是他人并不属于这个专业，往往一个不同角度的观察者，可以给出出乎意料的建议。最次，交流之后，没有得到有针对性的回应，沟通本身也是一种调解。据我所知，大部分的博士生，都有这样那样的坎儿。沟通之后，能够获得通感，让你知道你的所有情绪都是正常的。我有幸得到了很多博士前辈或同僚的帮助，但愿那些交流之中我也有帮到他们。&lt;/p&gt;
+
+&lt;p&gt;另一方面，交流的重要，不止体现在这种“求助式”的交流上。我个人感觉，做科研，实际做和给他人展示所花的比重大约各占1/3，剩下的1/3是写作和总结的时间。我们中国人接受的教育大约是做十分，再讲十分，而在美国，大约要是边做十分，哪怕做到了七分，也要讲十分。把自己工作的价值向别人清楚的“推销”出去，是一个十分重要的工作。做学术的场合也包括在会议上推广自己的工作，同时了解他人的工作，能够更迅速准确的引领，或者至少紧追业内趋势。没有主动交流的心，这些形式的学术就做不好。&lt;/p&gt;
+
+&lt;h3 id=&quot;结语&quot;&gt;结语&lt;/h3&gt;
+&lt;p&gt;以上，是我最大的三点体会。我题目说这或许是我真正的致谢。
+并不是说我的致谢写的不满意。我很喜欢我的致谢，哪怕它很格式很工整标准化。
+这里的致谢是给时间的——花时间努力，过后都有回报，有更深的体会。&lt;/p&gt;
+
+&lt;p&gt;最后附上我本科毕业前夕应邀写给来年新生的话（然而并不知道后来有没有人看，反正是放在彼时的人人网上了）。现在回看，依然感觉适用，也感觉自己的变化，或许这就是成长吧。&lt;/p&gt;
+
+&lt;p&gt;亲爱的学弟、学妹们：&lt;/p&gt;
+
+&lt;p&gt;你们好！欢迎你们来到北航！
+请允许我以一个过来人的身份，卖一回老，与你们分享一下我对大学的体会。&lt;/p&gt;
+
+&lt;p&gt;初来时你一定有很多的期待，但是我要告诉你们，你们中的大部分人会很快产生失望的情绪：为什么大学还要上这么多没什么用的课？为什么还有这么多的纪律和规定？为什么北航的课程这么的水的样子？我读的这个专业好没有前途啊。。。。。。&lt;/p&gt;
+
+&lt;p&gt;是的，大学不是你高三时所憧憬的那个自由的天堂，你依然受各种约束，有各种负担。但不同的是，不再有一个人时刻提醒你该做什么，不该做什么。你会迷茫，会彷徨，会无助。听起来蛮恐怖的，但是这是机遇。抓住它，你会成长，你会变强！&lt;/p&gt;
+
+&lt;p&gt;我相信，能够到北航来，你的水平一定很好。甚至，你可能是你原来高中班上、学校里的佼佼者，你可能还为自己没有考上清华、北大而惋惜，憋着劲儿要证明自己和他们是一样的。但是我想说，国内的大学，只要到了北航这个层次的，学校能带给你的优势没有太大的差别，或者说直白点，清华的学生并不比我们优秀多少。特别是现在国内的高等教育处在一个改革的“动荡期”，随着时间的增长，你们可能会对大学的教育水平失望。而我要告诉你们的是，无论你所处的大学是什么样子，都不能够完全决定你的状态。你所能做的，就是尽力用一切可用的资源，充实自己。
+那么，一个常见的问题是，大学过完后，究竟该收获些什么呢？
+我也谈谈我的体会：&lt;/p&gt;
+
+&lt;p&gt;1、自主学习的方法&lt;/p&gt;
+
+&lt;p&gt;“大学生，就是大部分时间在学习的学生”，这是很多人的共识，但是学什么似乎就没有那么统一了。对于理工科各个来说，本科阶段的知识都比较基础，很难直接掌握课内知识之后就立即可以从事前沿的科研或者一线的工作。本科的训练是一种独立学习能力的训练。老师不会细致的把每一个要点都讲解清楚，不会带着你搞清楚课后的每一道题，甚至是任何一个作业的解答，你都可能无法从老师处获得。因此，大部分的时间里，自己翻阅课本和参考文献，自己总结课程的重点和主线。无论你毕业之后是从事什么行业，你都是在经历一个发现问题，解决问题的过程，这与你在大学里进行独立自主的学习的过程是一样的。假设你具备了自己学习新知识的方法，那么以后你面对任何问题，你都不会慌张，一定能一步一步找到答案。&lt;/p&gt;
+
+&lt;p&gt;2、待人处事的能力&lt;/p&gt;
+
+&lt;p&gt;大学是一个小社会，一个没有那么复杂的社会。在这里的4年时间里，你要和不同文化背景的人交流，学会理解尊重他们的观点；和不同生活习惯的人一同生活，学会迁就他们的生活节奏，学会适应；和不同角色的人打交道，学会了解和赞许他们的工作，在方便的时候请他们出手相助。这些待人处事的能力，会让你更充分的时间自我的价值，更容易达成自己的目标，也让你所在的任何一个集体，能够因你的存在而积极向上。
+要记住，从大学开始，你将是社会的一份子，一个独立承担自己行为责任的成年人，要坚强，不要指望得到别人的同情和理解（当然，如果得到了，一定要心怀感激，知恩图报）。但不能因此而对别人冷漠，依然要热情，要乐于帮助他人，主动，善意的施予恩惠，不图回报。在大学的四年里，趁年轻，趁大学这个不那么复杂的环境还能够包容你所犯的错误时，尽快学会如何待人处事。&lt;/p&gt;
+
+&lt;p&gt;3、纯洁无暇的友情&lt;/p&gt;
+
+&lt;p&gt;或许，在大学的校园里，是你最后的机会去认识一些完全对你无害的朋友。本科四年里，你远离家乡，远离父母，能够帮助你的，是你的室友，你的同学。而且这种帮助，是不带任何功利思想的。大学里的每个人，无论家庭背景如何，自己都是一无所有的，大家也还没有沾染上社会上的乌烟瘴气，都还有一颗向善的心，都还有单纯的理想。大学的友情有多深呢？也许初入校园的时候你还不曾体会，你还相信自己独立可以处理很多事情。但当毕业季来临时，当你们一起在最后的毕业聚会上说起分别的话时，你们才会感觉那些往日的美好，这些美好一定能够湿润你们的双眼。所以，你们要珍惜和大学里的朋友相处的每一分每一秒，维持这些美好的友情。这样，无论多少年后，当你们再相聚时，你们依然能够找回这份情当年的纯劲儿。&lt;/p&gt;
+
+&lt;p&gt;以我个人的体会，倘若大学的四年能够收获上面的三件，便已充实而有意义。当然，大学的生活是你们自己的，你们有权决定如何让它变得精彩！就像我入学的时候学长学姐们告诉我的，“大学生活，精彩的，各有各的精彩；平庸的，都是一样平庸”。
+让自己的大学过得精彩，你准备好了么？
+祝你们在北航一切顺利！&lt;/p&gt;
+
+&lt;p&gt;何超喆&lt;/p&gt;
+
+&lt;p&gt;2008级 本科生&lt;/p&gt;
+
+&lt;p&gt;2012.05.11&lt;/p&gt;
+
+</description>
+				<pubDate>Fri, 01 May 2020 08:00:00 -0700</pubDate>
+				<link>http://localhost:4000/2020/05/01/PHDLookback/</link>
+				<guid isPermaLink="true">http://localhost:4000/2020/05/01/PHDLookback/</guid>
+			</item>
 		
 			<item>
 				<title>影评 Abacus: Small enough to jail</title>
@@ -24,7 +137,7 @@
 
 &lt;!-- more --&gt;
 
-&lt;h4 id=&quot;section&quot;&gt;故事简介&lt;/h4&gt;
+&lt;h4 id=&quot;故事简介&quot;&gt;故事简介&lt;/h4&gt;
 
 &lt;p&gt;这个记录片记录了纽约唐人街孙氏家族开办的小银行国宝银行，在被美国纽约曼哈顿地方检察院指控长期系统性的对房利美公司进行贷款欺诈后，经过努力最终成功进行无罪辩护的故事。&lt;/p&gt;
 
@@ -35,7 +148,7 @@
 而引起本案的导火索Ken Yu及其他有犯罪情节的雇员欺诈罪名成立。
 国宝银行虽然得到了清白，却也付出了一千万美元的律师费，和信贷部门停滞的沉重代价。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-1&quot;&gt;关于案子的背景：次贷危机&lt;/h4&gt;
+&lt;h4 id=&quot;关于案子的背景次贷危机&quot;&gt;关于案子的背景：次贷危机&lt;/h4&gt;
 
 &lt;p&gt;这个案子发生在2008年次贷危机之后不久。新世纪以来，片中的国宝银行像很多的美国大小银行一样，会把自己的房屋抵押贷款打包成金融产品卖给房利美和房地美（两房）。我个人不能理解这种买卖行为对房利美有什么好处，房利美怎么盈利。而根据经济学家的解释，很多的大银行批准的过多的不良贷款（所谓的次级贷款，即“次贷”），并且还进行了贷款材料的造价，以便将买给两房以及其他的投资者。而为了隐藏风险，他们还设计了很多复杂的组合债券再销售。因为是次级贷款，并且经过了组合和多次买卖，有连带的债务关系，于是在宏观经济形势出现波动的时候，也就是2007开始，出现了大量的违约和坏账，经济危机就随之爆发了。&lt;/p&gt;
 
@@ -56,7 +169,7 @@
 正是这个就银行的指控，使这个案子备受瞩目。
 因此纽约曼哈顿地区检察官&lt;a href=&quot;https://en.wikipedia.org/wiki/Cyrus_Vance_Jr.&quot;&gt;Cyrus Vance&lt;/a&gt; 才会在发布会上有那么冠冕堂皇，升华意义式的讲话，似乎是宣告检方终于可以指控银行，指出制度的问题，避免类似事情发生，好似要给民众一个交代，对银行业“杀一儆百”。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-2&quot;&gt;关于案件审判与其暴露的制度问题&lt;/h4&gt;
+&lt;h4 id=&quot;关于案件审判与其暴露的制度问题&quot;&gt;关于案件审判与其暴露的制度问题&lt;/h4&gt;
 
 &lt;p&gt;应该说法律上讲，伪造贷款的文件的事情是坐实了，这也是为什么经手这些贷款的银行职员的伪造文件与欺诈都最终被定罪了。
 但是是否足够证明这种违规与欺诈是整个银行层面的，成为了案件的争论重点。&lt;/p&gt;
@@ -104,9 +217,9 @@
 &lt;p&gt;我不敢肯定的同意电影里多人所说的检方挑国宝银行有基于能打赢的考虑。
 但是鉴于这个制度的漏洞，想必纽约地方检察院，也就只能指控这么个国宝银行了吧。&lt;/p&gt;
 
-&lt;!-- “If we had learned anything from the recent mortgage crisis, it&#39;s that at some point these schemes unravel and taxpayers can be left holding the bag。”--&gt;
+&lt;!-- “If we had learned anything from the recent mortgage crisis, it's that at some point these schemes unravel and taxpayers can be left holding the bag。”--&gt;
 
-&lt;h4 id=&quot;section-3&quot;&gt;关于美国的司法制度的体会&lt;/h4&gt;
+&lt;h4 id=&quot;关于美国的司法制度的体会&quot;&gt;关于美国的司法制度的体会&lt;/h4&gt;
 
 &lt;p&gt;这个片子我很喜欢的一点是它呈现了一些美国司法的细节。有关法庭的比如控辩双方的开场陈词，提审证人的片段，陪审团的闭门商议，法官的总结陈词。有关诉讼的比如取证调查，各方意见陈述，策略的讲解，算是比较生动的呈现了一个案件的相关努力。让我感觉最有趣的是两点。&lt;/p&gt;
 
@@ -114,7 +227,7 @@
 
 &lt;p&gt;另一个有意思的是&lt;a href=&quot;https://www.douban.com/note/217120406/&quot;&gt;法庭速写&lt;/a&gt;。美国的法庭大多不许照相录像，大部分允许速写，于是就经常能看见新闻中陈述案件的时候会有速写。这个片子里也用到了速写来呈现案子现场。我觉得速写的画风很奇特，并不完全写实，但是却能刻画出现场的气氛，以及人物在法庭上的表情/心里，一张速写可以概括一整次开庭的重点，这个是照片所不能概括的。也许这就是为什么个法庭速写还是被保留。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-4&quot;&gt;关于美国的华人社群&lt;/h4&gt;
+&lt;h4 id=&quot;关于美国的华人社群&quot;&gt;关于美国的华人社群&lt;/h4&gt;
 &lt;p&gt;某种程度上说，这个案子的争议点，案件关于伪造贷款材料的指控，昭示了华人文化的独特性。&lt;/p&gt;
 
 &lt;p&gt;首先是对于来自亲戚朋友的钱是赠予与贷款的模糊区别。辩方认为大笔的钱流入实际是贷款，是债务，被当作赠予某种程度上就是伪造材料。&lt;/p&gt;
@@ -130,7 +243,7 @@
 
 &lt;p&gt;要解决我认为无外乎两种途径。要么积极参政，推动有相应的金融业务法律法规，适用于华人社群，从制度上认可这种多样性。要么，就只能按照现有的规矩，交税报税，申报收入，公私分明，弱化人情，按现有法律允许的方式行事。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-5&quot;&gt;获奖预测&lt;/h4&gt;
+&lt;h4 id=&quot;获奖预测&quot;&gt;获奖预测&lt;/h4&gt;
 &lt;p&gt;既然参评了奥斯卡，我也就来预测一下。我觉得这部影片获奖的机会很大。&lt;/p&gt;
 
 &lt;p&gt;首先这个片子的主题好。关于经济危机的反思一直都有，很重要，每年都有片子，但大多都是从银行的操作层面。本片更多的是试图暴露司法体系的漏洞，这一点更本质。拍摄的角度也是从律政的角度，比较独特。&lt;/p&gt;
@@ -145,7 +258,7 @@
 
 &lt;p&gt;我主观上也希望他能获奖，以让这个片子，这个案子，背后的深层次原因，获得更多的关注。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-6&quot;&gt;有意思的番外&lt;/h4&gt;
+&lt;h4 id=&quot;有意思的番外&quot;&gt;有意思的番外&lt;/h4&gt;
 
 &lt;p&gt;（1）国宝银行的其中一位辩护律师 Kevin Puvalowski 是我密歇根的校友，他本科读的是政治学。他本科毕业的时候我还没有出生。。&lt;/p&gt;
 
@@ -160,9 +273,9 @@
 &lt;p&gt;（6）这个片子在知乎上有热烈的&lt;a href=&quot;https://www.zhihu.com/question/50873538&quot;&gt;讨论&lt;/a&gt;，关于这个片子，关于这个案子，关于华人，正反意见都有很多，也各有各的道理。其实什么问题都有多角度的意见比较好，这样的争论能让真理愈来愈明。&lt;/p&gt;
 
 </description>
-				<pubDate>Sat, 24 Feb 2018 08:33:30 -0600</pubDate>
-				<link>hchaozhe.github.io/2018/02/24/abacus/</link>
-				<guid isPermaLink="true">hchaozhe.github.io/2018/02/24/abacus/</guid>
+				<pubDate>Sat, 24 Feb 2018 06:33:30 -0800</pubDate>
+				<link>http://localhost:4000/2018/02/24/abacus/</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/02/24/abacus/</guid>
 			</item>
 		
 			<item>
@@ -182,7 +295,7 @@
 
 &lt;p&gt;NFL的总收入长期以来称霸这四个联盟，然而我们在国内NBA妇孺皆知，然而NFL或者橄榄球却是没人知道。这也许是因为美式足球没有那么普及。 以前我肤浅的以为这只是因为美式足球对力量，身体的要求太高，“太过暴力”，所以国人不喜欢。但是接触了一段时间之后，我发现美国人民喜欢而别的国家不太接受，实在是因为这项运动“太美国了”。&lt;/p&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;初窥美式足球&lt;/h3&gt;
+&lt;h3 id=&quot;初窥美式足球&quot;&gt;初窥美式足球&lt;/h3&gt;
 
 &lt;p&gt;美式足球的场地大约是在一个跟足球一样大的场地进行的，长略长，宽略短。
 不同在于他有很多的线，标志距离，数字旁边的小箭头指示进攻方向，数字表示码数距离对应端区的距离。两端深色的区域是端区，达阵区，也是得分的地方之一。端区边缘的小段标志区表示球门，是另一个得分区域。这些细致的码数标示是美式足球的特色，与他的规则有很密切的关系。&lt;/p&gt;
@@ -207,27 +320,29 @@
 
 &lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;这个开始的站位就很有讲究 “Line of scrimmage”.攻防两拨人分别站在球所在位置的虚拟线，这个位置就是上一次进攻结束的位置。
+&lt;p&gt;这个开始的站位就很有讲究 “Line of scrimmage”是一条攻防两拨人分别站在球所在位置的虚拟线，这个位置就是上一次进攻结束的位置。
 双方站好阵型，然后进攻开始，直到再到死球，双方再列队开始。如此往复。&lt;/p&gt;
 
-&lt;p&gt;很久之前我看过一个法律专栏的文章，把美国的法系与美式足球的规则做类比，主要是为了论述美国立法的精神其实是深入他们民心的。当时我不理解这个比喻，现在我理解了。&lt;/p&gt;
+&lt;p&gt;很久之前我看过一个法律专栏的文章，把美国的法系与美式足球的规则做类比，主要是为了论述美国立法的精神其实是深入他们民心的。
+当时我不理解这个比喻，现在我终于有所体会了。&lt;/p&gt;
 
-&lt;p&gt;细致的阐述规则和战术，我做不到，这个不是本文的主旨。我想从几个侧面来谈谈美式足球的独特魅力，以及他所反映的美国文化特色。&lt;/p&gt;
+&lt;p&gt;细致的阐述规则和战术，我做不到，这个不是本文的主旨。想懂规则欢迎看这个专栏（阿迪的专栏）
+我想从几个侧面来谈谈美式足球的独特魅力，以及他所反映的美国文化特色。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;美式足球是一个规则很细致的运动&lt;/h3&gt;
+&lt;h3 id=&quot;美式足球是一个规则很细致的运动&quot;&gt;美式足球是一个规则很细致的运动&lt;/h3&gt;
 
-&lt;p&gt;美式足球给很多人的感觉，包括我没懂规则之前看的感觉，就是不知道他们在干什么，打打停停的，以开球就一堆人抱来抱去，撞来撞去。一会儿打，一会儿又踢上了，每次得分数量还不一样，实在是有点让人挠头，于是观赛的体验就大幅度降低。这主要就是因为橄榄球的规则很细致，术语挺多，很难像足球篮球那样三言两语就讲清楚。&lt;/p&gt;
+&lt;p&gt;美式足球给很多人的感觉，也是我没懂规则之前看的感觉，就是不知道他们在干什么，打打停停的，一开球就一堆人抱来抱去，撞来撞去。一会儿打，一会儿又踢上了，每次得分数量还不一样，实在是有点让人挠头，于是观赛的乐趣就大幅度降低。这主要就是因为橄榄球的规则很细致，术语挺多，很难像足球篮球那样三言两语就讲清楚。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%BC%8F%E8%B6%B3%E7%90%83&quot;&gt;维基百科美式足球中文词条&lt;/a&gt; 有浅显但是足够细致的规则讲解，强烈建议去看一看
 这里我就不展开说了。&lt;/p&gt;
 
 &lt;p&gt;总体来说，美式足球是从英式橄榄球改良而来，很多的规则有继承，演变，以及延伸，发展成为了今天的美式足球。&lt;/p&gt;
 
-&lt;p&gt;如果简答来说，橄榄球就是一拨进攻，一拨防守，进攻方要想尽办法把球由队员带过对方的底线，进入端区，称为达阵，这样得六分。或者在进攻得某个位置射门，把球踢进对方端区尽头的球门里，得三分。熟悉橄榄球的人知道这听起来更像英式的橄榄球。&lt;/p&gt;
+&lt;p&gt;如果简答来说，美式足球就是一拨进攻，一拨防守，进攻方要想尽办法把球由队员带过对方的底线，进入端区，称为达阵，这样得六分。或者在进攻得某个位置射门，把球踢进对方端区尽头的球门里，得三分。熟悉橄榄球的人知道这听起来更像英式的橄榄球。&lt;/p&gt;
 
 &lt;p&gt;但是要说到美式足球的最大不同，我要说是回合制（play）。回合制让美式足球有了自己的打法和特点，而他首先体现的就是规则的细致。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-2&quot;&gt;细说一下回合制&lt;/h4&gt;
+&lt;h4 id=&quot;细说一下回合制&quot;&gt;细说一下回合制&lt;/h4&gt;
 
 &lt;p&gt;要细说回合制，我们要回到之前的一幅图 &lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -280,9 +395,9 @@
 
 &lt;!--向前传球是美式足球的改良，但是只能一次。--&gt;
 
-&lt;h3 id=&quot;section-3&quot;&gt;美式足球是一个分工明确的运动&lt;/h3&gt;
-&lt;p&gt;#### 凭什么能分工细致？
-美式足球毕竟是集体运动，所以像很多的集体运动一样，分工就是一种很常见的办法。这样可以发挥每个队员的特长，让队员有具体的小任务，不至于手足无措，以更好的实现整体队伍的运作。
+&lt;h3 id=&quot;美式足球是一个分工明确的运动&quot;&gt;美式足球是一个分工明确的运动&lt;/h3&gt;
+&lt;h4 id=&quot;凭什么能分工细致&quot;&gt;凭什么能分工细致？&lt;/h4&gt;
+&lt;p&gt;美式足球毕竟是集体运动，所以像很多的集体运动一样，分工就是一种很常见的办法。这样可以发挥每个队员的特长，让队员有具体的小任务，不至于手足无措，以更好的实现整体队伍的运作。
 事实上很多团体运动，比如世界三大球足球，篮球，排球等，都有位置和职责分工。
 美式足球也不例外。但是因为我前面所提到的规则的细致，但是它却把这一特点发挥到了极致，尤其是与足球和篮球相比。 与现在足球篮球的模糊化位置的趋势相比，橄榄球的位置感特强，并且并没有减少的趋势。这是为什么呢？&lt;/p&gt;
 
@@ -295,7 +410,7 @@
 &lt;p&gt;有时间换人还不够，还需要能换，并且有人可换。
 美式足球的规则规则允许在非回合进行的时候换人，并且不加限制。而球队人数也保证换人可以实现。美国职业橄榄球队一支队有53名队员，而任何时候都只有11个人在场上。只因为可以整个队伍换上换下。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-4&quot;&gt;到底有多细？&lt;/h4&gt;
+&lt;h4 id=&quot;到底有多细&quot;&gt;到底有多细？&lt;/h4&gt;
 &lt;p&gt;说完了“有时间可换” 和 “有人可换”， 那我们就来看看美式足球分工有多细。&lt;/p&gt;
 
 &lt;p&gt;首先，橄榄球一个球队进攻，防守是两拨人，分别叫进攻组(offensive unit)，防守组(defensive unit)，除此之外还有一个专门在踢球和防守踢球的特勤组(Special team unit)。根据比赛进程和战术安排，场上只会有这三个组中的一个组在场上。而职业联赛几乎没有人进攻防，有少数人因为位置相似可能会同时打进攻和特勤组，或防守和特勤组。一个特例是我们密歇根16到17赛季的Jabrill Pepper,他有时候防守进攻都打，是因为他的能力实在太出众，体能也够充沛。&lt;/p&gt;
@@ -320,7 +435,7 @@
 
 &lt;p&gt;某种意义上讲，这种分工细致与西方的古代战争很像，也许是脱胎与彼。我个人觉得这也是美国崇尚个性和个体的体现，只要你有一技之长，发挥到极致，你也会是集体里不可或缺的那一环。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-5&quot;&gt;美式足球是一个变化很多，战术性很强的运动&lt;/h3&gt;
+&lt;h3 id=&quot;美式足球是一个变化很多战术性很强的运动&quot;&gt;美式足球是一个变化很多，战术性很强的运动&lt;/h3&gt;
 
 &lt;p&gt;这么细致的规则，那是不是打法很受限制，比赛阵势会很死板啊？这个还真不是。规则并不总是因为着死板。
 打个不恰当的比方，唐诗是有严格的音律格式要求的，但是这并没有限制唐诗的繁荣；反过来，因为格式的限制，能驾驭这些限制的人往往很有水准。&lt;/p&gt;
@@ -340,18 +455,18 @@
 
 &lt;p&gt;当然，运动一般都是有技战术的，但是想美式足球这样可以细致的制定和执行的恐怕是没有了。这当然还是得益于规则。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-6&quot;&gt;跟我有啥关系么？&lt;/h3&gt;
+&lt;h3 id=&quot;跟我有啥关系么&quot;&gt;跟我有啥关系么？&lt;/h3&gt;
 &lt;p&gt;橄榄球看起来这么专业，这么激烈，这么有技术含量，那跟我们有什么关系呢？
 的确，如果说比赛的规则方方面面都是生活的延伸，那么娱乐性从和而来呢？&lt;/p&gt;
 
-&lt;h4 id=&quot;section-7&quot;&gt;美式足球是美式社交文化的助推器&lt;/h4&gt;
+&lt;h4 id=&quot;美式足球是美式社交文化的助推器&quot;&gt;美式足球是美式社交文化的助推器&lt;/h4&gt;
 
 &lt;p&gt;也许有人会觉得，回合制虽然可能能打出战术变化，但是打打停停的结果会使比赛缺乏连贯性，不像是足球，90分钟的比赛除了中场休息，球总是在运转，连贯性很强，即使作为观众，也仿佛一刻都不能停歇。如果你也有这样的观察，那祝贺你，因为这又捕捉到了美式足球另一个很美国的地方。看球的时候，大家可以不只专注于比赛，伴随着比赛的打打停停，观众们也可以看看，聊聊，不错过比赛。看球的聚会，因此成为很常见的聚会。美国对看球的聚会有个叫法叫Tailgate party，Tailgate 指的是皮卡车的后斗门，Tailgate party就是指这种直接在车上，在体育场附近停车场就地搞起的看球聚会，通常发生在比赛时，赛前赛后居多。
 如我前面所说，美式足球的打法是打打停停，恰好有助于美国人社交。 Tailgate party就是一个衍生。tailgate指的是皮卡的车斗门，Tailgate party 就指这种直接把车斗们降下来，上面放上吃的东西，就地在停车场搞的看球聚会。很形象。&lt;/p&gt;
 
 &lt;p&gt;美式足球的最高水平莫过于他的职业联盟NFL。而这个联盟每年的总决赛自然是重中之重，就是号称美国春晚的超级碗。称之为美国春晚，是因为观众群体太大，基本上每个美国人都会看。 围绕他的聚会，前前后后的准备以及故事，是很好的社交粘合剂。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-8&quot;&gt;美式足球是美国校园文化的重要部分&lt;/h4&gt;
+&lt;h4 id=&quot;美式足球是美国校园文化的重要部分&quot;&gt;美式足球是美国校园文化的重要部分&lt;/h4&gt;
 
 &lt;p&gt;相信很多人都知道，美国的校园运动文化很浓，学校的明星一般都是运动明星，而不是成绩出众的学生。
 因此，学生们也就以参与各种体育活动为荣。这于美国文化中重视身体素质培养，以探索自然，独立生存的精神有关。
@@ -377,20 +492,20 @@
 
 &lt;p&gt;从1897年第一次到现在我们密大以58胜，49负六平微微领先。因为我们最近实力一般，只是普通强队，我们对OSU的战绩是负少胜多。我们已经连着六年没赢过他们了（是的，从我来密大开始就没赢过）。希望我们今年好运，不敢怎么样其实上不能输！！&lt;/p&gt;
 
-&lt;h4 id=&quot;section-9&quot;&gt;美式足球其实是一个男女老少都能参与的运动&lt;/h4&gt;
+&lt;h4 id=&quot;美式足球其实是一个男女老少都能参与的运动&quot;&gt;美式足球其实是一个男女老少都能参与的运动&lt;/h4&gt;
 
 &lt;p&gt;美式足球的规则繁碎，即使细节众多，然而这并没有让他的参与性打折扣。正是因为规则细致，使得只需要利用规则的修改，就可以提出剔除一些身体接触，降低对抗性，从而降低身体素质（如强壮，速度）带来的优势，让普通人都能参与。腰旗橄榄球就是这样一种普通人可参与的活动。他的规则通过限制攻守队员的接触，剔除了线卫（就是那一群强壮的帮四分卫挡人的大家伙们），并且以撤去腰间的旗子，代替擒抱，让比赛只以跑位和传球来决定，不减趣味性。&lt;/p&gt;
 
 &lt;p&gt;顺便说一句，即使腰旗橄榄球这种本着让更多人参与的项目，也被玩出了名堂，甚至也有职业联盟，去年刚成立。&lt;a href=&quot;https://en.wikipedia.org/wiki/American_Flag_Football_League&quot;&gt;American Flag Football League&lt;/a&gt;
 这一点也符很符合美国人的精神，玩什么都有个专业的圈子。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-10&quot;&gt;美式足球的科技感很足&lt;/h4&gt;
+&lt;h4 id=&quot;美式足球的科技感很足&quot;&gt;美式足球的科技感很足&lt;/h4&gt;
 &lt;p&gt;和很多的运动一样，科技的进步增强了运动的观赏性和技战术水平。而我这里只想举几个两个美式足球独有的例子。&lt;/p&gt;
 
-&lt;h5 id=&quot;section-11&quot;&gt;转播技术&lt;/h5&gt;
+&lt;h5 id=&quot;转播技术&quot;&gt;转播技术&lt;/h5&gt;
 &lt;p&gt;为了方便观众看球所在的位置，和目标的一档线的码线位置，电视转播中会画上虚拟的线。（截图）。不要小看这个小的辅助，看比赛大大容易。而且这个技术也非常有技术含量。因为他不是简单的屏幕上加条线，而是效果近似于场上真实的线，让观众看来仿佛队员也踩在这些线上。 这里有个视频科普了这个技术的前世今生。它从一个侧面，反映了整个视频转播技术的进步。&lt;/p&gt;
 
-&lt;h5 id=&quot;section-12&quot;&gt;防护技术&lt;/h5&gt;
+&lt;h5 id=&quot;防护技术&quot;&gt;防护技术&lt;/h5&gt;
 
 &lt;p&gt;想必大家也有这感觉，美式足球看起来十分专业的一个重要原因就是球员那身“防护”：从头盔，到身上的软甲，再到脚上额护膝护板，总让人感觉这运动“动静很大”。&lt;/p&gt;
 
@@ -407,14 +522,14 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/E-ONNjFoOx0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&quot;section-13&quot;&gt;尾声&lt;/h3&gt;
+&lt;h3 id=&quot;尾声&quot;&gt;尾声&lt;/h3&gt;
 &lt;p&gt;最后，让我们来复习一下&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://www-personal.umich.edu/~hchaozhe/images/Football/Football_Cheat_Sheet.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-				<pubDate>Fri, 13 Oct 2017 22:37:31 -0500</pubDate>
-				<link>hchaozhe.github.io/2017/10/13/football/</link>
-				<guid isPermaLink="true">hchaozhe.github.io/2017/10/13/football/</guid>
+				<pubDate>Fri, 13 Oct 2017 20:37:31 -0700</pubDate>
+				<link>http://localhost:4000/2017/10/13/football/</link>
+				<guid isPermaLink="true">http://localhost:4000/2017/10/13/football/</guid>
 			</item>
 		
 			<item>
@@ -422,7 +537,7 @@
         <description>&lt;p&gt;图：&lt;a href=&quot;https://github.com/owlcee&quot;&gt;owlcee&lt;/a&gt; ;
 文：&lt;a href=&quot;https://github.com/hchaozhe&quot;&gt;hchaozhe&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section&quot;&gt;摘要&lt;/h3&gt;
+&lt;h3 id=&quot;摘要&quot;&gt;摘要&lt;/h3&gt;
 &lt;p&gt;我们策划的旅行是十二月底的阿拉斯加八天七夜游。
 途径Anchorage，Fairbanks，Prudhoe Bay, 和Barrow。
 我们行走于冰川之上，乘狗拉雪橇，泡极地温泉，观星空、拍极光，吹寒冷的极风，北望北冰洋。通过参观博物馆，走访村落，与当地人交流，略悉阿拉斯加的人文地理、自然资源、文化风俗等。
@@ -430,7 +545,7 @@
 
 &lt;!-- more --&gt;
 
-&lt;h3 id=&quot;section-1&quot;&gt;目录&lt;/h3&gt;
+&lt;h3 id=&quot;目录&quot;&gt;目录&lt;/h3&gt;
 
 &lt;p&gt;一、&lt;a href=&quot;#Roadbook&quot;&gt;旅行策划与前期准备（Travel Plan）&lt;/a&gt;&lt;/p&gt;
 
@@ -452,14 +567,14 @@
 
 &lt;p&gt;&lt;a name=&quot;Roadbook&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-2&quot;&gt;一、旅行策划与前期准备&lt;/h3&gt;
+&lt;h3 id=&quot;一旅行策划与前期准备&quot;&gt;一、旅行策划与前期准备&lt;/h3&gt;
 
-&lt;h4 id=&quot;section-3&quot;&gt;开销&lt;/h4&gt;
+&lt;h4 id=&quot;开销&quot;&gt;开销&lt;/h4&gt;
 &lt;p&gt;八天下来人均消费约为USD2500。基本都花在了吃、住、门票以及游玩的必须项目上，没有买贵重的纪念品，只有明信片冰箱贴等。加上前期装备物资准备USD500。并不算穷游，但是也是自己按照需求精打细算过，对开销和收获心满意足，并没有感觉贵。&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;itineraray&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;itinerary&quot;&gt;计划（Itinerary）&lt;/h4&gt;
+&lt;h4 id=&quot;计划itinerary&quot;&gt;计划（Itinerary）&lt;/h4&gt;
 
 &lt;p&gt;注：为了照顾我们的国际友人，这一部分用英文。&lt;/p&gt;
 
@@ -592,14 +707,16 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
   &lt;li&gt;Shogun Hibachi.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Barrow:
-- Northern Lights Restaurant. We think it is the best restaurant in Barrow! Authentic Chinese food, hospitable Korean host!&lt;/p&gt;
+&lt;p&gt;Barrow:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Northern Lights Restaurant. We think it is the best restaurant in Barrow! Authentic Chinese food, hospitable Korean host!&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;Travelblog&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;二、旅行游记&lt;/h3&gt;
+&lt;h3 id=&quot;二旅行游记&quot;&gt;二、旅行游记&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 
@@ -626,7 +743,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;Anchorage&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;anchorage&quot;&gt;Anchorage:被低估的“大都市”。&lt;/h3&gt;
+&lt;h3 id=&quot;anchorage被低估的大都市&quot;&gt;Anchorage:被低估的“大都市”。&lt;/h3&gt;
 
 &lt;p&gt;Anchorage 因为其30万的人口而成为了Alaska最大的城市，也因此很容易被当成是州府（其实州府是 Juneau 在Alaska西南）。Anchorage 纬度 约 61° N  ，与斯德哥尔摩（59° N）、圣彼得堡（60° N）相近，而且都处于大陆西岸，且有暖流经过，因此相对温暖。
 相比这两个地方，地处西半球的Anchorage地处北美大陆和亚欧大陆的中点。经空路从这里到日本韩国的距离与到美东的距离相仿，使得这里成为重要的客货运中转。&lt;/p&gt;
@@ -744,7 +861,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;AlaskaRailroad&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;alaska-railroad&quot;&gt;Alaska Railroad：一路风景如画&lt;/h3&gt;
+&lt;h3 id=&quot;alaska-railroad一路风景如画&quot;&gt;Alaska Railroad：一路风景如画&lt;/h3&gt;
 
 &lt;p&gt;我对Fairbanks印象，是从Anchorage到Fairbanks 的火车开始的。
 阿拉斯加这个常年冰封人烟稀少的地方，铁路北向的终点便是Fairbanks。
@@ -790,7 +907,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;Fairbanks&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;fairbanks&quot;&gt;Fairbanks：冰封之下的生机勃勃&lt;/h3&gt;
+&lt;h3 id=&quot;fairbanks冰封之下的生机勃勃&quot;&gt;Fairbanks：冰封之下的生机勃勃&lt;/h3&gt;
 
 &lt;p&gt;当火车驶过Tanana River时，我们也就进入了Fairbanks 地界。
 地处阿拉斯加内陆地区的中心地带，Fairbanks成为重要的交通枢纽，成为阿拉斯加第二大城市。但即使是第二大城市，人口也就不过三万多人，甚至还没有我们密歇根大学学生多&lt;/p&gt;
@@ -895,7 +1012,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;PrudhoeBay&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;prudhoe-bay&quot;&gt;Prudhoe Bay：北境的石油城&lt;/h3&gt;
+&lt;h3 id=&quot;prudhoe-bay北境的石油城&quot;&gt;Prudhoe Bay：北境的石油城&lt;/h3&gt;
 
 &lt;p&gt;26号中午我们从Fairbanks出发，转乘阿拉斯加航空的飞机飞往Barrow。从机票上得知我们要经过 Prudhoe Bay 这么个地方，甚至还要呆上个把钟头。因为Fairbanks的机场内部太过美好(虽然是一个只有六个登机口的机场，但人家是个国际机场哦！)，我们以为我们会在机场度过。但是我们想多啦！&lt;/p&gt;
 
@@ -943,7 +1060,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a name=&quot;Barrow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;barrow-utqiavik&quot;&gt;Barrow (Utqiaġvik)：和谐的人与自然&lt;/h3&gt;
+&lt;h3 id=&quot;barrow-utqiaġvik和谐的人与自然&quot;&gt;Barrow (Utqiaġvik)：和谐的人与自然&lt;/h3&gt;
 
 &lt;p&gt;终于，在傍晚时分，我们到达了Barrow，因为飞机飞的不高，我们已经有两次错把之前雪地里的灯光聚集处误以为是Barrow了。&lt;/p&gt;
 
@@ -1057,7 +1174,7 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;&lt;a href=&quot;#top&quot;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;section-5&quot;&gt;尾声&lt;/h3&gt;
+&lt;h3 id=&quot;尾声&quot;&gt;尾声&lt;/h3&gt;
 
 &lt;p&gt;回来之后，总有人问我阿拉斯加怎么样。我觉得很难一两句话概括到位，于是就洋洋洒洒写了这么多废话。感触体会颇多，方方面面。
 冬日里的阿拉斯加并不会是很多人的首选，也许会有人说难道密歇根还没冷够吗？大家都想知道冬日的那里最吸引我的是什么。&lt;/p&gt;
@@ -1075,9 +1192,9 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 &lt;!--{:.some-css-class width=&quot;500&quot;}--&gt;
 
 </description>
-				<pubDate>Sat, 07 Jan 2017 22:49:20 -0600</pubDate>
-				<link>hchaozhe.github.io/2017/01/07/alaska/</link>
-				<guid isPermaLink="true">hchaozhe.github.io/2017/01/07/alaska/</guid>
+				<pubDate>Sat, 07 Jan 2017 20:49:20 -0800</pubDate>
+				<link>http://localhost:4000/2017/01/07/alaska/</link>
+				<guid isPermaLink="true">http://localhost:4000/2017/01/07/alaska/</guid>
 			</item>
 		
 			<item>
@@ -1086,9 +1203,9 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;未完待续。。。&lt;/p&gt;
 </description>
-				<pubDate>Tue, 20 Dec 2016 00:19:28 -0600</pubDate>
-				<link>hchaozhe.github.io/2016/12/20/dynamicsandcontrol/</link>
-				<guid isPermaLink="true">hchaozhe.github.io/2016/12/20/dynamicsandcontrol/</guid>
+				<pubDate>Mon, 19 Dec 2016 22:19:28 -0800</pubDate>
+				<link>http://localhost:4000/2016/12/19/dynamicsandcontrol/</link>
+				<guid isPermaLink="true">http://localhost:4000/2016/12/19/dynamicsandcontrol/</guid>
 			</item>
 		
 			<item>
@@ -1124,9 +1241,9 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;造成各种报错。&lt;/p&gt;
 </description>
-				<pubDate>Mon, 19 Dec 2016 23:11:23 -0600</pubDate>
-				<link>hchaozhe.github.io/2016/12/19/writewithmarkdown/</link>
-				<guid isPermaLink="true">hchaozhe.github.io/2016/12/19/writewithmarkdown/</guid>
+				<pubDate>Mon, 19 Dec 2016 21:11:23 -0800</pubDate>
+				<link>http://localhost:4000/2016/12/19/writewithmarkdown/</link>
+				<guid isPermaLink="true">http://localhost:4000/2016/12/19/writewithmarkdown/</guid>
 			</item>
 		
 			<item>
@@ -1148,9 +1265,9 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;未完待续…&lt;/p&gt;
 </description>
-				<pubDate>Sun, 18 Dec 2016 17:43:27 -0600</pubDate>
-				<link>hchaozhe.github.io/2016/12/18/blogsetuptip/</link>
-				<guid isPermaLink="true">hchaozhe.github.io/2016/12/18/blogsetuptip/</guid>
+				<pubDate>Sun, 18 Dec 2016 15:43:27 -0800</pubDate>
+				<link>http://localhost:4000/2016/12/18/blogsetuptip/</link>
+				<guid isPermaLink="true">http://localhost:4000/2016/12/18/blogsetuptip/</guid>
 			</item>
 		
 			<item>
@@ -1173,9 +1290,9 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 
 &lt;p&gt;打算用中文写为主，或许数学／动力学／控制论话题的会用中洋结合甚至纯洋文。&lt;/p&gt;
 </description>
-				<pubDate>Sat, 03 Dec 2016 19:18:07 -0600</pubDate>
-				<link>hchaozhe.github.io/2016/12/03/flag/</link>
-				<guid isPermaLink="true">hchaozhe.github.io/2016/12/03/flag/</guid>
+				<pubDate>Sat, 03 Dec 2016 17:18:07 -0800</pubDate>
+				<link>http://localhost:4000/2016/12/03/flag/</link>
+				<guid isPermaLink="true">http://localhost:4000/2016/12/03/flag/</guid>
 			</item>
 		
 			<item>
@@ -1203,9 +1320,9 @@ Transport: the travel agent offers free pick up from and drop off at the hotel.&
 &lt;p&gt;工具固然重要，更重要的是内涵不是么？&lt;/p&gt;
 
 </description>
-				<pubDate>Fri, 02 Dec 2016 19:48:30 -0600</pubDate>
-				<link>hchaozhe.github.io/2016/12/02/greeting/</link>
-				<guid isPermaLink="true">hchaozhe.github.io/2016/12/02/greeting/</guid>
+				<pubDate>Fri, 02 Dec 2016 17:48:30 -0800</pubDate>
+				<link>http://localhost:4000/2016/12/02/greeting/</link>
+				<guid isPermaLink="true">http://localhost:4000/2016/12/02/greeting/</guid>
 			</item>
 		
 	</channel>
