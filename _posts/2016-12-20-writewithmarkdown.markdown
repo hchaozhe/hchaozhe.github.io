@@ -3,10 +3,8 @@ layout: post
 title: 用Markdown来语言来写文章
 date: 2016-12-20 00:11:23 -0500
 comments: true
-mathjax: true
 categories: 
 ---
-
 
 首先要先去到你博客所在的那个本地文件夹
 
