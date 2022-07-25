@@ -21,7 +21,7 @@ img: Glacier.jpeg
 
 一、[旅行策划与前期准备（Travel Plan）](#Roadbook)
 
-1. [Itinerary](#itineraray)
+1. [Itinerary](#itinerary)
 2. [Gear List](#gearlist)
 
 二、[游记](#Travelblog)
@@ -41,7 +41,7 @@ img: Glacier.jpeg
 #### 开销
 八天下来人均消费约为USD2500。基本都花在了吃、住、门票以及游玩的必须项目上，没有买贵重的纪念品，只有明信片冰箱贴等。加上前期装备物资准备USD500。并不算穷游，但是也是自己按照需求精打细算过，对开销和收获心满意足，并没有感觉贵。
 
-<a name="itineraray"></a>
+<a name="itinerary"></a>
 
 #### 计划（Itinerary）
 
@@ -82,10 +82,10 @@ Day 5, Fairbanks local tour. Transport: the travel agent offers free pick up fro
 Day 6, Fairbanks for Barrow (Utqiaġvik). Transport: taxi.
 
 - Alaska 2817 12:15 pm (FAI, Fairbanks) - 1:43 pm (SCC, Prudhoe Bay)
-- Alaska 50 5:17 pm (SCC, Prudhoe Bay) - 6:07 pm (BRW, Barrow)  This flight is flying from east to west, so if you sit on the right wing side, you might be able to see northen light. 
+- Alaska 50 5:17 pm (SCC, Prudhoe Bay) - 6:07 pm (BRW, Barrow)  This flight is flying from east to west, so if you sit on the right wing side, you might be able to see northern light. 
 - Look around in Prudhoe Bay near the airport. Despite connection, you can step out the airport, as it is really a mini airport. 
 
-Day 7, Barrow local. Transport: taxi and walking (must keep yourself warm and pay extra attention to local guidance about polar bears). Barrow is a small city and taxi can take to you anywhere within 20 mins. Here is an offical [Barrow Visitor's Guide](http://www.touch-alaska.com/BarrowVisitorsGuide.pdf). You may get free hard copies at the hotel. 
+Day 7, Barrow local. Transport: taxi and walking (must keep yourself warm and pay extra attention to local guidance about polar bears). Barrow is a small city and taxi can take to you anywhere within 20 mins. Here is an official [Barrow Visitor's Guide](http://www.touch-alaska.com/BarrowVisitorsGuide.pdf). You may get free hard copies at the hotel. 
 
 - Barrow Milepost
 - The Iñupiat Heritage Center
@@ -104,7 +104,7 @@ Day 9 Fairbanks back to Detroit
 
 - DL 5178, 1:15 am (FAI)-6:25 am (SEA)
 - DL 2169, 9:40 am (SEA)-4:55 pm (DTW)
-- The flight departs late at night, and you don't want to get to the airport so early. The Delta agents came in for back check really late (~10pm). There is no Bagages storage survice at the Airport so you have to take your luggage with you if you take public transit. 
+- The flight departs late at night, and you don't want to get to the airport so early. The Delta agents came in for back check really late (~10pm). There is no Baggages storage service at the Airport so you have to take your luggage with you if you take public transit. 
 
 <a href="#top">Back to top</a>
 
@@ -112,7 +112,7 @@ Day 9 Fairbanks back to Detroit
 
 - There are many other available tours at [Fairbanks](http://alaskatours.com/). For example [flightseeing](http://www.northernalaska.com/media/1061/air7pmtp.pdf), ice fishing. In my opinion, if you choose the right flight, you can get similar things as the flightseeing tours. 
 - There are also available tours near Anchorage ([Salmon and Berry](https://www.salmonberrytours.com/) is the one we choose, and certainly there are a lot of other agents). For example, dog sledding is also available, but it is usually far from the city as they need to have enough snow. Thus, you will spend more time on driving round trip.  
-- There are pacakges for few day trips in one city (e.g. [Fairbanks](http://alaskatours.com/alaska-vacations/fairbanks-northern-lights-vacation/)), even customized trip service available. 
+- There are packages for few day trips in one city (e.g. [Fairbanks](http://alaskatours.com/alaska-vacations/fairbanks-northern-lights-vacation/)), even customized trip service available. 
 
 
 <a name="gearlist"></a>
@@ -121,14 +121,14 @@ Day 9 Fairbanks back to Detroit
 
 - Camera (DSLR,GoPro,etcs), batteries, wrap (keep warm when you are taking photos. **Extremely useful** within arctic circle. We only found in China [Taobao](https://www.taobao.com/product/%E7%9B%B8%E6%A9%9F%E4%BF%9D%E6%9A%96%E5%A5%97.htm))
 - Tripod 
-- Charger station ([e.g.](https://www.amazon.com/gp/product/B00OQ1CY2Q/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1), we recommand this because most of the electronic devices are charged through USB cables)
+- Charger station ([e.g.](https://www.amazon.com/gp/product/B00OQ1CY2Q/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1), we recommend this because most of the electronic devices are charged through USB cables)
 - Swim suits (for hot spring)
 - Headlight 
 - Snow pants and down coats, both should be water proof. (We wear [Down coat](http://www.backcountry.com/the-north-face-mcmurdo-parka-mens) and [Snow pants](http://www.backcountry.com/the-north-face-freedom-insulated-pant-mens?skid=TNF02IO-ZINGRE-SRE&ti=UExQIENhdDo6OjI6). The price are reasonable compared to the famous Candian goose, and we are pretty wear for -30&deg; C / -20&deg; F)
 - Long sleeves shirts ([e.g.](https://www.underarmour.com/en-us/mens-ua-coldgear-armour-compression-crew/pid1265650-100)) and legging ([e.g.](https://www.underarmour.com/en-us/mens-ua-coldgear-armour-compression-leggings/pid1265649-001)). The high collar will be favorable. We where this inside the snow pant and under coat for the coldest days we had, and it was warm enough. 
-- gloves (recommend fitted + ski/snowboard gloves). The fitted pairs prevent the skin explorsure to cold air.
+- gloves (recommend fitted + ski/snowboard gloves). The fitted pairs prevent the skin exposure to cold air.
 - Hoodie/sweatshirt/fleece coat if you do not feel warm enough. We prepared for that but never really used.
-- Snow boots (waterproof). We bought the [Sorel Caribou Boot](https://www.amazon.com/gp/product/B005L2EHRO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1). It looks heavy and large, but it wears comfortable and perfect for walking on thick snow/ice, togather with the snow pant.  
+- Snow boots (waterproof). We bought the [Sorel Caribou Boot](https://www.amazon.com/gp/product/B005L2EHRO/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1). It looks heavy and large, but it wears comfortable and perfect for walking on thick snow/ice, together with the snow pant.  
 - High Socks. We bought some pairs from [REI](https://www.rei.com/rei-garage/product/894750/smartwool-phd-ski-medium-pattern-socks), but many thick ski socks would work. We figured out, in a painful way in some sense, that socks are equally important for long comfortable walking as the shoes. 
 - Thermo bottle. To keep you hydrated in cold weather.
 - Helmet. We wear helmet in glacier walk and dog sledding. It is not necessary, but we just want to feel safe.
@@ -138,7 +138,7 @@ Day 9 Fairbanks back to Detroit
 - Hand warmer, toe warmer. These are provided freely during the glacier walk by travel agent and it is really warm. This is not necessary if you have enough clothes. 
 - Moisture and lip balm. I don't like these in general, but they turn out to be very useful...
 
-#### Restuarants
+#### Restaurants
 We didn't really plan on this, and usually we just wander around or ask around. The foods are in general a bit expensive compared to Michigan. In Barrow, particularly, the same product in grocery store costs twice as much as that in Michigan. 
 
 Anchorage:
