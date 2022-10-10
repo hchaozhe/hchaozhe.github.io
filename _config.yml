@@ -1,37 +1,52 @@
-title: Chaozhe's Blog
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: /blog/:year/:month/:day/:title/
-# baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+name:               "Chaozhe He"
+description:        "To improve is to change, to be perfect is to change often"
 
-# Author Settings
-author: Chaozhe He # add your name
-author-img: George_Patton.jpg # add your photo
-about-author: To improve is to change. To perfect is to change often # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: hchaozhe # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+url:                "hchaozhe.github.io"
+author:             "ChaozheHe"
+email:              "hchaozhe@umich.edu"
+gravatar_hash:      "f66118e374b1450f61780521b9a95fec"
+twitter:            "Robert.Chaozhe.He"
+email:              "hchaozhe@umich.edu"
+github:             "hchaozhe"
+pinterest:          "chaozhehe"
+linkedin:           "chaozhe-he-04606017"
+facebook:           "chaozhe.he"
 
-# Disqus
-discus-identifier: chaozhehe # add your discus identifier
+# disqus_shortname:   "thinker3197"
 
-# Tracker
-analytics: # Google Analytics
+# the background picture
+background:         "BackgroundForBlog1"
 
-# Build Settings
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
+paginate:           10
+paginate_path:      "/page:num/"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    href:           "/about"
+  - name:           "Download"
+    href:           "/releases"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+plugins: 
   - jekyll-paginate
-  - jemoji
-
-paginate: 6
-paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
