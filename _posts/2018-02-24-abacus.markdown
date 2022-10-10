@@ -4,9 +4,8 @@ title: "影评 Abacus: Small enough to jail"
 date: 2018-02-24 09:33:30 -0500
 comments: true
 categories: 
-img: Abacus_Poster.jpeg
 ---
-## 影评：Abacus: Small Enough to Jail
+<!-- ## 影评：Abacus: Small Enough to Jail -->
 [hchaozhe](https://github.com/hchaozhe)
 
 无意之间发现了这个电影，看介绍就觉得会很喜欢，看完之后果真很喜欢，看了两遍，感触很多，推荐大家去看。amazon prime 可以免费看。国内在bilibili上也能看到。
