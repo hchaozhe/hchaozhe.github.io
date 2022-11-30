@@ -78,7 +78,7 @@ Day 8 Back home through Anchorage
 <a name="Travelblog"></a>
 
 ### 序幕
-我们一行人从三个地方分别飞往Anchorage 碰头，最晚的1晚上1点才到，我原本以为会比较劳累，毕竟从纽约飞过去要几乎一整天。但是当我们看到11点的天空依然如此明亮时，便忘却了疲惫。
+我们一行人从三个地方分别飞往Anchorage 碰头，最晚的晚上11点才到，我原本以为会比较劳累，毕竟从纽约飞过去要几乎一整天。但是当我们看到11点的天空依然如此明亮时，便忘却了疲惫。
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/11pmAnchorageSummer.jpg)
 
 游人比我们想象的多。租车的时候，我们有幸赶在一个空档时间窗口取上了车。带我们拿上钥匙时已经排起了长队。
@@ -92,7 +92,7 @@ Day 8 Back home through Anchorage
 
 Seward坐落于Kenai Peninsula的东侧，是一个重要的港口。以美国前国务卿William Seward命名。William Seward主持了购买阿拉斯加，在Seward有一尊他的雕塑，购买阿拉斯加是他政治生涯的高光时刻，但我相信当时的人们也没想到这块冰封的土地有如此大的战略经济价值。
 
-作为港口，seward已经存在很多时间了，最早可以追溯到18世纪末。
+作为港口，Seward已经存在很多时间了，最早可以追溯到18世纪末。
 20世纪初，美国标准石油，看中了Seward的战略位置，在这里投资建设油储，作为阿拉斯加石油开发的转运站。60年代Seward经历的大地震，毁坏了设施。如今这些设施都搬到了与seward隔Kenai Peninsula相望的东岸。
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/SewardOilManager.jpg)
 seward 作为港口固然优势多多，但是在很长一段时间，深入阿拉斯加内部的商路受恶劣的自然条件所限制，十分艰难脆弱。在seward海边的小公园里还有不少早年探路者的雕塑，他们的探险打通了Nome到Seward的路线，给黄金采矿工业兴起带来可能。六年前我们从musher那里听说的从Nome到seward的这条trail便是其中重要的一个商路，至今还是每年冬天狗拉雪橇比赛的赛道。
@@ -101,13 +101,12 @@ seward 作为港口固然优势多多，但是在很长一段时间，深入阿�
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/SewardPanorama.jpg)
 
-我们是中午抵达的Seward，吃过午餐，便来到旅店入住。这里要特别吐槽一下住宿，我们为了图便宜住了城南的一家 Hotel Seward 的旅店，这家店非常古老，以至于我们住的房间居然没有独立卫浴，需要去走廊尽头的公用厕所/浴室。 说便宜其实也不便宜，但是相比于其他动辄三四百一晚的旅店相比已经是廉价了。对街的Best Western 都要400 一晚，我还从来没想过best western 也配这么贵。。这里提醒大家订旅店的时候要特别注意旅店条件。
+我们是中午抵达的Seward，吃过午餐，便来到旅店入住。这里要特别吐槽一下住宿，我们为了图便宜住了城南的一家 Hotel Seward 的旅店，这家店非常古老，以至于我们住的房间居然没有独立卫浴，需要去走廊尽头的公用厕所/浴室。 说便宜其实也不便宜，但是相比于其他动辄三四百一晚的旅店相比已经是廉价了。对街的Best Western 都要400 一晚，我还从来没想过Best Western 也配这么贵。。这里提醒大家订旅店的时候要特别注意旅店条件。
 
-之后就开始四下逛荡，发现不一会儿就把这个不大的小镇给走完了。在小镇的最南端有一个Alaska SeaLife Center，是一个介绍北极海洋生物的小博物馆。也有个挺大的池子，住这些海豹，海鸟啥的。
+之后就开始四下逛荡，发现不一会儿就把这个不大的小镇给走完了。在小镇的最南端有一个Alaska Sea Life Center，是一个介绍北极海洋生物的小博物馆。也有个挺大的池子，住着些海豹，海鸟啥的。
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/Alaska_SeaLife_Center.jpg)
 
 里面最有意思的部分是一个可以给大家上手摸海洋动植物的体验区，很多小朋友在这里，摸海星，海胆之类的。
-
 
 #### Aialik Glacier Kayak
 
@@ -258,7 +257,7 @@ Denali公园内即使夏季进山的公路也是不能私人车辆进入的。�
 我们在Denali 的Shuttle Ride 并没有什么照片，接近五个小时的路车开的不快，大部分时候山里除了我们之外没有什么人类的声音。
 特别推荐一下Denali的游客中心，一如其他游客中心一样，这里又不少展览和介绍。
 
-#### Tundra Hick
+#### Tundra Hike
 
 我们的最后一个活动就是这个八个小时的Private tour了。这个tour的介绍就是说我们可以跟着向导商量，自由发挥。提前一天，我们的向导Justin给我发了短信并打了电话，询问了我们已经去过的地方，以及我们的偏好，并了解了我们的体能状况，于是决定带我们去走一条偏门的hike trail，让我们有机会亲近自然，并且真切的踏上冻土层，近距离接触Denali的生态。这一片Tundra周边属于原住民的自留地，必须合法持有许可证才能在这些地方徒步和狩猎，
 
@@ -269,7 +268,7 @@ Denali公园内即使夏季进山的公路也是不能私人车辆进入的。�
 这条trail开始是密林的一段迅速爬升，向导在前，既指路，同时又以敲打登山杖与喊叫的方式驱赶熊。这一段路非常的隐蔽难走，若不是有人带着我觉得是不敢走的。（下图是回去的时候）
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliHighwayTrailHikeBackLeftTundra.jpg)
 
-在走过密集的树丛时候，justin走在队伍前面不断发出一些噪音，为了确保我们不会和熊或者moose撞个正着，噪音可以吓跑这些动物们。等经过了这一段密林爬升，我们便来到了相对平缓的苔原了。
+在走过密集的树丛时候，Justin走在队伍前面不断发出一些噪音，为了确保我们不会和熊或者moose撞个正着，噪音可以吓跑这些动物们。等经过了这一段密林爬升，我们便来到了相对平缓的苔原了。
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliHighwayTrailHikeBack.jpg)
 
 苔原（Tundra）是北极圈内特有的，因为地表25cm 到90cm以下都是冻土层，所以没有树木能生长，只有有低矮的苔藓，地衣之类的植被贴地生长。而且有罕见蚊虫，小动物。路上我们还看到了若干种小的果子，能吃，我们尝了一些，基本都是酸的。
