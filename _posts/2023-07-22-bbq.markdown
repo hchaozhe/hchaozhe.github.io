@@ -1,0 +1,13 @@
+---
+layout: post
+title: 美式烧烤
+date: 2023-07-22 20:53:00 -0500
+comments: true
+categories: 
+img: The_American_Barbecue_Showdown.webp
+---
+
+美国印象之美式烧烤
+<!-- more -->
+借助最近看的一个烧烤比赛的真人秀，来谈谈美式烧烤。
+
