@@ -30,28 +30,28 @@ NFL的总收入长期以来称霸这四个联盟，然而我们在国内NBA妇�
 美式足球的场地大约是在一个跟足球一样大的场地进行的，长略长，宽略短。
 不同在于他有很多的线，标志距离，数字旁边的小箭头指示进攻方向，数字表示码数距离对应端区的距离。两端深色的区域是端区，达阵区，也是得分的地方之一。端区边缘的小段标志区表示球门，是另一个得分区域。这些细致的码数标示是美式足球的特色，与他的规则有很密切的关系。
 
-![球场](http://www-personal.umich.edu/~hchaozhe/images/Football/Field.png)
+![球场](https://www.buffalo.edu/~chaozheh/blog/images/Football/Field.png)
 
 
 虽然看起来像足球，但初看这项运动，大家也许和我一样，以为美式足球都是这个样子的
 
 
 
-![为什么大家要堆在一起](http://www-personal.umich.edu/~hchaozhe/images/Football/PlayerPileUp.jpg)
+![为什么大家要堆在一起](https://www.buffalo.edu/~chaozheh/blog/images/Football/PlayerPileUp.jpg)
 
 为什么大家要堆在一起
 
-![最下面那个不疼么](http://www-personal.umich.edu/~hchaozhe/images/Football/PlayerPileUp2.jpg)
+![最下面那个不疼么](https://www.buffalo.edu/~chaozheh/blog/images/Football/PlayerPileUp2.jpg)
 
 最下面那个不疼么
 
 但是实际上，大部分时候出现这种情况，一个回合就结束了，大家会被裁判分开。而比赛开始的时候，应该是这个样子，来大家都站好，再堆
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Football/OSU_vs_Michigan_Line_of_Scrimmage.jpg)
 
 来拉高一点看
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg)
 
 这个开始的站位就很有讲究 “Line of scrimmage”.攻防两拨人分别站在球所在位置的虚拟线，这个位置就是上一次进攻结束的位置。
 双方站好阵型，然后进攻开始，直到再到死球，双方再列队开始。如此往复。
@@ -78,7 +78,7 @@ NFL的总收入长期以来称霸这四个联盟，然而我们在国内NBA妇�
 
 #### 细说一下回合制 
 
-要细说回合制，我们要回到之前的一幅图 ![](http://www-personal.umich.edu/~hchaozhe/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg)
+要细说回合制，我们要回到之前的一幅图 ![](https://www.buffalo.edu/~chaozheh/blog/images/Football/OSU_vs_Michigan_Line_of_Scrimmage2.jpg)
 
 这幅图里攻防两方摆好阵型准备开始，这就是一个回合的开始。
 在上一个回合结束的地方画一条虚拟的线，即前文提到的“Line of scrimmage”，开始前球放在这条线中点。比如图中的线就正好是在10码线上。
@@ -86,7 +86,7 @@ NFL的总收入长期以来称霸这四个联盟，然而我们在国内NBA妇�
 进攻防守的队员分别站在这条线两侧。回合开始之前双方球员不能越线。
 就比如下面这个俯视的示意图所示。双方各11名队员，按自己安排好的合规则的阵型站好，回合开始前不能越线。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Football/43BaseDefense.png)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Football/43BaseDefense.png)
 
 回合的开始不是裁判吹哨决定的，而是只要进攻的一方保证所有队员站定不动超过一秒，就可以开始进攻。进攻开始以进攻方最前线中间的队员，称为中锋，将球从地上拿起为开始。开始之后双方球员就开始进行“混战”（即所谓“scrimmage”）--互相擒抱，争抢。 
 
@@ -274,7 +274,7 @@ NFL的总收入长期以来称霸这四个联盟，然而我们在国内NBA妇�
 
 美国人们对橄榄球的喜欢随处可见，比如临近超级碗前超市预热，工作人员也会摆出这种造型，让我都不忍心买走商品。。。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Football/MarketFootball.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Football/MarketFootball.jpg)
 
 <!-- [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
  -->
@@ -287,4 +287,4 @@ NFL的总收入长期以来称霸这四个联盟，然而我们在国内NBA妇�
 ### 尾声
 最后，让我们来复习一下
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Football/Football_Cheat_Sheet.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Football/Football_Cheat_Sheet.jpg)

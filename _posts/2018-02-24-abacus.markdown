@@ -17,9 +17,9 @@ img: Abacus_Poster.jpeg
 
 预告：本文有剧透
 
-<!--![国宝银行：小不可欺](http://www-personal.umich.edu/~hchaozhe/images/Abacus/Poster.jpg) -->
+<!--![国宝银行：小不可欺](https://www.buffalo.edu/~chaozheh/blog/images/Abacus/Poster.jpg) -->
 
-<img src="http://www-personal.umich.edu/~hchaozhe/images/Abacus/Poster.jpg" width="200">
+<img src="https://www.buffalo.edu/~chaozheh/blog/images/Abacus/Poster.jpg" width="200">
 
 <!-- more -->
 

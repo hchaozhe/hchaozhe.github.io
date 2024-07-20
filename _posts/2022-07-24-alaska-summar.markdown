@@ -77,7 +77,7 @@ Day 8 Back home through Anchorage
 
 ### 序幕
 我们一行人从三个地方分别飞往Anchorage碰头，最晚的晚上11点才到，我原本以为会比较劳累，毕竟从纽约飞过去要几乎一整天。但是当我们看到11点的天空依然如此明亮时，便忘却了疲惫。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/11pmAnchorageSummer.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/11pmAnchorageSummer.jpg)
 
 游人比我们想象的多。租车的时候，我们有幸赶在一个空档时间窗口取上了车。带我们拿上钥匙时已经排起了长队。
 
@@ -92,17 +92,17 @@ Day 8 Back home through Anchorage
 Seward坐落于Kenai Peninsula的东侧，是一个重要的港口。以美国前国务卿William Seward命名。William Seward主持了购买阿拉斯加，在Seward有一尊他的雕塑，购买阿拉斯加是他政治生涯的高光时刻，但我相信当时的人们也没想到这块冰封的土地有如此大的战略经济价值。
 
 作为港口，Seward已经存在很多时间了，最早可以追溯到18世纪末。20世纪初，美国标准石油，看中了Seward的战略位置，在这里投资建设油储，作为阿拉斯加石油开发的转运站。60年代Seward经历的大地震，毁坏了设施。如今这些设施都搬到了与seward隔Kenai Peninsula相望的东岸。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/SewardOilManager.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/SewardOilManager.jpg)
 Seward 作为港口固然优势多多，但是在很长一段时间，深入阿拉斯加内部的商路受恶劣的自然条件所限制，十分艰难脆弱。在Seward海边的小公园里还有不少早年探路者的雕塑，他们的探险打通了Nome到Seward的路线，给黄金采矿工业兴起带来可能。六年前我们从musher那里听说的从Nome到seward的这条trail便是其中重要的一个商路，至今还是每年冬天狗拉雪橇比赛的赛道。
 
 如今，作为港口这里是西海岸cruise的落船点。当地的游人中便有大量的船客。虽然小城本身不大，但是本地的很多旅游活动提供接车服务，所以对于没有车的游客还是非常友好的。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/SewardPanorama.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/SewardPanorama.jpg)
 
 我们是中午抵达的Seward，吃过午餐，便来到旅店入住。这里要特别吐槽一下住宿，我们为了省钱住了城南的一家 Hotel Seward 的旅店，这家店非常古老，以至于我们住的房间居然没有独立卫浴，需要去走廊尽头的公用厕所/浴室。说便宜其实也不便宜，但是相比于其他动辄三四百一晚的旅店相比已经是廉价了。对街的Best Western都要400 一晚，我还从来没想过Best Western 也配这么贵。。这里提醒大家订旅店的时候要特别注意旅店条件。
 
 之后就开始四下逛荡，发现不一会儿就把这个不大的小镇给走完了。在小镇的最南端有一个Alaska Sea Life Center，是一个介绍北极海洋生物的小博物馆。也有个挺大的池子，住着些海豹，海鸟啥的。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/Alaska_SeaLife_Center.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/Alaska_SeaLife_Center.jpg)
 
 里面最有意思的部分是一个可以给大家上手摸海洋动植物的体验区，很多小朋友在这里，摸海星，海胆之类的。
 
@@ -110,42 +110,42 @@ Seward 作为港口固然优势多多，但是在很长一段时间，深入阿�
 
 Glacier Kayak 是本次旅行的重头戏。我们报的活动总计接近9个小时。其中约一半的时间是坐摆渡船出海到达冰川附近的kayak地点，划kayak的时间大约四个小时，午餐在kayak脚下。路线大约如下图，黄色的部分时乘摆渡船的部分，黑色的部分时划kayak的部分。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierKayakRoute.png)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierKayakRoute.png)
 
 早晨7点在活动组织方的办公室外集中，镇子不大，并且办公室就在城南，所以我们没要接送，步行前往集中。集中的目的是进行基本的安全指导，检查装备，尤其是保暖和救生衣。七点半我们乘车到达码头，登摆渡船出海。海上航行往返总计约2.5小时。期间船长会停船让大家有足够的时间看野生动物。我们有幸看到了座头鲸humpback whale，海獭，海豚，海狮，海豹，悬崖上的山羊，各色海鸟。为了安全和保护自然，我们并没有办法靠的很近，索性随行的向导有小望远镜，我们可以看清楚远处翻腾的鲸鱼与悬崖高处漫步的山羊。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierKayakShuttle.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierKayakShuttle.jpg)
 
 Kayak我们六个人有一个向导带领，4个小时的划船里她给我们配速，指点路径，并且讲解沿路的风景，并给我们拍照，很是尽责，让四个小时的划行丝毫不疲惫。
 
 装备中除了船和浆，救生衣，防水的储物袋，以及防水的裙摆之外，还给了用来抽水的气筒，以及为了防水和防风用的连在浆上的手套，当然因为我经常摸水，我的早就湿了。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierKayakOnTheWay.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierKayakOnTheWay.jpg)
 
 一路上我们就这样划划停停，拍拍照，或者就是静静地欣赏一下。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierKayak.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierKayak.jpg)
 
 快到中午时分，我们渐渐靠近的冰川。虽然是盛夏时分，气温大约十度上下，但是冰川却依然雄伟。然而也确实可见冰川消融，宽度变窄
 融化的冰川坠落到海里，响声如雷。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierZoomIn.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierZoomIn.jpg)
 
 在靠近冰川的地方浮冰渐多，为了安全我们没有进一步靠近。经向导小妹许可，我从海里捞出一块儿浮冰，并且品尝了一番，味道大约就是冰泉的味道吧。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierHoldGlacier.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierHoldGlacier.jpg)
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierTasteofGlacier.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierTasteofGlacier.jpg)
 
 另外就是还有海带，吃起来嘎本儿脆。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierTasteofSeaWeed.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierTasteofSeaWeed.jpg)
 
 面朝冰川，我们享用的午餐三明治，感觉这是此行的高光时刻之一，哪怕那三明治平平无奇。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierKayakGroupPhoto.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierKayakGroupPhoto.jpg)
 
 回来的路上向导因为我们划行速度比较快，带我们又绕道island探索了一下被海水雕琢的岩石、秃鹰的住所，还过了个小沟。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierKayakTranverse.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierKayakTranverse.jpg)
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/AialikGlacierKayakTranverse2.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/AialikGlacierKayakTranverse2.jpg)
 
 本来以为消耗不大，但是在回程的摆渡船上大家已经都又饿又困了，所以晚饭的时候我们一行人面对最普通的pizza依然吃的津津有味。
 
@@ -157,30 +157,30 @@ Kayak我们六个人有一个向导带领，4个小时的划船里她给我们�
 
 Exit Glacier 位于Seward 西北，Kenai Fjords National Park 的东北角，是一个热门的冰川景点。园区内有多条可以上山观看冰川。我们将从游客中心出发（下图中的画圈位置），沿着Harding Icefield Trail 行至中段，然后离开trail接近冰川，（大约下图中的箭头位置)，换上攀爬装备和防风衣物，进行冰川行走。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierTrailMapMarked.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierTrailMapMarked.jpg)
 
 在到达冰川前的一段路虽然不长，爬升也不多，但是不一会我已经走得一身汗，遂开始脱去一层层本来为了怕冰川准备的衣服。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierOnTheWay.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierOnTheWay.jpg)
 
 然而就在我们快看到冰川的时候，气温突然就冷了下来。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierOnTheWay2.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierOnTheWay2.jpg)
 当我们换装时，两位向导也迅速穿上了薄羽绒服。这山间的天气变化还真是剧烈啊！
 
 换装完毕，确认无误之后，我们一行人就开始向冰川进发，在即将到达冰川的地方由于冰川刨蚀的影响，植被已经不见，只见黑秃秃的地表，如下图。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierRightBeforeTheGlacier.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierRightBeforeTheGlacier.jpg)
 渐渐的我们走上了冰川，交界的地方还是有不少泥土，这都是被冰川刨蚀的痕迹啊。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacier3.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacier3.jpg)
 
 但走着走着就看到了印象中冰川的颜色。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacier4.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacier4.jpg)
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacier.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacier.jpg)
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierNearMoulin.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierNearMoulin.jpg)
 
 找到一个大的冰坳，合影留念。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierGroupPhoto.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierGroupPhoto.jpg)
 
 除去冰爪，头盔和手仗，可以看到图中我们腰间和胯上还穿上了这种套件。我原本以为我们会像探险者那样带着绳索攀爬，结果向导告知我这个只是用来在我们摔倒的时候方便拉我们。。 
 
@@ -188,16 +188,16 @@ Exit Glacier 位于Seward 西北，Kenai Fjords National Park 的东北角，是
 
 我们有幸遇见了一个巨大的 Moulin，中文叫冰川锅穴，是冰川表面融化，谁沿着裂缝向下流动而缓慢形成的深坑。这是夏天才常见的。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierMoulin.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierMoulin.jpg)
 
 当然太过巨大的Moulin往往预示着结构不稳定，所以在向导确认之后我们才敢靠近。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierBeCarefulNearMoulin.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierBeCarefulNearMoulin.jpg)
 
 
 我们选择在Moulin附近进行午餐。三明治依然平淡无奇，但是那个小苹果很不错，据说是当地产的，然而我们在超市并没有找到。
 
 在回程的路上看到一股冰川涓流，向导帮我们接了一同纯正冰泉。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/ExitGlacierWater.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/ExitGlacierWater.jpg)
 
 早先报这个活动的时候就告知要有体能储备，并且要能负重，所以我们都特意做了体能准备。整体下来确实有帮助，并没有很累。
 
@@ -213,13 +213,13 @@ Seward很意外的一点就是吃很不错，值得专门开一节来写写。
 
 此外Seward还有不少艺术品店和咖啡馆。在我们离开Seward前的早上，我们光顾了一家评分挺高的咖啡屋，里面不大但是人气很旺。他还有个小阁楼，有一扇可以摇起来的窗户。我们点了写咖啡点心，在这里小坐，看看景，时间仿佛放慢了脚步。在阁楼上还看到了造型精致的国际象棋，可惜我不会下。。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/Chess4.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/Chess4.jpg)
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/Chess3.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/Chess3.jpg)
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/Chess1.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/Chess1.jpg)
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/Chess2.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/Chess2.jpg)
 
 <a href="#top">Back to top</a>
 
@@ -238,7 +238,7 @@ Costco 果然也是各地有特色，时值捕鱼季节，有卖这种捕鱼的�
 #### ATV 
 
 Denali附近的旅游项目除了徒步，坐车，或者乘小飞机观光，还有越野，极速漂流，以及索道这样的刺激项目，整体大约都是围绕探索自然展开。我们选择了ATV tour。ATV=All-Terrain-Vehicle，全地形车，或者国内俗称沙滩车。我们几个人都没尝试过。在大约一个小时的tour里，我们深入了一段野路，爬坡下水ATV样样都行，速度也不慢，我自己最快开到了30 mph，很刺激。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliATV.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliATV.jpg)
 
 <!---
 看能不能上个第一视角的视频
@@ -252,7 +252,7 @@ Denali公园内即使夏季进山的公路也是不能私人车辆进入的。�
 
 我们在Denali 的Shuttle Ride 并没有什么照片，接近五个小时的路车开得不快，大部分时候山里除了我们之外没有什么人类的声音。
 特别推荐一下Denali的游客中心，一如其他游客中心一样，这里又不少展览和介绍。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliVisitCenter.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliVisitCenter.jpg)
 
 #### Tundra Hike
 
@@ -260,29 +260,29 @@ Denali公园内即使夏季进山的公路也是不能私人车辆进入的。�
 
 在接我们去Trail head的路上，我们在路边碰巧碰到了一只在喝水的母moose。Justin特意把车停下，关掉，我们静静地在车里看了她好一会儿。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/MooseAtDenaliHighway3.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/MooseAtDenaliHighway3.jpg)
 
 这条trail开始是密林的一段迅速爬升，向导在前，既指路，同时又以敲打登山杖与喊叫的方式驱赶熊。这一段路非常的隐蔽难走，若不是有人带着我觉得是不敢走的。（下图是回去的时候）
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliHighwayTrailHikeBackLeftTundra.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliHighwayTrailHikeBackLeftTundra.jpg)
 
 在走过密集的树丛时候，Justin走在队伍前面不断发出一些噪音，为了确保我们不会和熊或者moose撞个正着，噪音可以吓跑这些动物们。等经过了这一段密林爬升，我们便来到了相对平缓的苔原了。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliHighwayTrailHikeBack.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliHighwayTrailHikeBack.jpg)
 
 苔原（Tundra）是北极圈内特有的，因为地表25cm 到90cm以下都是冻土层，所以没有树木能生长，只有有低矮的苔藓，地衣之类的植被贴地生长。而且有罕见蚊虫，小动物。路上我们还看到了若干种小的果子，能吃，我们尝了一些，基本都是酸的。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliHighwayTrailHikeCheckBerries.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliHighwayTrailHikeCheckBerries.jpg)
 
 向导还带我们认识了不少植物，当然不少我都忘记了。除了这种在阿拉斯加很常见的Fireweed。我们其实一路已经见到它很多次了。这种植物在当地会被用来做添加物到饮料，果冻，蜂蜜和冰淇凌里。此外当地人用开花时令预测冬天来临。当他花开完的时候，第一场雪就不远了。
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/Fireweed.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/Fireweed.jpg)
 
 除了植物，我们见到了moose和calibou的粪便（都不是新鲜的屎，动物们早就走远了，偶遇可能性小）。
 
 一路上都是阴天，中间短暂的飘了一点点雨。气温适中，有些微风。我们爬到过了两三个小山峰，时间便已不知不觉过去了两个钟头，该考虑折返了。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliHighwayTrailHike.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliHighwayTrailHike.jpg)
 
 我们于是在山头席地而坐，望着远处不知名字的山头午餐。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliHighwayTrailPanaroma.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliHighwayTrailPanaroma.jpg)
 午饭后当我们原路返回，若不是有向导，我还真是不认得回去的路。
 
 夏季走野外需要做好防熊的准备，向导替我们带了防熊喷雾，这个大家如果自己走的话一定记得准备好，当地超市就有得卖。另外就是蚊虫很多，而且似乎非常喜欢我们这种外国人的血，所以大家最好准备好防虫措施，物理的化学的都好。
@@ -316,10 +316,10 @@ Denali公园内即使夏季进山的公路也是不能私人车辆进入的。�
 
 带我们探索冻土层的导游Justin，和妻子在2002年来到阿拉斯加，定居在距离Denali国家公园15迈的一个小镇。他们两口子原本是在全国各地的国家公园工作，在一个地方呆上一阵子，就换换，已经游历了不少地方。他说在第一次来到Denali，就爱上了这里，哪怕生活艰苦，也要克服困难留在这里。我问起Justin在这里这么久，有没有爬过Denali，他说确实有两次成功登Denali主峰，他说明年春天再去尝试一次。他说登顶也并不全是自己爱好，他也做登顶的向导，但比较谨慎，一来准备时间很长，二来开销也大，并且有太多的不确定性，风险很高，几乎每年都有人遇难。谈起在这里的生活，Justin说，在旅游季，他卖力工作四个月，赚够一年所需。然后在非旅游季，靠写作、修家具等零工为生，同时和妻子经营airbnb。他的妻子是个作家，最近刚出版了一本新西兰徒步旅行的记录叫 [*between each step*](https://www.amazon.com/Between-Each-Step-Married-Zealands/dp/1649219032)。
 Denali的冬天这么漫长，小镇又几乎是死城，他们的冬天怎么过呢？Justin说确实冬天是很难过的，他们住的地方没有上下水和电网，所以他们一切都需要自己想办法。洗衣，洗澡，甚至上厕所都是一件非常困难的事情。因为我问到，Justin特意带我们顺路去了一个当地的加油站。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliGasStationWithLaundry.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliGasStationWithLaundry.jpg)
 这个加油站背后有完善的洗澡和洗衣设施。这种加油站在冬天不仅是杂货店，更是冬天当地人来洗衣洗澡的地方。
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliGasStationLaundry.jpg)
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska2022/DenaliGasStationShower.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliGasStationLaundry.jpg)
+![](https://www.buffalo.edu/~chaozheh/blog/images/Alaska2022/DenaliGasStationShower.jpg)
 冬天固然漫长安静，但是在漫长的安静的日子里，似乎也能收获更多的思考吧？或者至少夏天赚钱的动力会更足些吧。。
 由衷的敬佩这些亲近自然的勇敢的人们。
 
