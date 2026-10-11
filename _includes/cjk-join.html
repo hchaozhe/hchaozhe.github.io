@@ -1,0 +1,7 @@
+{% comment %}
+  Posts keep one sentence per line (scripts/sentence-lines.rb). In HTML a line
+  break renders as a space, which shows up as a stray gap after Chinese
+  punctuation, so drop the line break after 。！？ and closing quotes/brackets.
+  Usage: {% include cjk-join.html html=some_html %}
+{% endcomment %}{% capture nl %}
+{% endcapture %}{% assign html = include.html %}{% assign enders = "。|！|？|”|’|」|』|）|》" | split: "|" %}{% for e in enders %}{% assign from = e | append: nl %}{% assign html = html | replace: from, e %}{% endfor %}{{ html }}

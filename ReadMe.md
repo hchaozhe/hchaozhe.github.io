@@ -31,6 +31,24 @@ bundle install
 
 Changes to `_config.yml` need a restart (Ctrl+C, then run again).
 
+### Writing posts: one sentence per line
+
+In `_posts/`, each sentence goes on its own line: a line ends if and only if a sentence
+ends (`。！？`, or `. ! ?` in English). Leave a blank line between paragraphs as usual.
+Lists, headings, tables, quotes, code and HTML are left alone. The layouts drop the
+line breaks after Chinese punctuation, so the rendered page has no stray spaces.
+
+```sh
+ruby scripts/sentence-lines.rb           # reformat all posts
+ruby scripts/sentence-lines.rb --check   # only report posts that need it
+```
+
+A pre-commit hook rejects posts that break the rule. Enable it once per clone:
+
+```sh
+git config core.hooksPath scripts/hooks
+```
+
 ### Publish
 
 Preview the site, then commit and push to `master`. GitHub Pages rebuilds the site automatically.

@@ -1,0 +1,17 @@
+#!/bin/sh
+# Block commits whose posts aren't one sentence per line.
+# Enable once per clone:  git config core.hooksPath scripts/hooks
+set --
+while IFS= read -r f; do
+  set -- "$@" "$f"
+done <<LIST
+$(git diff --cached --name-only --diff-filter=ACMR -- '_posts/*.md' '_posts/*.markdown')
+LIST
+[ -z "$1" ] && exit 0
+
+if ! ruby scripts/sentence-lines.rb --check "$@"; then
+  echo
+  echo "Fix with:  ruby scripts/sentence-lines.rb   then re-add the files."
+  echo "(Skip once with: git commit --no-verify)"
+  exit 1
+fi

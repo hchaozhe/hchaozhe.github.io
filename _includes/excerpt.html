@@ -10,7 +10,7 @@
   {% for chunk in chunks %}
     {% unless chunk contains '<h1' or chunk contains '<h2' or chunk contains '<h3' %}
       {% assign text = chunk | strip_html | strip %}
-      {% if text != '' %}<p>{{ text }}</p>{% endif %}
+      {% if text != '' %}<p>{% include cjk-join.html html=text %}</p>{% endif %}
     {% endunless %}
   {% endfor %}
 {% else %}
