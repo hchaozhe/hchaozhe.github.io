@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+# Same Jekyll + plugin versions GitHub Pages uses to build the live site,
+# so the local preview matches production.
+# Includes jekyll-sitemap, jekyll-paginate and jemoji (listed in _config.yml).
+gem "github-pages", group: :jekyll_plugins
 
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-paginate"
-  gem "jemoji"
-end
+# Local preview server (no longer bundled with Ruby 3+)
+gem "webrick", "~> 1.8"
 
-gem "webrick", "~> 1.7"
+# Windows needs timezone data; macOS/Linux ignore this line
+gem "tzinfo-data", platforms: [:mingw, :x64_mingw, :mswin]
