@@ -1,0 +1,18 @@
+{% comment %}
+  Home-page preview of a post: the text before <!-- more --> (excerpt_separator),
+  as plain paragraphs. Headings (usually a repeat of the title) and images are dropped.
+  Posts without the marker fall back to the first 15 words.
+{% endcomment %}
+{% if include.post.content contains site.excerpt_separator %}
+  {% assign chunks = include.post.excerpt
+     | replace: '</h1>', '</p>' | replace: '</h2>', '</p>' | replace: '</h3>', '</p>'
+     | split: '</p>' %}
+  {% for chunk in chunks %}
+    {% unless chunk contains '<h1' or chunk contains '<h2' or chunk contains '<h3' %}
+      {% assign text = chunk | strip_html | strip %}
+      {% if text != '' %}<p>{{ text }}</p>{% endif %}
+    {% endunless %}
+  {% endfor %}
+{% else %}
+  <p>{{ include.post.content | strip_html | truncatewords: 15 }}</p>
+{% endif %}

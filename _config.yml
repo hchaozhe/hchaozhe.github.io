@@ -24,6 +24,7 @@ analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
+excerpt_separator: "<!-- more -->" # home page shows each post up to this marker
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
@@ -32,4 +33,16 @@ plugins:
 paginate: 6
 paginate_path: "/page/:num"
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude:
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+  - yarn.lock
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - ReadMe.md
+  - LICENSE
+  - scripts
+  - assets/css/scss
